@@ -97,7 +97,7 @@
 				<p class="text-center font-weight-bold">木下紫乃 氏</p>
 				<div class="">
 					<p class="fs-small">昭和女子大学キャリアカレッジ 事務局次長</p>
-					
+
 				</div>
 			</div>
 			<div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3">
