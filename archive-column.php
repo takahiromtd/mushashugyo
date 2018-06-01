@@ -6,7 +6,7 @@ Template Name: archive-column.php
 <?php get_header(); ?>
 <div class="jumbotron">
 	<h2 class="text-center font-weight-bold">参加者の体験談</h2>
-	<p class="text-center">武者修行®に参加した方の生の声をお届け</p>
+	<p class="text-center">武者修行®に参加した方の生の声を御覧ください</p>
 </div>
 <div id="archive-column" class="container pt-5 pb-5">
 	<!-- <h3 class="text-center">カテゴリ的な導線？最初に読んでもらいたい体験談</h3> -->
