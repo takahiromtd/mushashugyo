@@ -1,0 +1,264 @@
+/*
+Theme Name: v7
+Description: 2018年度の更新版
+Version: 1.0
+*/
+
+/*-------------------------------------------------------*/
+/*edit later*/
+/*-------------------------------------------------------*/
+@media (max-width: 576px) {
+	.fs-small{ font-size: 1.2rem!important; }
+	.carousel-control-prev, .carousel-control-next{ width: 10%; }
+	.kiji p{ font-size: 1.2rem!important; }
+	.nf-field-label{ font-size: 1.6rem; }/*ninja-forms*/
+	.ninja-forms-field{ font-size: 1.6rem; padding: 10px 10px; }/*ninja-forms*/
+	.nf-error-msg{ font-size: 1.2rem; padding: 10px 10px; }/*ninja-forms*/
+	#nf-field-112-wrap ul li { font-size: 1.6rem!important; float: left; padding-left: 8px!important; }
+	.nf-select-40{ height: 55px!important; border-radius: 0px;}
+	.nf-btn{ width:100%!important; background: #222; color: #fff; }
+	#privacy h1, #news h1{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h2, #news h2{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h3, #news h3{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h4, #news h4{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h5, #news h5{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy h6, #news h6{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy p, #news p{ font-size: 1.4rem!important; }
+	#about ul li, #ex ul li, #privacy ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#single-news ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#archive-column h5{ font-size: 1.6rem!important; padding: 12px 0px!important; margin: 0px;}
+	#single-column h5{ padding: 0px!important; margin: 0px;}
+	#about table td{ padding: 20px 20px!important; }
+	#company table td{ padding: 20px 10px!important; }
+	#index-schedule table td{ padding: 10px 0px!important; font-weight:bold; letter-spacing: 0.2rem;}
+	#sche{ padding-top: 5px!important; padding-bottom: 10px!important;}
+	#sche table tr th{ width: 60px!important; padding: 5px 2px 4px 2px!important; text-align: center; }
+	#sche table tr td{ width: 60px!important; padding: 5px 4px 4px 4px!important; }
+	#single-column tr td{ font-size: 1.6rem!important; border: none; }
+	footer li, footer p{ font-size: 1.2rem!important; }
+}
+@media (min-width: 576px) {
+	.fs-small{ font-size: 1.2rem!important; }
+	.carousel-control-prev, .carousel-control-next{ width: 10%; }
+	.kiji p{ font-size: 1.2rem!important; }
+	.nf-field-label{ font-size: 1.6rem; }/*ninja-forms*/
+	.ninja-forms-field{ font-size: 1.6rem; padding: 10px 10px; }/*ninja-forms*/
+	.nf-error-msg{ font-size: 1.2rem; padding: 10px 10px; }/*ninja-forms*/
+	#nf-field-112-wrap ul li {  font-size: 1.6rem!important; float: left; padding-left: 8px!important; }
+	.nf-select-40{ height: 55px!important; border-radius: 0px;}
+	.nf-btn{ width:100%!important; background: #222; color: #fff; }
+	#privacy h1, #news h1{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h2, #news h2{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h3, #news h3{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h4, #news h4{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h5, #news h5{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy h6, #news h6{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy p, #news p{ font-size: 1.4rem!important; }
+	#about ul li, #ex ul li, #privacy ul li, #news ul li{ list-style-type: disc!important; margin-top: 0px; margin-left: 15px;}
+	#single-news ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#archive-column h5 .card-title{  }
+	#archive-column h5{ font-size: 1.6rem!important; padding: 12px 0px!important; margin: 0px;}
+	#single-column h5{ padding: 0px!important; margin: 0px;}
+	#about table td{ padding: 20px 20px!important; }
+	#company table td{ padding: 20px 10px!important; }
+	#index-schedule table td{ padding: 10px 0px!important; font-weight:bold; letter-spacing: 0.2rem;}
+	#sche{ padding-top: 30px!important; padding-bottom: 10px!important;}
+	#sche table tr th{ width: 60px!important; padding: 6px 2px 6px 2px!important; text-align: center; }
+	#sche table tr td{ width: 60px!important; padding: 6px 4px 6px 4px!important; }
+	#single-column tr td{ font-size: 1.6rem!important; border: none; }
+	footer li, footer p{ font-size: 1.2rem!important; }
+}
+@media (min-width: 768px) {
+	.fs-small{ font-size: 1.2rem!important; }
+	.carousel-control-prev, .carousel-control-next{ width: 15%; }
+	.kiji p{ font-size: 1.2rem!important; }
+	header ul li:hover{ border-bottom: solid 1px #ccc; margin-bottom: 7px; }
+	.nf-field-label{ font-size: 2.0rem; }/*ninja-forms*/
+	.ninja-forms-field{ font-size: 2.0rem; padding: 10px 10px; }/*ninja-forms*/
+	.nf-error-msg{ font-size: 1.6rem; padding: 10px 10px; }/*ninja-forms*/
+	#nf-field-112-wrap ul li {  font-size: 1.6rem!important; float: left; padding-left: 8px!important; }
+	.nf-select-40{ height: 55px!important; border-radius: 0px;}
+	.nf-btn{ width:100%!important; background: #222; color: #fff; }
+	#privacy h1, #news h1{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h2, #news h2{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h3, #news h3{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h4, #news h4{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h5, #news h5{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy h6, #news h6{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy p, #news p{ font-size: 1.4rem!important; }
+	#about ul li, #ex ul li, #privacy ul li, #news ul li{ list-style-type: disc!important; margin-top: 0px; margin-left: 15px;}
+	#single-news ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#archive-column h5{ font-size: 1.6rem!important; padding: 12px 0px!important; margin: 0px;}
+	#single-column h5{ padding: 0px!important; margin: 0px;}
+	#about table td{ padding: 20px 20px!important; }
+	#company table td{ padding: 20px 30px!important; }
+	#index-schedule table td{ padding: 15px 30px!important; font-weight:bold; letter-spacing: 0.3rem;}
+	section #sche{  }
+	#sche table tr th{ width: 70px!important; }
+	#sche table tr td{ padding: 12px 6px!important;}
+	#single-column tr td{ font-size: 1.6rem!important; border: none; }
+	footer li, footer p{ font-size: 1.4rem!important; }
+}
+@media (min-width: 992px) {
+	.fs-small{ font-size: 1.2rem!important; }
+	.carousel-control-prev, .carousel-control-next{ width: 15%; }
+	.kiji p{ font-size: 1.2rem!important; }
+	header ul li:hover{ border-bottom: solid 1px #ccc; margin-bottom: 7px; }
+	.nf-field-label{ font-size: 2.0rem; }/*ninja-forms*/
+	.ninja-forms-field{ font-size: 2.0rem; padding: 10px 10px; }/*ninja-forms*/
+	.nf-error-msg{ font-size: 1.6rem; padding: 10px 10px; }/*ninja-forms*/
+	#nf-field-112-wrap ul li {  font-size: 2.0rem!important; float: left; padding-left: 8px!important; }
+	.nf-select-40{ height: 55px!important; border-radius: 0px;}
+	.nf-btn{ width:100%!important; background: #222; color: #fff; }
+	#privacy h1, #news h1{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h2, #news h2{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h3, #news h3{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h4, #news h4{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h5, #news h5{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy h6, #news h6{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy p, #news p{ font-size: 1.4rem!important; }
+	#about ul li, #ex ul li, #privacy ul li, #news ul li{ list-style-type: disc!important; margin-top: 0px; margin-left: 15px;}
+	#single-news ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#archive-column h5{ font-size: 1.6rem!important; padding: 12px 0px!important; margin: 0px;}
+	#single-column h5{ padding: 0px!important; margin: 0px;}
+	#about table td{ padding: 20px 20px!important; }
+	#company table td{ padding: 20px 30px!important; }
+	#index-schedule table td{ padding: 15px 30px!important; font-weight:bold; letter-spacing: 0.3rem;}
+	section #sche{  }
+	#sche table tr th{ width: 70px!important; }
+	#sche table tr td{ padding: 12px 6px!important;}
+	#single-column tr td{ font-size: 1.6rem!important; border: none; }
+	footer li, footer p{ font-size: 1.4rem!important; }
+}
+@media (min-width: 1200px) {
+	.fs-small{ font-size: 1.2rem!important; }
+	.carousel-control-prev, .carousel-control-next{ width: 15%; }
+	.kiji p{ font-size: 1.2rem!important; }
+	header ul li:hover{ border-bottom: solid 1px #ccc; margin-bottom: 7px; }
+	.nf-field-label{ font-size: 2.0rem; }/*ninja-forms*/
+	.ninja-forms-field{ font-size: 2.0rem; padding: 10px 10px; }/*ninja-forms*/
+	.nf-error-msg{ font-size: 1.6rem; padding: 10px 10px; }/*ninja-forms*/
+	#nf-field-112-wrap ul li {  font-size: 2.0rem!important; float: left; padding-left: 8px!important; }
+	.nf-select-40{ height: 55px!important; border-radius: 0px;}
+	.nf-btn{ width:100%!important; background: #222; color: #fff; }
+	#privacy h1, #news h1{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h2, #news h2{ font-size: 2.0rem!important; padding: 10px 0px; }
+	#privacy h3, #news h3{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h4, #news h4{ font-size: 1.8rem!important; padding: 10px 0px; }
+	#privacy h5, #news h5{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy h6, #news h6{ font-size: 1.6rem!important; padding: 10px 0px; }
+	#privacy p, #news p{ font-size: 1.4rem!important; }
+	#about ul li, #ex ul li, #privacy ul li, #news ul li{ list-style-type: disc!important; margin-top: 0px; margin-left: 15px;}
+	#single-news ul li, #news ul li{ list-style-type: disc!important; margin-left: 15px; }
+	#archive-column h5{ font-size: 1.6rem!important; padding: 12px 0px!important; margin: 0px;}
+	#single-column h5{ padding: 0px!important; margin: 0px;}
+	#about table td{ padding: 20px 20px!important; }
+	#company table td{ padding: 20px 30px!important; }
+	#index-schedule table td{ padding: 15px 30px!important; font-weight:bold; letter-spacing: 0.3rem;}
+	section #sche{  }
+	#sche table tr th{ width: 70px!important; }
+	#sche table tr td{ padding: 12px 8px!important;}
+	#single-column tr td{ font-size: 1.6rem!important; border: none; }
+	footer li, footer p{ font-size: 1.4rem!important; }
+}
+/*-------------------------------------------------------*/
+.jumbotron{
+	background-image: url("hypnotize.png");
+}
+
+.sub-btn{
+	width: 100%!important;
+	background: #dc3545; /*4cae4c*/
+	border-color: #dc3545;
+	padding: 16px 0px;
+	color: #fff;
+}
+.btn-sharp{
+	border-radius: 0px;
+}
+.btn-round{
+	border-radius: 50px;
+}
+.header-btn{
+	padding: 15px;
+}
+.heade-btn-round{
+	padding: 10px 20px!important;
+}
+.card-btn{
+	padding: 15px 20px;
+}
+.btn-outline-danger{
+	border-radius: 0px;
+	padding: 18px 50px;
+}
+.carousel-caption{
+	bottom: 10%!important;;
+	right: 10%!important;
+	left: 10%!important;
+}
+.carousel-btn-area{
+	max-width: 420px;
+}
+.carousel-btn{
+	padding: 15px 20px;
+	font-weight: bold;
+}
+.btn-shadow{
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+}
+#sche .nav{
+	border: none;
+	display: table;
+}
+.kiji{
+	box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+	transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+	&:hover {
+		box-shadow: 0px 11px 15px -7px rgba(0, 0, 0, 0.2), 0px 24px 38px 3px rgba(0, 0, 0, 0.14), 0px 9px 46px 8px rgba(0, 0, 0, 0.12);
+	}
+}
+.triangle{
+	display: block;
+	width: 0;
+	height: 0;
+	margin: 0 auto -20px;
+	border-top: 40px solid #f8f9fa; /*#f8f9fa*/
+	border-right: 40px solid transparent;
+	border-bottom: 40px solid transparent;
+	border-left: 40px solid transparent;
+}
+.footerinfo{
+	font-size: 1.2rem!important;
+	letter-spacing: 0.1rem;
+	line-height: 2.2rem;
+}
+
+#index-schedule table{
+	max-width: 960px;
+	font-weight: bold;
+}
+#index-schedule table td{
+	text-align: center;
+}
+#index-schedule table{
+	max-width: 960px;
+}
+#company table{
+	max-width: 960px;
+}
+
+.qa-topic{
+	padding-bottom: 20px;
+	border-bottom: solid 1px #f8f9fa;
+}
+.news-list{
+	padding: 10px 0px;
+	border-bottom: solid 1px #eeeeee;
+}
+footer li a{
+	color: #fff;
+}
+footer li a:hover{
+	color: #eee;
+}

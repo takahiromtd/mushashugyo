@@ -1,0 +1,275 @@
+/*
+Description: 共通パーツのCSS
+*/
+html{
+  font-size: 62.5%;
+}
+body{
+  font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ ゴシック", "Osaka", sans-serif;
+  color: #2a4557;
+  padding-top: 65px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+a{
+}
+.ovflh-box{
+  overflow: hidden;
+}
+.mw960{
+  max-width: 960px;
+}
+.mw720{
+  max-width: 720px;
+}
+.mw480{
+  max-width: 480px;
+}
+.w-15{
+  width: 15%;
+}
+.w-70{
+ width: 70%; 
+}
+.text-yellow{
+  color: #fc3;
+}
+#nf-field-1116-wrap .nf-field-element{
+  width: 30px;
+  padding-top: 6px;
+}
+#nf-field-1116-wrap .nf-field-description{
+   width: 85%; 
+}
+/*over write bootstrap4*/
+
+/*hoverが効いていない
+.text-red{
+  color: #be3e1f!important;
+}
+.btn-danger{
+  background-color: #be3e1f!important;
+}
+.btn-outline-danger{
+  color: #be3e1f!important;
+  border-color: #be3e1f!important;
+}
+*/
+/* / over write bootstrap4*/
+.search-placeholder{
+  font-size: 2rem;
+}
+.input-group,.form-control{
+  border-radius: 0px;
+}
+.pagenation{
+  width: 300px;
+}
+.page-numbers{
+  font-size: 1.6rem;
+  padding: 5px 8px;
+}
+.carouesl-caption-text{
+  line-height: 5.0rem!important;
+}
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+  hedder-padding{ padding: 20px 0px!important; }
+  section{ padding-top: 20px; padding-bottom: 16px; overflow: hidden; }
+  .jumbotron{ padding: 2rem 1rem!important; margin-bottom: 0rem!important;}
+  h1{ font-size: 2.2rem!important; padding: 28px 0px; line-height: 2.8rem }
+  h2{ font-size: 2.0rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h3{ font-size: 1.8rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h4{ font-size: 1.6rem!important; padding: 10px 0px; line-height: 2.8rem }
+  h5{ font-size: 1.4rem!important; padding: 10px 0px; line-height: 2.8rem }
+  h6{ font-size: 1.2rem!important; padding: 10px 0px; line-height: 2.8rem }
+  p{ font-size: 1.6rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; line-height: 2.8rem}
+  a{ color: #2a4557; }
+  a:hover{ color: #2a4557; }
+  .navigation-btn{ padding: 60px 0px 60px; font-size: 1.4rem!important;}
+  .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 10px;}
+  #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
+  button{ font-size: 1.4rem!important; }
+  ul{ font-size: 1.2rem!important; padding-left: 0px;}
+  ol{ font-size: 1.2rem!important; padding-left: 0px; list-style: none;}
+  li{ font-size: 1.2rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; list-style: none;}
+  td,th{font-size: 1.4rem!important; padding: 12px 8px 12px!important; margin: 8px 0px 4px; }
+  .rowspan{ padding: 12px 8px 12px!important; }
+  .table td, .table th{ font-size: 1.0rem!important; padding: 3px 4px 3px 4px!important; }
+  .header-logo{ width: 240px; }
+  .tk-ro-nikkatsu-sei-kai-std{ text-shadow: 1px 1px 4px #222; font-size: 2.2rem!important; }
+  .table-border-bottom-r{ border-bottom: solid 1px #dee2e6 ; }
+  .table-border-bottom-l{ border-bottom: solid 0px #dee2e6 ; }
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+  header-padding{ padding: 20px 0px!important; }
+  section{ padding-top: 20px; padding-bottom: 16px; overflow: hidden; }
+  .jumbotron{ padding: 2rem 1rem!important; margin-bottom: 0rem!important;}
+  h1{ font-size: 2.4rem!important; padding: 28px 0px; line-height: 2.8rem }
+  h2{ font-size: 2.2rem!important; padding: 16px 0px; line-height: 2.8rem }
+  h3{ font-size: 2.0rem!important; padding: 16px 0px; line-height: 2.8rem }
+  h4{ font-size: 1.8rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h5{ font-size: 1.6rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h6{ font-size: 1.4rem!important; padding: 12px 0px; line-height: 2.8rem }
+  p{ font-size: 1.6rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; line-height: 2.8rem}
+  a{ color: #2a4557; }
+  a:hover{ color: #2a4557; }
+  .navigation-btn{ padding: 60px 0px 60px; font-size: 1.4rem!important;}
+  .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 10px;}
+  #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
+  button{ font-size: 1.4rem!important; }
+  ul{ font-size: 1.2rem!important; padding-left: 0px;}
+  ol{ font-size: 1.2rem!important; padding-left: 0px; list-style: none;}
+  li{ font-size: 1.2rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; list-style: none;}
+  td,th{font-size: 1.4rem!important; padding: 12px 8px 12px!important; margin: 8px 0px 4px; }
+  .rowspan{ padding: 12px 8px 12px!important; }
+  .table td, .table th{ font-size: 1.2rem!important; padding: 3px 4px 3px 4px!important; }
+  .header-logo{ width: 240px; }
+  .tk-ro-nikkatsu-sei-kai-std{ text-shadow: 1px 1px 4px #222; font-size: 3.2rem!important; }
+  .table-border-bottom-r{ border-bottom: solid 1px #dee2e6 ; }
+  .table-border-bottom-l{ border-bottom: solid 0px #dee2e6 ; }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+  hedder-padding{ padding: 20px 0px!important; }
+  section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
+  .jumbotron{ padding: 2rem 1rem!important; margin-bottom: 0rem!important;}
+  h1{ font-size: 2.6rem!important; padding: 28px 0px; line-height: 4.0rem }
+  h2{ font-size: 2.4rem!important; padding: 16px 0px; line-height: 4.0rem }
+  h3{ font-size: 2.0rem!important; padding: 16px 0px; line-height: 4.0rem }
+  h4{ font-size: 1.8rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h5{ font-size: 1.6rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h6{ font-size: 1.4rem!important; padding: 12px 0px; line-height: 2.8rem }
+  p{ font-size: 1.6rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; line-height: 2.8rem}
+  a{ color: #2a4557; }
+  a:hover{ color: #2a4557; }
+  .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
+  .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
+  button{ font-size: 1.6rem!important; }
+  ul{ font-size: 1.4rem!important; padding-left: 0px;}
+  ol{ font-size: 1.4rem!important; padding-left: 0px; list-style: none;}
+  li{ font-size: 1.4rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; list-style: none;}
+  td,th{font-size: 1.6rem!important; padding: 12px 8px 12px!important; margin: 8px 0px 4px; }
+  .rowspan{ padding: 12px 8px 12px!important; }
+  .table td, .table th{ font-size: 1.6rem!important; padding: 12px 4px 12px!important; margin: 8px 0px 4px; }
+  .header-logo{ width: 240px; }
+  .tk-ro-nikkatsu-sei-kai-std{ text-shadow: 1px 1px 4px #222; font-size: 4.0rem!important; }
+  .table-border-bottom-r{ border-bottom: solid 1px #dee2e6 ; }
+  .table-border-bottom-l{ border-bottom: solid 0px #dee2e6 ; }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  hedder-padding{ padding: 20px 0px!important; }
+  section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
+  .jumbotron{ padding: 2rem 1rem!important; margin-bottom: 0rem!important;}
+  h1{ font-size: 2.6rem!important; padding: 28px 0px; line-height: 4.0rem }
+  h2{ font-size: 2.4rem!important; padding: 16px 0px; line-height: 4.0rem }
+  h3{ font-size: 2.0rem!important; padding: 16px 0px; line-height: 4.0rem }
+  h4{ font-size: 1.8rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h5{ font-size: 1.6rem!important; padding: 12px 0px; line-height: 2.8rem }
+  h6{ font-size: 1.4rem!important; padding: 12px 0px; line-height: 2.8rem }
+  p{ font-size: 1.6rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; line-height: 2.8rem}
+  a{ color: #2a4557; }
+  a:hover{ color: #2a4557; }
+  article{ margin-right: 30px; }
+  .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
+  .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  #search-form .btn{ font-size: 2.0rem; padding: 15px 30px}
+  button{ font-size: 1.6rem!important; }
+  ul{ font-size: 1.4rem!important; padding-left: 0px;}
+  ol{ font-size: 1.4rem!important; padding-left: 0px; list-style: none;}
+  li{ font-size: 1.4rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; list-style: none;}
+  td,th{font-size: 1.6rem!important; padding: 12px 8px 12px!important; margin: 8px 0px 4px; }
+  .rowspan{ padding: 12px 8px 12px!important; }
+  .table td, .table th{ font-size: 1.6rem!important; padding: 12px 4px 12px!important; margin: 8px 0px 4px; }
+  .header-logo{ width: 240px; }
+  .tk-ro-nikkatsu-sei-kai-std{ text-shadow: 1px 1px 4px #222; font-size: 4.0rem!important; }
+  .table-border-bottom-r{ border-bottom: solid 1px #dee2e6 ; }
+  .table-border-bottom-l{ border-bottom: solid 1px #dee2e6 ; }
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+  hedder-padding{ padding: 20px 0px!important; }
+  section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
+  .jumbotron{ padding: 2rem 1rem!important; margin-bottom: 0rem!important;}
+  h1{ font-size: 2.8rem!important; padding: 14px 0px; line-height: 4.0rem }
+  h2{ font-size: 2.6rem!important; padding: 14px 0px; line-height: 4.0rem }
+  h3{ font-size: 2.2rem!important; padding: 14px 0px; line-height: 4.0rem }
+  h4{ font-size: 2.0rem!important; padding: 14px 0px; line-height: 2.8rem }
+  h5{ font-size: 1.8rem!important; padding: 14px 0px; line-height: 2.8rem }
+  h6{ font-size: 1.6rem!important; padding: 14px 0px; line-height: 2.8rem }
+  p{ font-size: 1.6rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; line-height: 2.8rem}
+  a{ color: #2a4557; }
+  a:hover{ color: #2a4557; }
+  article{ margin-right: 30px; }
+  .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
+  .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
+  button{ font-size: 1.6rem!important; }
+  ul{ font-size: 1.4rem!important; padding-left: 0px;}
+  ol{ font-size: 1.4rem!important; padding-left: 0px; list-style: none;}
+  li{ font-size: 1.4rem!important; padding: 0px 0px 0px; margin: 8px 0px 8px; list-style: none;}
+  td,th{font-size: 1.6rem!important; padding: 12px 8px 12px!important; margin: 8px 0px 4px; }
+  .rowspan{ padding: 12px 8px 12px!important; }
+  .table td, .table th{ font-size: 1.6rem!important; padding: 12px 4px 12px!important; margin: 8px 0px 4px; }
+  .header-logo{ width: 200px; }
+  .tk-ro-nikkatsu-sei-kai-std{ text-shadow: 1px 1px 4px #222; font-size: 4.0rem!important; }
+  .table-border-bottom-r{ border-bottom: solid 1px #dee2e6 ; }
+  .table-border-bottom-l{ border-bottom: solid 1px #dee2e6 ; }
+}
+.column-filter{
+  padding: 8px 20px;
+  margin-right: 6px;
+  margin-bottom: 10px;
+}
+.mix-container {
+  padding:2%;
+  text-align:justify;
+}
+
+.mix-container .mix,
+.mix-container .gap {
+  display:inline-block;
+  width:49%;
+}
+
+#mix-container .mix {
+  display:none;
+}
+
+.slick-slide-img img{
+  border: #fff solid 5px;
+}
+
+.navigation-left{
+  border-top: 2px solid #fff;
+  border-right: 1px solid #fff;
+  border-left: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  padding: 0px;
+  float: left;
+}
+.navigation-right{
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  border-left: 1px solid #fff;
+  border-bottom: 2px solid #fff;
+  padding: 0px;
+  float: left;
+}
+.navigation-bottom{
+  border-top: 1px solid #fff;
+  border-right: 2px solid #fff;
+  border-left: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  padding: 0px;
+}
