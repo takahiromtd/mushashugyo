@@ -63,7 +63,7 @@ Version: 1.0
 	#company table td{ padding: 20px 10px!important; }
 	#index-schedule table td{ padding: 10px 0px!important; font-weight:bold; letter-spacing: 0.2rem;}
 	#sche{ padding-top: 30px!important; padding-bottom: 10px!important;}
-	#sche table tr th{ width: 60px!important; padding: 6px 2px 6px 2px!important; text-align: center; }
+	#sche table tr th{ width: 60px!important; text-align: center; }
 	#sche table tr td{ width: 60px!important; padding: 6px 4px 6px 4px!important; }
 	#single-column tr td{ font-size: 1.6rem!important; border: none; }
 	footer li, footer p{ font-size: 1.2rem!important; }
