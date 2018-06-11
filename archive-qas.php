@@ -88,7 +88,9 @@ Template Name: archive-qas.php
 	</section>
 </div>
 <div class="container pt-5 pb-5">
-<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<?php $paged = get_query_var('paged');
+		query_posts($query_string . '&posts_per_page=100&paged=' . $paged);
+		if (have_posts()) : while (have_posts()) : the_post(); ?>
 		<p><?php the_permalink(); ?> <?php echo mb_substr($post->post_title, 0); ?></p>
 <?php endwhile; endif; ?>
 </div>
