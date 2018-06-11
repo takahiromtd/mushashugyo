@@ -12,21 +12,7 @@ Template Name: archive-qas.php
 	<section id="qas" class="mw980 mx-auto d-block">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-				<h3>運営会社旅武者について</h3>
-				<ul>
-					<li><a href="/qas/event-entry/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
-					<li><a href="/qas/event-entry/2">武者修行プログラムは何年間行っているものですか？</a></li>
-				</ul>
-			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" >
-				<h3>プログラム説明会について</h3>
-				<ul>
-					<li><a href="/qas/event-entry/3">プログラム説明会の参加日程の変更はできますか？</a></li>
-					<li><a href="/qas/event-entry/4">海外留学中ですがプログラムの説明を受けることはできますか？</a></li>
-				</ul>
-			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-				<h3>プログラム内容について</h3>
+				<h3 class="font-weight-bold"><b>プログラム内容について</b></h3>
 				<ul>
 					<li><a href="/qas/event-entry/6">就職活動を終えた4年生でも参加できますでしょうか？</a></li>
 					<li><a href="/qas/event-entry/10">なぜ海外で行う必要があるのですか?</a></li>
@@ -57,8 +43,13 @@ Template Name: archive-qas.php
 					<li><a href="/qas/event-entry/54">プログラムには高校生も参加できますか？</a></li>
 				</ul>
 			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-				<h3>渡航・現地生活について</h3>
+			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" >
+				<h3 class="font-weight-bold"><b>プログラム説明会について</b></h3>
+				<ul>
+					<li><a href="/qas/event-entry/3">プログラム説明会の参加日程の変更はできますか？</a></li>
+					<li><a href="/qas/event-entry/4">海外留学中ですがプログラムの説明を受けることはできますか？</a></li>
+				</ul>
+				<h3 class="font-weight-bold"><b>渡航・現地生活について</b></h3>
 				<ul>
 					<li><a href="/qas/event-entry/8">滞在先の治安について教えてください。</a></li>
 					<li><a href="/qas/event-entry/9">現地の滞在先のホテルは安全ですか？</a></li>
@@ -73,9 +64,12 @@ Template Name: archive-qas.php
 					<li><a href="/qas/event-entry/47">PC持参は必須なのでしょうか？</a></li>
 					<li><a href="/qas/event-entry/52">携帯電話は使えますか？</a></li>
 				</ul>
-			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-				<h3>料金・支払い、その他</h3>
+					<h3 class="font-weight-bold"><b>運営会社旅武者について</b></h3>
+					<ul>
+						<li><a href="/qas/event-entry/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
+						<li><a href="/qas/event-entry/2">武者修行プログラムは何年間行っているものですか？</a></li>
+					</ul>
+				<h3 class="font-weight-bold"><b>料金・支払い、その他</b></h3>
 				<ul>
 					<li><a href="/qas/event-entry/1">プログラムに参加にかかる費用はいくらですか？</a></li>
 					<li><a href="/qas/event-entry/1">参加したいのですが、お金の工面が難しいです。</a></li>
