@@ -12,7 +12,12 @@ Template Name: archive-qas.php
 	<section id="qas" class="mw980 mx-auto d-block">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-				<h3 class="font-weight-bold"><b>プログラム内容について</b></h3>
+				<h3 class="font-weight-bold"><b>プログラム説明会について</b></h3>
+				<ul>
+					<li><a href="/qas/event-entry/3">プログラム説明会の参加日程の変更はできますか？</a></li>
+					<li><a href="/qas/event-entry/4">海外留学中ですがプログラムの説明を受けることはできますか？</a></li>
+				</ul>
+				<h3 class="font-weight-bold">プログラム内容について</h3>
 				<ul>
 					<li><a href="/qas/event-entry/6">就職活動を終えた4年生でも参加できますでしょうか？</a></li>
 					<li><a href="/qas/event-entry/10">なぜ海外で行う必要があるのですか?</a></li>
@@ -44,11 +49,6 @@ Template Name: archive-qas.php
 				</ul>
 			</div>
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" >
-				<h3 class="font-weight-bold"><b>プログラム説明会について</b></h3>
-				<ul>
-					<li><a href="/qas/event-entry/3">プログラム説明会の参加日程の変更はできますか？</a></li>
-					<li><a href="/qas/event-entry/4">海外留学中ですがプログラムの説明を受けることはできますか？</a></li>
-				</ul>
 				<h3 class="font-weight-bold"><b>渡航・現地生活について</b></h3>
 				<ul>
 					<li><a href="/qas/event-entry/8">滞在先の治安について教えてください。</a></li>
