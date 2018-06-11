@@ -15,10 +15,10 @@ Template Name: archive-qas.php
 				<h3>運営会社旅武者について</h3>
 				<ul>
 					<li><a href="/qas/event-entry/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
-					<li><a href="/qas/event-entry/2">武者修行プログラム は何年間行っているものですか？</a></li>
+					<li><a href="/qas/event-entry/2">武者修行プログラムは何年間行っているものですか？</a></li>
 				</ul>
 			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" >
 				<h3>プログラム説明会について</h3>
 				<ul>
 					<li><a href="/qas/event-entry/3">プログラム説明会の参加日程の変更はできますか？</a></li>
