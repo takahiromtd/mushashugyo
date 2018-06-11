@@ -64,11 +64,11 @@ Template Name: archive-qas.php
 					<li><a href="/qas/47">PC持参は必須なのでしょうか？</a></li>
 					<li><a href="/qas/52">携帯電話は使えますか？</a></li>
 				</ul>
-					<h3 class="font-weight-bold"><b>運営会社旅武者について</b></h3>
-					<ul>
-						<li><a href="/qas/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
-						<li><a href="/qas/2">武者修行プログラムは何年間行っているものですか？</a></li>
-					</ul>
+				<h3 class="font-weight-bold"><b>運営会社旅武者について</b></h3>
+				<ul>
+					<li><a href="/qas/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
+					<li><a href="/qas/2">武者修行プログラムは何年間行っているものですか？</a></li>
+				</ul>
 				<h3 class="font-weight-bold"><b>料金・支払い、その他</b></h3>
 				<ul>
 					<li><a href="/qas/1">プログラムに参加にかかる費用はいくらですか？</a></li>
@@ -86,6 +86,11 @@ Template Name: archive-qas.php
 			</span>
 		</form>
 	</section>
+</div>
+<div class="container pt-5 pb-5">
+<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<p><?php the_permalink(); ?> <?php echo mb_substr($post->post_title, 0); ?></p>
+<?php endwhile; endif; ?>
 </div>
 <?php get_template_part('footer-entry'); ?>
 <?php get_footer(); ?>
