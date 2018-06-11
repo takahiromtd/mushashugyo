@@ -7,7 +7,7 @@ Template Name: search.php
 <?php global $wp_query; $total_results = $wp_query->found_posts; $search_query = get_search_query(); ?>
 <div class="jumbotron">
 	<h2 class="text-center"><?php echo $search_query; ?>の検索結果<span>（<?php echo $total_results; ?>件）</span></h2>
-	<p class="text-center">2週間のビジネス経験で『変態』し、『自走式エンジン』を搭載する!</p>
+	<p class="text-center">　　</p>
 </div>
 <div class="container pt-5 pb-5">
 	<section id="search-form">
@@ -24,7 +24,7 @@ Template Name: search.php
 		<div class="row">
 			<script type="text/javascript">$(function() { $('.kiji').matchHeight(); });</script>
 			<?php if( $total_results >0 ): if(have_posts()): while(have_posts()): the_post(); ?>
-				<article class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+				<article class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 					<div class="kiji border p-5 mt-5 mb-5">
 						<h3 class=""><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 						<time><?php the_time("Y/n/j l"); ?></time>
