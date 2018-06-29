@@ -45,7 +45,7 @@
 		<p class="text-center">© Tabimusha, Inc.</p>
 	</div>
 	<?php if ( is_home() || is_front_page() ) : ?>
-		<p id="sp-footer"><a href="/sche" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a></p>
+		<a href="/sche" id="sp-footer" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a>
 		<style>@media (max-width: 576px) {body{ padding-bottom: 56px; }}</style>
 	<?php endif; ?>
 	<?php if ( is_home() || is_front_page() ) : ?>
