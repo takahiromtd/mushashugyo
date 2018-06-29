@@ -93,19 +93,21 @@
 				});
 			});
 		});
-		jQuery(function($) {
-    var footerBtn = $('#sp-footer');
-    footerBtn.hide();
-    //スクロールが100に達したらボタン表示
-    $(window).scroll(function () {
-        if ($(this).scrollTop() > 30) {
-            footerBtn.fadeIn();
-        } else {
-            footerBtn.fadeOut();
-        }
-    });
-});
 	</script>
+	<script type="text/javascript">
+		$(function() {
+	    var footerBtn = $('#sp-footer');
+	    footerBtn.hide();
+	    //スクロールが100に達したらボタン表示
+	    $(window).scroll(function () {
+	        if ($(this).scrollTop() > 100) {
+	            footerBtn.fadeIn();
+	        } else {
+	            footerBtn.fadeOut();
+	        }
+	    });
+	    });
+		</script>
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

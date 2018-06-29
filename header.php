@@ -14,11 +14,11 @@
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/feature.css">
 
 	<script defer src="//use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
-	<script src="//code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="//code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
 	<script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.matchHeight-min.js"></script>
 	<script src="<?php echo get_template_directory_uri(); ?>/js/mixitup.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-	
+
 	<script src="//use.typekit.net/vtq4rbj.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	<title><?php bloginfo('name'); ?></title>
