@@ -17,9 +17,11 @@ Template Name: page-group.php
 		<p>実績:茨城大学、大阪大学、島根大学、都留文科大学、東京大学、同志社大学、兵庫県立大学、
 		福島大学、法政大学、横浜市立大学、立命館大学、龍谷大学、早稲田大学 など</p>
 	</div>
+<div class="pt-5 pb-5">
 	<h3 class="font-weight-bold">企業関係者の方へ</h3>
 	<p>弊社代表 山口による若手社会人向け研修、武者修行プログラムファシリテーターの受け入れ、学生インターン・新卒紹介などをしております。</p>
-<?php echo do_shortcode('[ninja_forms id=14]');?>
+</div>
+<?php echo do_shortcode('[ninja_forms id=1]');?>
 </div>
 <?php get_template_part('footer-navigation'); ?>
 <?php get_template_part('footer-entry'); ?>

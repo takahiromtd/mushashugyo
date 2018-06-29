@@ -45,7 +45,7 @@
 		<p class="text-center">© Tabimusha, Inc.</p>
 	</div>
 	<?php if ( is_home() || is_front_page() ) : ?>
-		<a href="/sche" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a>
+		<p id="sp-footer"><a href="/sche" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a></p>
 		<style>@media (max-width: 576px) {body{ padding-bottom: 56px; }}</style>
 	<?php endif; ?>
 	<?php if ( is_home() || is_front_page() ) : ?>
@@ -93,6 +93,18 @@
 				});
 			});
 		});
+		jQuery(function($) {
+    var footerBtn = $('#sp-footer');
+    footerBtn.hide();
+    //スクロールが100に達したらボタン表示
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 30) {
+            footerBtn.fadeIn();
+        } else {
+            footerBtn.fadeOut();
+        }
+    });
+});
 	</script>
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
