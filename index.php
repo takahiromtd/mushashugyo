@@ -169,142 +169,151 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h3 class="text-center text-danger font-weight-bold">2018年夏の開催スケジュール</h3>
+				<h3 class="text-center text-danger font-weight-bold">2018年年末・2019年春の開催スケジュール</h3>
 				<table class="table table-bordered mx-auto bg-white">
 					<tbody>
 						<tr>
-							<td></td>
-							<td>プログラム初日</td>
-							<td>プログラム最終日</td>
+							<td>年末1ターム</td>
+							<td>12/22(土)</td>
+							<td>&nbsp;1/&nbsp;5(土)</td>
 						</tr>
 						<tr>
-							<td>第1ターム</td>
-							<td>8/&nbsp;4(土)</td>
-							<td>8/18(土)</td>
+							<td>年末2ターム</td>
+							<td>12/23(日)</td>
+							<td>&nbsp;1/&nbsp;6(日)</td>
 						</tr>
 						<tr>
-							<td>第2ターム</td>
-							<td>8/&nbsp;5(日)</td>
-							<td>8/19(日)</td>
+							<td>年末3ターム</td>
+							<td>12/24(月)</td>
+							<td>&nbsp;1/&nbsp;7(月)</td>
 						</tr>
 						<tr>
-							<td>第3ターム</td>
-							<td>8/&nbsp;6(月)</td>
-							<td>8/20(月)</td>
+							<td>年末4ターム</td>
+							<td>12/25(火)</td>
+							<td>&nbsp;1/&nbsp;8(火)</td>
 						</tr>
 						<tr>
-							<td>第4ターム</td>
-							<td>8/&nbsp;7(火)</td>
-							<td>8/21(火)</td>
+							<td>春1ターム</td>
+							<td>&nbsp;2/9(土)</td>
+							<td>&nbsp;2/23(土)</td>
 						</tr>
 						<tr>
-							<td>第5ターム</td>
-							<td>8/17(金)</td>
-							<td>8/31(金)</td>
+							<td>春2ターム</td>
+							<td>&nbsp;2/10(日)</td>
+							<td>&nbsp;2/24(日)</td>
 						</tr>
 						<tr>
-							<td>第6ターム</td>
-							<td>8/18(土)</td>
-							<td>9/&nbsp;1(土)</td>
+							<td>春3ターム</td>
+							<td>&nbsp;2/11(月)</td>
+							<td>&nbsp;2/25(月)</td>
 						</tr>
 						<tr>
-							<td>第7ターム</td>
-							<td>8/19(日)</td>
-							<td>9/&nbsp;2(日)</td>
+							<td>春4ターム</td>
+							<td>&nbsp;2/12(火)</td>
+							<td>&nbsp;2/26(火)</td>
 						</tr>
 						<tr>
-							<td>第8ターム</td>
-							<td>8/20(月)</td>
-							<td>9/&nbsp;3(月)</td>
+							<td>春5ターム</td>
+							<td>&nbsp;2/13(水)</td>
+							<td>&nbsp;2/27(水)</td>
 						</tr>
 						<tr>
-							<td>第9ターム</td>
-							<td>8/30(木)</td>
-							<td>9/13(木)</td>
+							<td>春6ターム</td>
+							<td>&nbsp;2/25(月)</td>
+							<td>&nbsp;3/11(月)</td>
 						</tr>
 						<tr>
-							<td>第10ターム</td>
-							<td>8/31(金)</td>
-							<td>9/14(金)</td>
+							<td>春7ターム</td>
+							<td>&nbsp;2/26(火)</td>
+							<td>&nbsp;3/12(火)</td>
 						</tr>
 						<tr>
-							<td>第11ターム</td>
-							<td>9/&nbsp;1(土)</td>
-							<td>9/15(土)</td>
+							<td>春8ターム</td>
+							<td>&nbsp;2/27(水)</td>
+							<td>&nbsp;3/13(水)</td>
 						</tr>
 						<tr>
-							<td>第12ターム</td>
-							<td>9/&nbsp;2(日)</td>
-							<td>9/16(日)</td>
+							<td>春9ターム</td>
+							<td>&nbsp;2/28(木)</td>
+							<td>&nbsp;3/14(木)</td>
 						</tr>
 						<tr>
-							<td>第13ターム</td>
-							<td>9/12(水)</td>
-							<td>9/26(水)</td>
+							<td>春10ターム</td>
+							<td>&nbsp;3/1(金)</td>
+							<td>&nbsp;3/15(金)</td>
 						</tr>
 						<tr>
-							<td>第14ターム</td>
-							<td>9/13(木)</td>
-							<td>9/27(木)</td>
+							<td>春11ターム</td>
+							<td>&nbsp;3/13(水)</td>
+							<td>&nbsp;3/27(水)</td>
 						</tr>
 						<tr>
-							<td>第15ターム</td>
-							<td>9/14(金)</td>
-							<td>9/28(金)</td>
+							<td>春12ターム</td>
+							<td>&nbsp;3/14(木)</td>
+							<td>&nbsp;3/28(木)</td>
 						</tr>
 						<tr>
-							<td>第16ターム</td>
-							<td>9/15(土)</td>
-							<td>9/29(土)</td>
+							<td>春13ターム</td>
+							<td>&nbsp;3/15(金)</td>
+							<td>&nbsp;3/29(金)</td>
 						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>
-	</div>
-</section>
-<div class="triangle"></div>
-<?php get_template_part('top-entry'); ?>
-<section class="">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h3 class="text-center text-danger font-weight-bold">すべての学生にグローバルで活躍する可能性を</h3>
-				<img class="img-fluid mx-auto d-block kiji mb-5" src="<?php bloginfo('template_directory'); ?>/img/front-kazuya.png" width="800px" alt="代表山口和也">
-				<div class="mw960 mx-auto d-block">
-					<h4 class="text-center font-weight-bold">日本人ビジネスパーソンが世界最弱説</h4>
-					<p>弊社代表の山口和也は、日本企業から米国企業に転職をしました。グローバルを舞台に仕事をしてみて痛切に感じたのが、自身も含めて日本人ビジネスパーソンが世界最弱だということ。多様な文化の中で生きたことがない、英語ができない、自分の意見を言うことができない、外国人の中では25%の力しか出せない！仕事ができない！グローバル化が進む中で、日本人はいったいどうなるのだろうか？このままではいけない！そんな問題意識から、この武者修行プログラムを立ち上げたのです。</p>
-					<h4 class="text-center font-weight-bold">学生のうちにビジネスを一回転させよう</h4>
-					<p>新卒就職活動において『何となくカッコよさそう』『どうせ入社してみないと分からないから』といった、安易な企業や職種の選択によって、最初のキャリアのアンマッチを起こすケースが少なくありません。山口和也もやはりそうした失敗を経験し、学生時代に意味のある就業体験を積むことが大切だと感じたのです。しかし、一般的なアルバイトやインターンでは、ビジネスの一部分しか経験できず、十分とはいえません。武者修行では、ビジネスプランをつくり、カタチにし、お客さまに届け、検証し改善するという、一連のビジネスサイクルを経験できます。ビジネス、職種、仕事をするということについて、より理解を深めることができるのです。</p>
-					<h4 class="text-center font-weight-bold">個の能力だけでは成果は生み出せない</h4>
-					<p>超一流と呼ばれる日本の大学を経て企業へ入っても、優秀だったはずが、全く業績が振るわない…というのはよく耳にする話です。なぜならば、学校の成績は個人の記憶力や分析思考力によって評価される比重が多いのに対し、社会での仕事は人との協働によって成果を生み出していかなければならないからです。しかも、“気の合う友達と”ではありません。私たちは、ビジネスの知識・思考力だけでなく、いかにチームを育むか、リーダーシップを発揮していくかということを学ぶことが、社会で活躍・貢献できる人財になるために必要だと強く感じています。</p>
+						<tr>
+							<td>春14ターム</td>
+							<td>&nbsp;3/16(土)</td>
+							<td>&nbsp;3/30(土)</td>
+						</tr>
+						<tr>
+							<td>春15ターム</td>
+							<td>&nbsp;3/17(日)</td>
+							<td>&nbsp;3/31(日)</td>
+						</tr>					</tbody>
+					</table>
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
-<section class="bg-light">
-	<div class="container">
-		<h3 class="text-center text-danger font-weight-bold">武者修行プログラムのカギ<br>人財育成のプロがきみの変態を支援。</h3>
-		<div class="row">
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-suguru.jpg" width="200" alt="村上卓">
-				<h4 class="text-center font-weight-bold">村上 卓</h4>
-				<div class="pl-2 pr-2"><p>村上卓事務所 代表 / 組織・人財開発コンサルタント<br>米国CTI認定プロコーチ (CPCC)<br>遺伝子研究者からリクルートグループにキャリアチェンジ。その後、人財開発コンサルティング会社にて、数多くの大手企業の人財育成、組織力強化に従事。若くして独立し、大手企業のマネジャーなどを対象とした多くのワークショップの場をリードしている。</p></div>
-			</div>
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-maeda2.jpg" width="200" alt="前田恵一">
-				<h4 class="text-center font-weight-bold">前田 恵一</h4>
-				<div class="pl-2 pr-2"><p>レゾナンス株式会社 代表取締役 / 前田塾主宰<br>IBMビジネスコンサルティングサービス、野村證券（グローバルマーケッツ部門）に転じ、国内機関投資家向けにクオンツモデル情報や数百銘柄の同時トレードを行うバスケットトレーディングサービスに従事。レゾナンス社を起業。私塾『前田塾』を主宰し、東大生などを中心に、会計、経済、金融、政治、統計学、Excelなど、ビジネスに必要な素養を学ぶ場を提供している。</p></div>
-			</div>
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-kato.jpg" width="200" alt="加藤大吾">
-				<h4 class="text-center font-weight-bold">加藤 大吾</h4>
-				<div class="pl-2 pr-2"><p>NPO法人 都留環境フォーラム 代表理事<br>2005年に愛・地球博にて森の自然学校・里の自然学校チーフなどを務めながら、山梨県都留市の山林を開拓し、自ら家を立て、40羽のニワトリと4頭の羊と馬に囲まれ、田畑を耕し、生態系の中で暮らしている。アメリカから『チームビルディング』を学ぶ手法が日本に伝わって来たときから、ファシリテーションを磨きつづけている草分け的な存在である。</p></div>
+	</section>
+	<div class="triangle"></div>
+	<?php get_template_part('top-entry'); ?>
+	<section class="">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+					<h3 class="text-center text-danger font-weight-bold">すべての学生にグローバルで活躍する可能性を</h3>
+					<img class="img-fluid mx-auto d-block kiji mb-5" src="<?php bloginfo('template_directory'); ?>/img/front-kazuya.png" width="800px" alt="代表山口和也">
+					<div class="mw960 mx-auto d-block">
+						<h4 class="text-center font-weight-bold">日本人ビジネスパーソンが世界最弱説</h4>
+						<p>弊社代表の山口和也は、日本企業から米国企業に転職をしました。グローバルを舞台に仕事をしてみて痛切に感じたのが、自身も含めて日本人ビジネスパーソンが世界最弱だということ。多様な文化の中で生きたことがない、英語ができない、自分の意見を言うことができない、外国人の中では25%の力しか出せない！仕事ができない！グローバル化が進む中で、日本人はいったいどうなるのだろうか？このままではいけない！そんな問題意識から、この武者修行プログラムを立ち上げたのです。</p>
+						<h4 class="text-center font-weight-bold">学生のうちにビジネスを一回転させよう</h4>
+						<p>新卒就職活動において『何となくカッコよさそう』『どうせ入社してみないと分からないから』といった、安易な企業や職種の選択によって、最初のキャリアのアンマッチを起こすケースが少なくありません。山口和也もやはりそうした失敗を経験し、学生時代に意味のある就業体験を積むことが大切だと感じたのです。しかし、一般的なアルバイトやインターンでは、ビジネスの一部分しか経験できず、十分とはいえません。武者修行では、ビジネスプランをつくり、カタチにし、お客さまに届け、検証し改善するという、一連のビジネスサイクルを経験できます。ビジネス、職種、仕事をするということについて、より理解を深めることができるのです。</p>
+						<h4 class="text-center font-weight-bold">個の能力だけでは成果は生み出せない</h4>
+						<p>超一流と呼ばれる日本の大学を経て企業へ入っても、優秀だったはずが、全く業績が振るわない…というのはよく耳にする話です。なぜならば、学校の成績は個人の記憶力や分析思考力によって評価される比重が多いのに対し、社会での仕事は人との協働によって成果を生み出していかなければならないからです。しかも、“気の合う友達と”ではありません。私たちは、ビジネスの知識・思考力だけでなく、いかにチームを育むか、リーダーシップを発揮していくかということを学ぶことが、社会で活躍・貢献できる人財になるために必要だと強く感じています。</p>
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
-</section>
-<div class="triangle"></div>
-<?php get_template_part('top-entry'); ?>
-<?php get_footer(); ?>
+	</section>
+	<section class="bg-light">
+		<div class="container">
+			<h3 class="text-center text-danger font-weight-bold">武者修行プログラムのカギ<br>人財育成のプロがきみの変態を支援。</h3>
+			<div class="row">
+				<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-suguru.jpg" width="200" alt="村上卓">
+					<h4 class="text-center font-weight-bold">村上 卓</h4>
+					<div class="pl-2 pr-2"><p>村上卓事務所 代表 / 組織・人財開発コンサルタント<br>米国CTI認定プロコーチ (CPCC)<br>遺伝子研究者からリクルートグループにキャリアチェンジ。その後、人財開発コンサルティング会社にて、数多くの大手企業の人財育成、組織力強化に従事。若くして独立し、大手企業のマネジャーなどを対象とした多くのワークショップの場をリードしている。</p></div>
+				</div>
+				<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-maeda2.jpg" width="200" alt="前田恵一">
+					<h4 class="text-center font-weight-bold">前田 恵一</h4>
+					<div class="pl-2 pr-2"><p>レゾナンス株式会社 代表取締役 / 前田塾主宰<br>IBMビジネスコンサルティングサービス、野村證券（グローバルマーケッツ部門）に転じ、国内機関投資家向けにクオンツモデル情報や数百銘柄の同時トレードを行うバスケットトレーディングサービスに従事。レゾナンス社を起業。私塾『前田塾』を主宰し、東大生などを中心に、会計、経済、金融、政治、統計学、Excelなど、ビジネスに必要な素養を学ぶ場を提供している。</p></div>
+				</div>
+				<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+					<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-kato.jpg" width="200" alt="加藤大吾">
+					<h4 class="text-center font-weight-bold">加藤 大吾</h4>
+					<div class="pl-2 pr-2"><p>NPO法人 都留環境フォーラム 代表理事<br>2005年に愛・地球博にて森の自然学校・里の自然学校チーフなどを務めながら、山梨県都留市の山林を開拓し、自ら家を立て、40羽のニワトリと4頭の羊と馬に囲まれ、田畑を耕し、生態系の中で暮らしている。アメリカから『チームビルディング』を学ぶ手法が日本に伝わって来たときから、ファシリテーションを磨きつづけている草分け的な存在である。</p></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div class="triangle"></div>
+	<?php get_template_part('top-entry'); ?>
+	<?php get_footer(); ?>
