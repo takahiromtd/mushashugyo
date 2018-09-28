@@ -60,9 +60,10 @@ Template Name: archive-sche.php
 							<th class="bg-light">中国</th>
 							<td><a class="" data-toggle="tab" href="#hiroshima">広島</a></td>
 							<td><a class="" data-toggle="tab" href="#okayama">岡山</a></td>
-							<td><a class="" data-toggle="tab" href="#tottori">鳥取</a></td>
+							<!-- <td><a class="" data-toggle="tab" href="#tottori">鳥取</a></td> -->
 							<td><a class="" data-toggle="tab" href="#matsue">島根</a></td>
 							<td><a class="" data-toggle="tab" href="#yamaguchi">山口</a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
 					</tbody>
 				</table>
