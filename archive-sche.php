@@ -51,10 +51,11 @@ Template Name: archive-sche.php
 						<tr>
 							<th class="bg-light">近畿</th>
 							<td><a class="" data-toggle="tab" href="#kyoto">京都</a></td>
-							<td><a class="" data-toggle="tab" href="#osaka">大阪</a></td>
+							<td><a class="" data-toggle="tab" href="#osaka">梅田</a></td>
+							<td><a class="" data-toggle="tab" href="#tennoji">天王寺</a></td>
 							<td><a class="" data-toggle="tab" href="#otsu">滋賀</a></td>
 							<td><a class="" data-toggle="tab" href="#kobe">神戸</a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
+
 						</tr>
 						<tr class="table-border-bottom-l">
 							<th class="bg-light">中国</th>
@@ -761,6 +762,26 @@ Template Name: archive-sche.php
 								<h4>会場詳細</h4>
 								<ul>
 									<li><?php $page = get_page_by_path('osaka',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
+								</ul>
+								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="tennoji" class="tab-pane fade">
+					<div class="bg-dark">
+						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('tennoji',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
+					</div>
+					<div class="border p-5 tab-pane container">
+						<div class="row">
+							<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+								<h4>説明会日程</h4>
+								<?php $page = get_page_by_path('tennoji',OBJECT,'sche'); echo $page->post_content; ?>
+							</div>
+							<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+								<h4>会場詳細</h4>
+								<ul>
+									<li><?php $page = get_page_by_path('tennoji',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
 								</ul>
 								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
 							</div>
