@@ -1616,7 +1616,7 @@ Template Name: archive-sche.php
 				<div class="border bg-white p-5">
 					<h4 class="d-none d-md-block text-center">過去の参加者から直接プログラム内容や体験談が聞ける説明会に参加しませんか？</h4>
 					<ul class="">
-						<li> ● 累計2,019名 / 全国各地の大学生が参加</li>
+						<li> ● 累計2,518名 / 全国各地の大学生が参加</li>
 						<li> ● 英語力は完全不問</li>
 					</ul>
 					<a href="/entry" class="btn btn-danger btn-lg btn-block btn-round text-white btn-entry btn-shadow">説明会予約フォーム</a>

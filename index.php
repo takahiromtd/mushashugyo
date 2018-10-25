@@ -122,7 +122,7 @@
 <div class="triangle"></div>
 <section>
 	<div class="container">
-		<h3 class="text-center text-danger font-weight-bold">総勢2,019名が参加!!<br>こんな人が参加しています</h3>
+		<h3 class="text-center text-danger font-weight-bold">総勢2,518名が参加!!<br>こんな人が参加しています</h3>
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<!-- <h4 class="text-center font-weight-bold">将来は海外で働きたい<br>異文化でも成果を出したい！</h4> -->
