@@ -12,6 +12,12 @@ Template Name: archive-qas.php
 	<section id="qas" class="mw980 mx-auto d-block">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+				<h3 class="font-weight-bold"><b>料金・支払い、その他</b></h3>
+				<ul>
+					<li><a href="/qas/5">プログラムに参加にかかる費用はいくらですか？</a></li>
+					<li><a href="/qas/56">参加したいのですが、お金の工面が難しいです。</a></li>
+					<li><a href="/qas/55">プログラムを支援して公認している大学、または団体はありますか？また、ある場合はどこの大学、団体か教えてください。</a></li>
+				</ul>
 				<h3 class="font-weight-bold"><b>プログラム説明会について</b></h3>
 				<ul>
 					<li><a href="/qas/3">プログラム説明会の参加日程の変更はできますか？</a></li>
@@ -68,12 +74,6 @@ Template Name: archive-qas.php
 				<ul>
 					<li><a href="/qas/1">株式会社旅武者の設立年数はどれぐらいですか？</a></li>
 					<li><a href="/qas/2">武者修行プログラムは何年間行っているものですか？</a></li>
-				</ul>
-				<h3 class="font-weight-bold"><b>料金・支払い、その他</b></h3>
-				<ul>
-					<li><a href="/qas/1">プログラムに参加にかかる費用はいくらですか？</a></li>
-					<li><a href="/qas/1">参加したいのですが、お金の工面が難しいです。</a></li>
-					<li><a href="/qas/1">プログラムを支援して公認している大学、または団体はありますか？また、ある場合はどこの大学、団体か教えてください。</a></li>
 				</ul>
 			</div>
 		</div>
