@@ -31,7 +31,7 @@ Template Name: single-qas.php
 				<h5>よくある質問</h5>
 				<ul>
 					<?php $args = array(
-			        'numberposts' => 30,//表示（取得）する記事の数
+			        'numberposts' => 15,//表示（取得）する記事の数
 			        'post_type' => 'qas',   //投稿タイプの指定
 			        'order'   => 'asc',
 			    );
