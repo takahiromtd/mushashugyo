@@ -331,7 +331,7 @@ Template Name: archive-sche.php
 				</div>
 				<div id="sfc" class="tab-pane fade">
 					<div class="bg-dark">
-						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
+						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('sfc',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
 					</div>
 					<div class="border p-5 tab-pane container">
 						<div class="row">
