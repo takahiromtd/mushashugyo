@@ -26,10 +26,11 @@ Template Name: archive-sche.php
 						<tr>
 							<th class="bg-light">関東</th>
 							<td><a class="" data-toggle="tab" href="#hiyoshi">日吉</a></td>
+							<td><a class="" data-toggle="tab" href="#sfc">藤沢</a></td>
 							<td><a class="" data-toggle="tab" href="#yokohama">横浜</a></td>
 							<td><a class="" data-toggle="tab" href="#tsukuba">つくば</a></td>
 							<td><a class="" data-toggle="tab" href="#ibaraki">茨城</a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
+
 						</tr>
 						<tr>
 							<th class="bg-light"></th>
@@ -328,7 +329,7 @@ Template Name: archive-sche.php
 						</div>
 					</div>
 				</div>
-				<div id="" class="tab-pane fade">
+				<div id="sfc" class="tab-pane fade">
 					<div class="bg-dark">
 						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
 					</div>
@@ -336,12 +337,12 @@ Template Name: archive-sche.php
 						<div class="row">
 							<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
 								<h4>説明会日程</h4>
-								<?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_content; ?>
+								<?php $page = get_page_by_path('sfc',OBJECT,'sche'); echo $page->post_content; ?>
 							</div>
 							<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
 								<h4>会場詳細</h4>
 								<ul>
-									<li><?php $page = get_page_by_path('',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
+									<li><?php $page = get_page_by_path('sfc',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
 								</ul>
 								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
 							</div>
