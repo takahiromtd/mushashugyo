@@ -120,7 +120,7 @@ Template Name: archive-sche.php
 							<!-- <td><a class="" data-toggle="tab" href="#saga">佐賀</a></td> -->
 							<td class="bg-light font-weight-bold"><a class="" data-toggle="tab" href="#"></a>その他</td>
 							<!-- <td><a class="" data-toggle="tab" href="#kobetsu">個別</a></td> -->
-							<td><a class="" data-toggle="tab" href="#kobetsu">Skype</a></td>
+							<td><a class="" data-toggle="tab" href="#kobetsu">ｵﾝﾗｲﾝ</a></td>
 							<td><a class="" data-toggle="tab" href="#taiwan">台湾</a></td>
 						</tr>
 					</tbody>
