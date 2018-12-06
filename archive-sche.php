@@ -37,7 +37,7 @@ Template Name: archive-sche.php
 							<td><a class="" data-toggle="tab" href="#saitama">埼玉</a></td>
 							<td><a class="" data-toggle="tab" href="#chiba">千葉</a></td>
 							<td><a class="" data-toggle="tab" href="#utsunomiya">栃木</a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#gunma">群馬</a></td>
 							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
 						<tr>
@@ -429,20 +429,20 @@ Template Name: archive-sche.php
 						</div>
 					</div>
 				</div>
-				<div id="" class="tab-pane fade">
+				<div id="gunma" class="tab-pane fade">
 					<div class="bg-dark">
-						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
+						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('gunma',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
 					</div>
 					<div class="border p-5 tab-pane container">
 						<div class="row">
 							<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
 								<h4>説明会日程</h4>
-								<?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_content; ?>
+								<?php $page = get_page_by_path('gunma',OBJECT,'sche'); echo $page->post_content; ?>
 							</div>
 							<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
 								<h4>会場詳細</h4>
 								<ul>
-									<li><?php $page = get_page_by_path('',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
+									<li><?php $page = get_page_by_path('gunma',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
 								</ul>
 								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
 							</div>

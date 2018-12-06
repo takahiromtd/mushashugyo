@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: page-entry.php
+Template Name: page-gform.php
 */
 ?>
 
@@ -37,24 +37,23 @@ Template Name: page-entry.php
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWCDBS"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-	<div class="jumbotron">
-		<h2 class="text-center font-weight-bold">説明会申込み<small class="text-danger">（1分で完了）</small></h2>
-		<p class="text-center">プログラム参加者から体験談や本音を聞くことができます。お気軽にご参加ください。</p>
-	</div>
-	<div class="container pt-5 pb-5">
-		<?php if (have_posts()): while (have_posts()) : the_post();?>
-			<?php the_content(); ?>
-		<?php endwhile; else: echo '記事はありません。'; endif; ?>
-	</div>
-	<div class="bg-light pt-1 pb-1">
-		<p class="text-center">© Tabimusha, Inc.</p>
-	</div>
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<div class="jumbotron">
+			<h2 class="text-center font-weight-bold">各種イベントお申込み<small class="text-danger">（1分で完了）</small></h2>
+		</div>
+		<div class="container pt-5 pb-5">
+			<div class="iframe-wrap">
+				<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUFgSPofMvRtLPHarPVF-AWYvbb38U2No7SofiOsCXsehmfQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+			</div>
+		</div>
+		<div class="bg-light pt-1 pb-1">
+			<p class="text-center">© Tabimusha, Inc.</p>
+		</div>
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-	<?php wp_footer(); ?>
-	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script>
-</body>
-</html>
+		<?php wp_footer(); ?>
+		<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script>
+	</body>
+	</html>
