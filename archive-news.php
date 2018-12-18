@@ -73,7 +73,7 @@ Template Name: archive-news.php
 </div>
 <section class="bg-light pt-0 pb-0">
 	<div class="w-50 navigation-left">
-		<a class="navigation-btn mx-auto d-block text-center" href="/conmapy" title="運営会社情報">運営会社情報</a>
+		<a class="navigation-btn mx-auto d-block text-center" href="/company" title="運営会社情報">運営会社情報</a>
 	</div>
 	<div class="w-50 navigation-right">
 		<a class="navigation-btn mx-auto d-block text-center" href="/contact" title="お問い合わせ">お問い合わせ</a>
