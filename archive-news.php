@@ -5,7 +5,7 @@ Template Name: archive-news.php
 ?>
 <?php get_header(); ?>
 <div class="jumbotron">
-	<h2 class="text-center font-weight-bold">リリース・メディア情報</h2>
+	<h2 class="text-center font-weight-bold">ニュース・メディア情報</h2>
 	<p class="text-center">武者修行®に関するニュースリリース</p>
 </div>
 <div class="container pt-5 pb-5">
@@ -49,7 +49,7 @@ Template Name: archive-news.php
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-5">
 				<h3 class="font-weight-bold">公開情報</h3>
 				<div class="pt-5 pb-5">
-					<h4 class="font-weight-bold">参加学生数の推移　累計参加者数2,019名</h4>
+					<h4 class="font-weight-bold">参加学生数の推移　累計参加者数2,518名</h4>
 					<img class="img-fluid mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sankasha-data.png">
 				</div>
 			</div>
