@@ -18,7 +18,7 @@
 						</div>
 						<div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 pb-5">
 							<ul>
-								<!-- <li><a alt="#" href="/parents">保護者の方へ</a></li> -->
+								<li><a alt="#" href="/forparents">保護者の方へ</a></li>
 								<!-- <li><a alt="#" href="/forgroups">教育機関・企業の方へ</a></li> -->
 								<!-- <li><a alt="#" href="/company/story">武者修行にかける思い</a></li> -->
 								<li><a alt="#" href="/news">ニュース メディア情報</a></li>

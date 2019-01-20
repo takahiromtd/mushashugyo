@@ -28,6 +28,7 @@ Template Name: archive-news.php
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-5">
 				<ul>
 					<li class="mb-4 font-weight-bold">メディア出演</li>
+					<li class="mb-4"><a href="https://toyokeizai.net/articles/-/259354" target="_blank">ベトナム武者修行する日本学生が増える理由　超実践型の海外インターンが人材育成に効果</a><br><a href="https://toyokeizai.net/articles/-/259354" target="_blank">toyokeizai.net/articles/-/259354</a>・・・東洋経済オンライン</li>
 					<li class="mb-4"><a href="http://asenavi.com/archives/7760" target="_blank">大学生に「自走式エンジン」を搭載させ、変態させる！ </a><br><a href="http://asenavi.com/archives/7760" target="_blank">asenavi.com/archives/7760</a>・・・アセナビ</li>
 					<li class="mb-4"><a href="https://onlystory.co.jp/stories/education/40th/489" target="_blank">学生よ、「自走式エンジン®」を搭載せよ！</a><br><a href="http://onlystory.co.jp/stories/education/40th/489" target="_blank">onlystory.co.jp/stories/education/40th/489</a>・・・オンリーストーリー</li>
 					<li class="mb-4">TOKYO FM「Share The World」・・・TOKYO FM</li>
