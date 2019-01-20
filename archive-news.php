@@ -25,7 +25,7 @@ Template Name: archive-news.php
 	<section class="mw960 mx-auto d-block">
 		<h3 class="font-weight-bold">メディア出演・講演実績</h3>
 		<div class="row">
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-5">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-5">
 				<ul>
 					<li class="mb-4 font-weight-bold">メディア出演</li>
 					<li class="mb-4"><a href="https://toyokeizai.net/articles/-/259354" target="_blank">ベトナム武者修行する日本学生が増える理由　超実践型の海外インターンが人材育成に効果</a><br><a href="https://toyokeizai.net/articles/-/259354" target="_blank">toyokeizai.net/articles/-/259354</a>・・・東洋経済オンライン</li>
@@ -34,14 +34,6 @@ Template Name: archive-news.php
 					<li class="mb-4">TOKYO FM「Share The World」・・・TOKYO FM</li>
 					<li class="mb-4">AERAムック ~2018 大学生と社会人のキャリアを切り拓く・・・TOKYO FM</li>
 				</ul>
-			</div>
-			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-5">
-<!-- 				<ul>
-					<li class="mb-4 font-weight-bold">講演実績</li>
-					<li><a href="http://asenavi.com/archives/7760">大学生に「自走式エンジン」を搭載させ、変態させる！ </a><br><a href="http://asenavi.com/archives/7760">asenavi.com/archives/7760</a>・・・アセナビ</li>
-					<li><a href="http://asenavi.com/archives/7760">大学生に「自走式エンジン」を搭載させ、変態させる！ </a><br><a href="http://asenavi.com/archives/7760">asenavi.com/archives/7760</a>・・・アセナビ</li>
-					<li><a href="http://asenavi.com/archives/7760">大学生に「自走式エンジン」を搭載させ、変態させる！ </a><br><a href="http://asenavi.com/archives/7760">asenavi.com/archives/7760</a>・・・アセナビ</li>
-				</ul> -->
 			</div>
 		</div>
 	</section>
