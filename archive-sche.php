@@ -19,9 +19,17 @@ Template Name: archive-sche.php
 							<th class="bg-light">東京都</th>
 							<td><a class="" data-toggle="tab" href="#home">早稲田</a></td>
 							<td><a class="" data-toggle="tab" href="#yushima">上野</a></td>
+							<td><a class="" data-toggle="tab" href="#shinjuku">新宿</a></td>
 							<td><a class="" data-toggle="tab" href="#mita">三田</a></td>
 							<td><a class="" data-toggle="tab" href="#wtokyo">八王子</a></td>
+						</tr>
+						<tr>
+							<th class="bg-light"></th>
 							<td><a class="" data-toggle="tab" href="#kokubunji">国分寺</a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
 						<tr>
 							<th class="bg-light">関東</th>
@@ -113,15 +121,23 @@ Template Name: archive-sche.php
 							<td><a class="" data-toggle="tab" href="#nagasaki">長崎</a></td>
 							<td><a class="" data-toggle="tab" href="#kagoshima">鹿児島</a></td>
 						</tr>
-						<tr class="table-border-bottom-r">
+						<tr>
 							<th class="bg-light"></th>
 							<td><a class="" data-toggle="tab" href="#kumamoto">熊本</a></td>
 							<td><a class="" data-toggle="tab" href="#"></a></td>
 							<!-- <td><a class="" data-toggle="tab" href="#saga">佐賀</a></td> -->
-							<td class="bg-light font-weight-bold"><a class="" data-toggle="tab" href="#"></a>その他</td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 							<!-- <td><a class="" data-toggle="tab" href="#kobetsu">個別</a></td> -->
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+						</tr>
+						<tr class="table-border-bottom-r">
+							<th class="bg-light">その他</th>
 							<td><a class="" data-toggle="tab" href="#kobetsu">ｵﾝﾗｲﾝ</a></td>
 							<td><a class="" data-toggle="tab" href="#taiwan">台湾</a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
 					</tbody>
 				</table>
