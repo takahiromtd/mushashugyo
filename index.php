@@ -56,12 +56,34 @@
 		<span class="sr-only">Next</span>
 	</a> -->
 </div>
+<section id="mentor" class="border-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+<!--         <p class="font-weight-bold text-center text-dark">プログラム導入教育機関</p> -->
+        <ul class="d-flex justify-content-around">
+          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_rikkyo_gray.png" alt=""></li>
+          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_shimane_gray.png" alt=""></li>
+          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_kk_gray.png" alt=""></li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+<!--         <p class="font-weight-bold text-center text-dark">実績・メディア</p> -->
+        <ul class="d-flex justify-content-around">
+          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_wakeup_gray.png" alt="" class="text-center"></p></li>
+          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_toyokeizai_gray.png" alt="" class="text-center"></li>
+          <!-- <li class=""><img class="sponsor mx-auto d-block" src="img/vtoumonkai.jpg" alt="" class="text-center"></p></li> -->
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 <section>
 	<div class="container pb-5">
 		<h3 class="text-center text-danger font-weight-bold">人生を変える ベトナムでの2週間<br>海外ビジネス武者修行プログラム®</h3>
 		<div class="mw980 mx-auto d-block">
 			<div class="embed-responsive embed-responsive-16by9 mt-5 mb-5">
-				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MGEfDd2G-5o"></iframe>
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hV7hDsC3VrQ"></iframe>
 			</div>
 		</div>
 		<div class="row">
@@ -96,7 +118,8 @@
 				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/shino.jpg" width="200" alt="推薦者：木下紫乃 氏">
 				<p class="text-center font-weight-bold">木下紫乃 氏</p>
 				<div class="">
-					<p class="fs-small">昭和女子大学キャリアカレッジ 事務局次長</p>
+					<p class="fs-small">昭和女子大学ダイバシティ推進機構</p>
+				<p class="fs-small d-none d-lg-block">慶應義塾大学卒業後、(株)リクルートに入社。その後数社を経て、2004年より研修会社の人材開発コンサルタントに従事。様々な企業研修をプロデュースする中で、企業人事部とともに人材育成開発を深く学ぶ。</p>
 
 				</div>
 			</div>
@@ -122,7 +145,7 @@
 <div class="triangle"></div>
 <section>
 	<div class="container">
-		<h3 class="text-center text-danger font-weight-bold">総勢2,518名が参加!!<br>こんな人が参加しています</h3>
+		<h3 class="text-center text-danger font-weight-bold">総勢2,947名が参加!!<br>こんな人が参加しています</h3>
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<!-- <h4 class="text-center font-weight-bold">将来は海外で働きたい<br>異文化でも成果を出したい！</h4> -->

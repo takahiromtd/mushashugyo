@@ -38,7 +38,7 @@ Template Name: archive-news.php
 		</div>
 	</section>
 	<section class="mw960 mx-auto d-block">
-		<div class="row">
+<!-- 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-5">
 				<h3 class="font-weight-bold">公開情報</h3>
 				<div class="pt-5 pb-5">
@@ -46,7 +46,7 @@ Template Name: archive-news.php
 					<img class="img-fluid mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sankasha-data.png">
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div class="row">
 			
 			<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-5">
