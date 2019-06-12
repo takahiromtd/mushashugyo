@@ -357,7 +357,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
-				<div class="bg-white p-4">
+				<div class="bg-white top-info">
 					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-bell"></i>&nbsp;新着情報</h4>
 					<div class="pt-4">
 						<ul class="top-news-list">
@@ -384,7 +384,7 @@
 					<a href="/news" class="btn btn-dark btn-lg btn-block text-white btn-common btn-shadow mx-auto d-block">一覧を見る</a>
 				</div>
 			</div>
-			<div class="bg-white p-4">
+			<div class="bg-white top-info">
 				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
 				<div class="pt-4">
 					<ul class="top-news-list">
@@ -398,7 +398,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
-				<div class="bg-white p-4">
+				<div class="bg-white top-info">
 					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
 					<!-- SnapWidget -->
 					<div id="insta" class="mb-5">

@@ -31,6 +31,9 @@ a{
 .top-news-list li{
   border-bottom: dotted #222 1px;
 }
+.top-info{
+  padding: 15px 20px;
+}
 .time{
   font-size: 1.2rem;
   }
