@@ -392,26 +392,26 @@
 						<li class="mb-5 pb-4"><span class="time">2019.6.12<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
 						<!-- <li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">教育機関向け：プログラムの視察受け入れのご案内&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li> -->
 						<!-- 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">プログラム参加者統計</a></span></li>
-						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
-					</ul>
+							<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
+						</ul>
+					</div>
 				</div>
 			</div>
-		</div>
-		<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
-			<div class="bg-white p-4">
-				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
-				<!-- SnapWidget -->
-				<div id="insta" class="mb-5">
-					<script src="https://snapwidget.com/js/snapwidget.js"></script>
-					<iframe src="https://snapwidget.com/embed/702833" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
-				</div>
-				<div class="w-100">
-					<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+			<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+				<div class="bg-white p-4">
+					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
+					<!-- SnapWidget -->
+					<div id="insta" class="mb-5">
+						<script src="https://snapwidget.com/js/snapwidget.js"></script>
+						<iframe src="https://snapwidget.com/embed/702833" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+					</div>
+					<div class="w-100">
+						<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 </section>
 
