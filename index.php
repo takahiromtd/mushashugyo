@@ -1,7 +1,13 @@
 <?php get_header(); ?>
 <div id="carouselExampleIndicators" class="carousel slide d-none d-md-block" data-ride="carousel">
+<!-- 	<ol class="carousel-indicators">
+		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+	</ol> -->
 	<div class="carousel-inner">
 		<div class="carousel-item active">
+			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top1.png" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">今が変わる 将来が変わる<br>きみの変態を支援。</h2>
@@ -38,6 +44,14 @@
 			</div>
 		</div>
 	</div>
+<!-- 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a> -->
 </div>
 <img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.jpg" alt="海外ビジネス武者修行プログラム">
 <div class="bg-light">
@@ -343,7 +357,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
-				<div class="bg-white p-5">
+				<div class="bg-white p-3">
 					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-bell"></i>&nbsp;新着情報</h4>
 					<div class="pt-4">
 						<ul class="top-news-list">
@@ -370,7 +384,7 @@
 					<a href="/news" class="btn btn-dark btn-lg btn-block text-white btn-common btn-shadow mx-auto d-block">一覧を見る</a>
 				</div>
 			</div>
-			<div class="bg-white p-5">
+			<div class="bg-white p-3">
 				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
 				<div class="pt-4">
 					<ul class="top-news-list">
