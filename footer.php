@@ -45,76 +45,77 @@
 		<p class="text-center">© Tabimusha, Inc.</p>
 	</div>
 	<?php if ( is_home() || is_front_page() ) : ?>
-		<a href="/sche" id="sp-footer" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a>
-		<style>@media (max-width: 576px) {body{ padding-bottom: 56px; }}</style>
-	<?php endif; ?>
-	<?php if ( is_home() || is_front_page() ) : ?>
-	<?php endif; ?>
-	<script type="text/javascript">
-		jQuery(function($){
-			$(document).ready(function(){
-				$('.slick-slide-img').slick({
-					accessibility: true,
-					autoplay: true,
-					autoplaySpeed: 2000,
-					infinite: true,
-					speed: 3000,
-					slidesToShow: 3,
-					slidesToScroll: 3,
-					centerMode: true,
-					centerPadding: '0px',
-					variableWidth: true,
-					initialSlide: 2,
-					responsive: [
-					{
-						breakpoint: 1024,
-						settings: {
-							slidesToShow: 3,
-							slidesToScroll: 3,
-							infinite: true,
-							dots: true
-						}
-					},
-					{
-						breakpoint: 600,
-						settings: {
-							slidesToShow: 2,
-							slidesToScroll: 2
-						}
-					},
-					{
-						breakpoint: 480,
-						settings: {
-							slidesToShow: 2,
-							slidesToScroll: 2
-						}
+	<a href="/sche" id="sp-footer" class="btn btn-danger btn-entry btn-block text-white btn-sharp btn-shadow fixed-bottom d-md-none d-xs-block d-md-none pt-4 pb-4">説明会に参加する</a>
+	<style>@media (max-width: 576px) {body{ padding-bottom: 56px; }}</style>
+<?php endif; ?>
+<?php if ( is_home() || is_front_page() ) : ?>
+<?php endif; ?>
+<script type="text/javascript">
+	jQuery(function($){
+		$(document).ready(function(){
+			$('.slick-slide-img').slick({
+				accessibility: true,
+				autoplay: true,
+				autoplaySpeed: 2000,
+				infinite: true,
+				speed: 3000,
+				slidesToShow: 3,
+				slidesToScroll: 3,
+				centerMode: true,
+				centerPadding: '0px',
+				variableWidth: true,
+				initialSlide: 2,
+				responsive: [
+				{
+					breakpoint: 1024,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 3,
+						infinite: true,
+						dots: true
 					}
-					]
-				});
+				},
+				{
+					breakpoint: 600,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2
+					}
+				},
+				{
+					breakpoint: 480,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2
+					}
+				}
+				]
 			});
 		});
-	</script>
-	<script type="text/javascript">
-		$(function() {
-	    var footerBtn = $('#sp-footer');
-	    footerBtn.hide();
+	});
+</script>
+<script type="text/javascript">
+	$(function() {
+		var footerBtn = $('#sp-footer');
+		footerBtn.hide();
 	    //スクロールが100に達したらボタン表示
 	    $(window).scroll(function () {
-	        if ($(this).scrollTop() > 100) {
-	            footerBtn.fadeIn();
-	        } else {
-	            footerBtn.fadeOut();
-	        }
+	    	if ($(this).scrollTop() > 100) {
+	    		footerBtn.fadeIn();
+	    	} else {
+	    		footerBtn.fadeOut();
+	    	}
 	    });
-	    });
-		</script>
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script>
-	<?php get_template_part('footer-tags'); ?>
-	<?php wp_footer(); ?>
+	});
+</script>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script>
+<?php get_template_part('footer-tags'); ?>
+<?php wp_footer(); ?>
 </body>
 </html>
 

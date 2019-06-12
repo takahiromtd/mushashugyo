@@ -15,6 +15,37 @@ img{
 }
 a{
 }
+.fs15{
+  font-size: 1.5rem;
+}
+.top-news-sub{
+  padding: 0px 5px;
+  margin: 0px
+}
+.top-news-sub a{
+  font-size: 1.2rem;
+}
+.top-news-sub a:hover{
+  color: #ad190c!important;  
+}
+.top-news-list li{
+  border-bottom: dotted #222 1px;
+}
+.time{
+  font-size: 1.2rem;
+  }
+.top-news-list li a{
+  font-size: 1.4rem;
+  }
+.box-shadow{
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+}
+.text-red{
+  color: #ad190c;
+}
+.bg-black{
+  background: #000;
+}
 .ovflh-box{
   overflow: hidden;
 }
@@ -41,7 +72,7 @@ a{
   padding-top: 6px;
 }
 #nf-field-1116-wrap .nf-field-description{
-   width: 85%; 
+ width: 85%; 
 }
 /*over write bootstrap4*/
 
@@ -75,8 +106,38 @@ a{
   line-height: 5.0rem!important;
 }
 
+.logo-style-sub{
+  font-size: 1.4rem;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+}
+.logo-style-main{
+  font-size: 1.8rem;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1.8rem;
+  letter-spacing: 0.1rem;
+}
+
+.header-sq-btn{
+  font-size: 1.2rem!important;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;
+}
+
+.header-menu-list-sub a{
+  font-size: 1.3rem;
+}
+.header-menu-list-sub a:hover{
+  color: #ad190c!important;
+}
 /*// Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 576px) {
+  .header-menu-list a{ font-size: 1.3rem; font-weight: bold; color: #222!important; }
+  .header-menu-list a:hover{ color: #ad190c!important; }
+  .header-menu-list li:hover{ list-style: none; }
+  .header-sq-btn{ max-width: 500px; border-radius: 0px!important; margin-top: 20px;}
   .sponsor{ width: 100px; }
   hedder-padding{ padding: 20px 0px!important; }
   section{ padding-top: 20px; padding-bottom: 16px; overflow: hidden; }
@@ -92,6 +153,7 @@ a{
   a:hover{ color: #2a4557; }
   .navigation-btn{ padding: 60px 0px 60px; font-size: 1.4rem!important;}
   .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 10px;}
+  .btn-common{ font-size: 1.6rem!important; font-weight: bold; padding: 10px; max-width: 240px;}
   #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
   button{ font-size: 1.4rem!important; }
   ul{ font-size: 1.6rem!important; padding-left: 0px;}
@@ -108,6 +170,10 @@ a{
 
 /*// Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
+  .header-sq-btn{ max-width: 350px; }
+  .header-menu-list a{ font-size: 1.3rem; font-weight: bold; color: #222!important; }
+  .header-menu-list a:hover{ color: #ad190c!important; }
+  .header-menu-list li:hover{ list-style: none; }
   .sponsor{ width: 100px; }
   header-padding{ padding: 20px 0px!important; }
   section{ padding-top: 20px; padding-bottom: 16px; overflow: hidden; }
@@ -123,6 +189,7 @@ a{
   a:hover{ color: #2a4557; }
   .navigation-btn{ padding: 60px 0px 60px; font-size: 1.4rem!important;}
   .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 10px;}
+    .btn-common{ font-size: 1.6rem!important; font-weight: bold; padding: 10px; max-width: 240px;}
   #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
   button{ font-size: 1.4rem!important; }
   ul{ font-size: 1.6rem!important; padding-left: 0px;}
@@ -139,6 +206,10 @@ a{
 
 /*// Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
+  .header-sq-btn{ max-width: 150px; }
+  .header-menu-list a{ font-size: 1.3rem; font-weight: bold; color: #222!important; }
+  .header-menu-list a:hover{ color: #ad190c!important; }
+  .header-menu-list li:hover{ list-style: none; }
   .sponsor{ width: 100px; }
   hedder-padding{ padding: 20px 0px!important; }
   section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
@@ -154,6 +225,7 @@ a{
   a:hover{ color: #2a4557; }
   .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
   .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  .btn-common{ font-size: 1.6rem!important; font-weight: bold; padding: 10px; max-width: 240px;}
   #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
   button{ font-size: 1.6rem!important; }
   ul{ font-size: 1.6rem!important; padding-left: 0px;}
@@ -170,6 +242,10 @@ a{
 
 /*// Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
+  .header-sq-btn{ max-width: 150px; }
+  .header-menu-list a{ font-size: 1.3rem; font-weight: bold; color: #222!important; }
+  .header-menu-list a:hover{ color: #ad190c!important; }
+  .header-menu-list li a:hover{ list-style: none; }
   .sponsor{ width: 100px; }
   hedder-padding{ padding: 20px 0px!important; }
   section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
@@ -186,6 +262,7 @@ a{
   article{ margin-right: 30px; }
   .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
   .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  .btn-common{ font-size: 1.6rem!important; font-weight: bold; padding: 10px; max-width: 240px;}
   #search-form .btn{ font-size: 2.0rem; padding: 15px 30px}
   button{ font-size: 1.6rem!important; }
   ul{ font-size: 1.6rem!important; padding-left: 0px;}
@@ -202,6 +279,11 @@ a{
 
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
+  .header-sq-btn{ max-width: 240px; }
+  .container{max-width: 1280px;}
+  .header-menu-list a{ font-size: 1.3rem; font-weight: bold; color: #222!important; }
+  .header-menu-list a:hover{ color: #ad190c!important; }
+  .header-menu-list li:hover{ list-style: none; }
   .sponsor{ width: 100px; }
   hedder-padding{ padding: 20px 0px!important; }
   section{ padding-top: 50px; padding-bottom: 50px; overflow: hidden; }
@@ -218,6 +300,7 @@ a{
   article{ margin-right: 30px; }
   .navigation-btn{ padding: 60px 0px 60px; font-size: 1.6rem!important;}
   .btn-entry{ font-size: 1.6rem!important; font-weight: bold; padding: 15px;}
+  .btn-common{ font-size: 1.6rem!important; font-weight: bold; padding: 10px; max-width: 240px;}
   #search-form .btn{ font-size: 2.0rem; padding: 12px 30px}
   button{ font-size: 1.6rem!important; }
   ul{ font-size: 1.6rem!important; padding-left: 0px;}
@@ -292,4 +375,20 @@ a{
   left: 0;
   height: 100%;
   width: 100%;
+}
+.fb-page, 
+.fb-page span, 
+.fb-page span iframe[style] { 
+    width: 100% !important; 
+}
+
+.timeline-Widget{
+  border: solid 1px #222;
+}
+#insta span .caption{
+  display: none!important;
+}
+.top-news-list a:hover{
+  color: #ad190c;
+  text-decoration: none;
 }

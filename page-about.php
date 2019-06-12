@@ -42,32 +42,32 @@ Template Name: page-about.php
 <h2 class="text-center text-danger font-weight-bold">舞台となる旅武者が経営する店舗<small>（一部）</small></h2>
 <div class="row">
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop7.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop7.jpg" height="" alt="">
 <p class="font-weight-bold text-center">日本風カフェ</p>
 
 </div>
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop2.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop2.jpg" height="" alt="">
 <p class="font-weight-bold text-center">サンドイッチショップ</p>
 
 </div>
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop3.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop3.jpg" height="" alt="">
 <p class="font-weight-bold text-center">英語学校</p>
 
 </div>
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop4.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop4.jpg" height="" alt="">
 <p class="font-weight-bold text-center">SPA</p>
 
 </div>
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop5.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop5.jpg" height="" alt="">
 <p class="font-weight-bold text-center">ヌードルレストラン</p>
 
 </div>
 <div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-<img class="img-fluid mx-auto d-block mb-1" src="[theme_url]/img/shop6.jpg" height="" alt="">
+<img class="img-fluid mx-auto d-block mb-1" src="<?php bloginfo('template_directory'); ?>/img/shop6.jpg" height="" alt="">
 <p class="font-weight-bold text-center">土産物屋</p>
 
 </div>

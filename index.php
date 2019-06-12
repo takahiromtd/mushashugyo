@@ -56,27 +56,37 @@
 		<span class="sr-only">Next</span>
 	</a> -->
 </div>
+<div class="bg-light">
+	<div class="d-md-none d-xs-block d-md-none">
+		<p class="top-news-sub"><a class="nav-link text-dark" href="https://toyokeizai.net/articles/-/259354" target="_blank">News：東洋経済オンラインで紹介されました</a></p>
+	</div>
+</div>
 <section id="mentor" class="border-top">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-<!--         <p class="font-weight-bold text-center text-dark">プログラム導入教育機関</p> -->
-        <ul class="d-flex justify-content-around">
-          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_rikkyo_gray.png" alt=""></li>
-          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_shimane_gray.png" alt=""></li>
-          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_kk_gray.png" alt=""></li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-<!--         <p class="font-weight-bold text-center text-dark">実績・メディア</p> -->
-        <ul class="d-flex justify-content-around">
-          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_wakeup_gray.png" alt="" class="text-center"></p></li>
-          <li class=""><img class="sponsor mx-auto d-block" src="https://mushashugyo.jp/wp-content/themes/mushashugyo/img/sq_toyokeizai_gray.png" alt="" class="text-center"></li>
-          <!-- <li class=""><img class="sponsor mx-auto d-block" src="img/vtoumonkai.jpg" alt="" class="text-center"></p></li> -->
-        </ul>
-      </div>
-    </div>
-  </div>
+	<div class="container">
+		<div class="border p-5">
+			<div class="row">
+				<div class="col-md-6">
+					<p class="font-weight-bold text-center text-dark">プログラム導入教育機関</p>
+					<p class="text-center"><small>国内教育機関のカリキュラムにプログラムを導入・採択</small></p>
+					<ul class="d-flex justify-content-around">
+						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_rikkyo_gray.png" alt=""></li>
+						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_shimane_gray.png" alt=""></li>
+						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_kk_gray.png" alt=""></li>
+					</ul>
+
+				</div>
+				<div class="col-md-6">
+					<p class="font-weight-bold text-center text-dark">受賞歴・メディア掲載</p>
+					<p class="text-center"><small>優れた人材育成・組織開発プログラムとして紹介</small></p>
+					<ul class="d-flex justify-content-around">
+						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_wakeup_gray.png" alt="" class="text-center"></p></li>
+						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_toyokeizai_gray.png" alt="" class="text-center"></li>
+						<!-- <li class=""><img class="sponsor mx-auto d-block" src="img/vtoumonkai.jpg" alt="" class="text-center"></p></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <section>
 	<div class="container pb-5">
@@ -89,15 +99,15 @@
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<h4 class="text-center font-weight-bold">単なるビジネス体験や<br>ビジコンではない</h4>
-				<div class="pl-2 pr-2"><p>私たちが新興国ベトナムに経営する８つの店舗。何とこの店舗、武者修行プログラムのため、あなたの成長のために経営しています。この店舗を舞台に、自分たちがやりたいビジネスプランをチームで企画し、お客さんに提供し、お店の新サービスとして残すところまで思い切り挑戦することができるのです。</p></div>
+				<div class="pl-2 pr-2"><p>私たちが新興国ベトナムに経営する１０の店舗。この店舗、武者修行プログラムのため、あなたの成長のために経営しています。この店舗を舞台に、自分たちがやりたいビジネスプランをチームで企画し、お客さんに提供し、お店の新サービスとして残すところまで思い切り挑戦できます。</p></div>
 			</div>
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<h4 class="text-center font-weight-bold">真のグローバル人財<br>プロのビジネスパーソンになる</h4>
-				<div class="pl-2 pr-2"><p>新興国、特にASEAN（東南アジア諸国）は、これから社会へ出る学生のあなたにとって、当たり前のように仕事のフィールドになっていくでしょう。しかし、新興国では、これまでの日本の常識が通用しないことが数多く起こります。その障害を自分の力、チームの力で乗り越え、ビジネスをカタチにする。これからの時代に必要とされる能力を、ここで身につけてほしいのです。</p></div>
+				<div class="pl-2 pr-2"><p>新興国、特にASEANは、これから社会へ出るあなたにとって、当たり前のように仕事のフィールドになっていくでしょう。しかし、新興国では、これまでの日本の常識が通用しないことが数多く起こります。その障害を自分の力、チームの力で乗り越え、ビジネスをカタチにする。これからの時代に必要とされる能力を、ここで身につけられます。</p></div>
 			</div>
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<h4 class="text-center font-weight-bold">『変態』し、<br>『自走式エンジン®』を積む</h4>
-				<div class="pl-2 pr-2"><p>武者修行プログラムでは、社会人として必要な『知識を増やす』『How toを学ぶ』ということも得られますが、より重要なのは『あなたの内側の意識と行動が変わる』というサナギがチョウに変わるような“変態”が起こることです。さらには、プログラムを終えた後も、自分で変態をつづけ、人生や仕事のゴールに向かって全力で向かっていく力、“自走式エンジン®”を手にします。</p></div>
+				<h4 class="text-center font-weight-bold">『自走式エンジン®』を積み、<br>『変態』する</h4>
+				<div class="pl-2 pr-2"><p>社会人として必要な『知識を増やす』『How toを学ぶ』ということも得られますが、より重要なのは『あなたの内側の意識と行動が変わる』というサナギがチョウに変わるような“変態”が起こることです。さらには、プログラムを終えた後も、自分で変態をつづけ、人生や仕事のゴールに向かって全力で向かっていく力、“自走式エンジン®”を手に入れられます。</p></div>
 			</div>
 		</div>
 	</div>
@@ -119,7 +129,7 @@
 				<p class="text-center font-weight-bold">木下紫乃 氏</p>
 				<div class="">
 					<p class="fs-small">昭和女子大学ダイバシティ推進機構</p>
-				<p class="fs-small d-none d-lg-block">慶應義塾大学卒業後、(株)リクルートに入社。その後数社を経て、2004年より研修会社の人材開発コンサルタントに従事。様々な企業研修をプロデュースする中で、企業人事部とともに人材育成開発を深く学ぶ。</p>
+					<p class="fs-small d-none d-lg-block">慶應義塾大学卒業後、(株)リクルートに入社。その後数社を経て、2004年より研修会社の人材開発コンサルタントに従事。様々な企業研修をプロデュースする中で、企業人事部とともに人材育成開発を深く学ぶ。</p>
 
 				</div>
 			</div>
@@ -345,4 +355,68 @@
 </section>
 <div class="triangle"></div>
 <?php get_template_part('top-entry'); ?>
+<section class="bg-light mt-5 border-top">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+				<div class="bg-white p-5">
+					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-bell"></i>&nbsp;新着情報</h4>
+					<div class="pt-4">
+						<ul class="top-news-list">
+							<?php $args = array(
+        					'numberposts' => 3,//表示（取得）する記事の数
+        					'post_type' => 'news',    //投稿タイプの指定
+        				);
+							$posts = get_posts( $args );
+							if( $posts ) : foreach( $posts as $post ) : setup_postdata( $post ); ?>
+								<li class="mb-5 pb-4">
+									<span class="time"><?php the_time("Y.n.j"); ?></span><br>
+									<span class="">
+										<a href="<?php the_permalink(); ?>"><?php echo mb_substr($post->post_title, 0); ?></a>
+									</span>
+								</li>
+							<?php endforeach; ?>
+						<?php else : //記事が無い場合 ?>
+							<li><p>記事はまだありません。</p></li>
+						<?php endif;
+						wp_reset_postdata(); //クエリのリセット ?>
+					</ul>
+				</div>
+				<div class="">
+					<a href="/news" class="btn btn-dark btn-lg btn-block text-white btn-common btn-shadow mx-auto d-block">一覧を見る</a>
+				</div>
+			</div>
+			<div class="bg-white p-5">
+				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
+				<div class="pt-4">
+					<ul class="top-news-list">
+						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						<!-- <li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">教育機関向け：プログラムの視察受け入れのご案内&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li> -->
+						<!-- 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">プログラム参加者統計</a></span></li>
+						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+			<div class="bg-white p-5">
+				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
+				<!-- SnapWidget -->
+				<div id="insta" class="mb-5">
+					<script src="https://snapwidget.com/js/snapwidget.js"></script>
+					<iframe src="https://snapwidget.com/embed/702833" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+				</div>
+				<div class="w-100">
+					<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</section>
+
 <?php get_footer(); ?>
+
+

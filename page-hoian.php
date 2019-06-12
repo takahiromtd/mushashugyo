@@ -14,7 +14,7 @@ Template Name: page-hoian.php
 <div class="row">
 <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 <h2 class="text-center text-danger font-weight-bold">GDP成長率の予測世界第1位のベトナム</h2>
-<img class="img-fluid mx-auto d-block mb-5" src="[theme_url]/img/img-52.jpg" width="640" height="" alt=""/>
+<img class="img-fluid mx-auto d-block mb-5" src="<?php bloginfo('template_directory'); ?>/img/img-52.jpg" width="640" height="" alt=""/>
 <p>東南アジアのインドシナ半島東部に位置する国で、日本との時差は２時間。首都はハノイ、ASEAN加盟国である。通貨はドン（VND）。経済発展が著しく、都市圏では人口が大幅に増加しており人口は9000万人を超える。勤勉で穏和な国民性で、国民の平均年齢が約29歳と非常に若いのも特徴。2016〜2050年におけるGDP成長率の予測では、世界第1位はベトナム※だと言われています。</p>
 <small>（※「The Long View How will the global economic order change by 2050?」PwC, 2017年2月）</small>
 </div>
