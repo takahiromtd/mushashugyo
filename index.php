@@ -398,7 +398,7 @@
 			</div>
 		</div>
 		<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
-			<div class="bg-white p-5">
+			<div class="bg-white p-3">
 				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
 				<!-- SnapWidget -->
 				<div id="insta" class="mb-5">
