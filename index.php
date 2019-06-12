@@ -7,7 +7,7 @@
 	</ol> -->
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.png" alt="海外ビジネス武者修行プログラム">
+			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.jpg" alt="海外ビジネス武者修行プログラム">
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top1.png" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">今が変わる 将来が変わる<br>きみの変態を支援。</h2>
@@ -17,7 +17,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.png" alt="海外ビジネス武者修行プログラム">
+			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top2.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">ビジネスに挑戦したい。</h2>
@@ -27,7 +27,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.png" alt="海外ビジネス武者修行プログラム">
+			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top3.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">海外で働きたい。</h2>
@@ -37,7 +37,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.png" alt="海外ビジネス武者修行プログラム">
+			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top4.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">自分を変えたい。</h2>
