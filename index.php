@@ -390,8 +390,8 @@
 				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
 				<div class="pt-4">
 					<ul class="top-news-list">
-						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
-						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						<li class="mb-5 pb-4"><span class="time">2019.6.12<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						<li class="mb-5 pb-4"><span class="time">2019.6.12<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
 						<!-- <li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">教育機関向け：プログラムの視察受け入れのご案内&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li> -->
 						<!-- 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">プログラム参加者統計</a></span></li>
 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
