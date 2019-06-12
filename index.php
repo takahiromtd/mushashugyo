@@ -1,13 +1,7 @@
 <?php get_header(); ?>
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-<!-- 	<ol class="carousel-indicators">
-		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-	</ol> -->
+<div id="carouselExampleIndicators" class="carousel slide d-none d-md-block" data-ride="carousel">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.jpg" alt="海外ビジネス武者修行プログラム">
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top1.png" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">今が変わる 将来が変わる<br>きみの変態を支援。</h2>
@@ -17,7 +11,6 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top2.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">ビジネスに挑戦したい。</h2>
@@ -27,7 +20,6 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top3.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">海外で働きたい。</h2>
@@ -37,7 +29,6 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			
 			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top4.jpg" alt="海外ビジネス武者修行プログラム">
 			<div class="carousel-caption">
 				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">自分を変えたい。</h2>
@@ -47,15 +38,8 @@
 			</div>
 		</div>
 	</div>
-<!-- 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-		<span class="sr-only">Previous</span>
-	</a>
-	<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-		<span class="carousel-control-next-icon" aria-hidden="true"></span>
-		<span class="sr-only">Next</span>
-	</a> -->
 </div>
+<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.jpg" alt="海外ビジネス武者修行プログラム">
 <div class="bg-light">
 	<div class="d-md-none d-xs-block d-md-none">
 		<p class="top-news-sub"><a class="nav-link text-dark" href="https://toyokeizai.net/articles/-/259354" target="_blank">News：東洋経済オンラインで紹介されました</a></p>
