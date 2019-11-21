@@ -38,8 +38,8 @@ Template Name: page-entry.php
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 	<div class="jumbotron">
-		<h2 class="text-center font-weight-bold">説明会申込み<small class="text-danger">（1分で完了）</small></h2>
-		<p class="text-center">プログラム参加者から体験談や本音を聞くことができます。お気軽にご参加ください。</p>
+		<h2 class="text-center font-weight-bold">無料説明会申込み<small class="text-danger">（1分で完了）</small></h2>
+		<p class="text-center">プログラム経験者から体験談や本音を聞くことができます。お気軽にご参加ください。</p>
 	</div>
 	<div class="container pt-5 pb-5">
 		<?php if (have_posts()): while (have_posts()) : the_post();?>

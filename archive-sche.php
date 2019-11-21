@@ -37,25 +37,18 @@ Template Name: archive-sche.php
 							<td><a class="" data-toggle="tab" href="#hiyoshi">日吉</a></td>
 							<td><a class="" data-toggle="tab" href="#sfc">藤沢</a></td>
 							<td><a class="" data-toggle="tab" href="#yokohama">横浜</a></td>
-							<td><a class="" data-toggle="tab" href="#saitama">埼玉</a></td>
 							<td><a class="" data-toggle="tab" href="#utsunomiya">栃木</a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
-						<tr>
+						<tr class="table-border-bottom-l">
 							<th class="bg-light-dark">関西</th>
 							<td><a class="" data-toggle="tab" href="#kyoto">京都</a></td>
 							<td><a class="" data-toggle="tab" href="#osaka">梅田</a></td>
 							<td><a class="" data-toggle="tab" href="#tennoji">天王寺</a></td>
-							<td><a class="" data-toggle="tab" href="#senrichuo">千里中央</a></td>
 							<td><a class="" data-toggle="tab" href="#kobe">神戸</a></td>
-						</tr>
-						<tr class="table-border-bottom-l">
-							<th class="bg-light-dark"></th>
-							<td><a class="" data-toggle="tab" href="#ishibashi">石橋</a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
 							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
+
 					</tbody>
 				</table>
 			</div>
@@ -79,13 +72,17 @@ Template Name: archive-sche.php
 							<td><a class="" data-toggle="tab" href="#apu">大分</a></td>
 							<td><a class="" data-toggle="tab" href="#nagasaki">長崎</a></td>
 						</tr>
+						<tr class="table-border-bottom-l">
+							<th class="bg-light-dark"> </th>
+							<td><a class="" data-toggle="tab" href="#fukuoka">福岡</a></td>
+						</tr>
 						<tr>
 							<th class="bg-light-dark">北日本</th>
 							<td><a class="" data-toggle="tab" href="#sapporo">札幌</a></td>
 							<td><a class="" data-toggle="tab" href="#sendai">仙台</a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
-							<td><a class="" data-toggle="tab" href="#"></a></td>
+							<td><a class="" data-toggle="tab" href="#yamagata">山形</a></td>
+							<td><a class="" data-toggle="tab" href="#yonezawa">米沢</a></td>
+							<td><a class="" data-toggle="tab" href="#iwate">岩手</a></td>
 						</tr>
 						<tr class="table-border-bottom-r">
 							<th class="bg-light-dark">その他</th>
@@ -1597,40 +1594,40 @@ Template Name: archive-sche.php
 						</div>
 					</div>
 				</div>
-				<div id="taiwan" class="tab-pane fade">
+				<div id="iwate" class="tab-pane fade">
 					<div class="bg-dark">
-						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('taiwan',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
+						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('iwate',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
 					</div>
 					<div class="border p-5 tab-pane container">
 						<div class="row">
 							<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
 								<h4>説明会日程</h4>
-								<?php $page = get_page_by_path('taiwan',OBJECT,'sche'); echo $page->post_content; ?>
+								<?php $page = get_page_by_path('iwate',OBJECT,'sche'); echo $page->post_content; ?>
 							</div>
 							<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
 								<h4>会場詳細</h4>
 								<ul>
-									<li><?php $page = get_page_by_path('taiwan',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
+									<li><?php $page = get_page_by_path('iwate',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
 								</ul>
 								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div id="" class="tab-pane fade">
+				<div id="yonezawa" class="tab-pane fade">
 					<div class="bg-dark">
-						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
+						<p class="mt-0 mb-0 pt-4 pb-4 text-center text-white"><?php $page = get_page_by_path('yonezawa',OBJECT,'sche'); echo $page->post_title; ?>会場</p>
 					</div>
 					<div class="border p-5 tab-pane container">
 						<div class="row">
 							<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
 								<h4>説明会日程</h4>
-								<?php $page = get_page_by_path('',OBJECT,'sche'); echo $page->post_content; ?>
+								<?php $page = get_page_by_path('yonezawa',OBJECT,'sche'); echo $page->post_content; ?>
 							</div>
 							<div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
 								<h4>会場詳細</h4>
 								<ul>
-									<li><?php $page = get_page_by_path('',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
+									<li><?php $page = get_page_by_path('yonezawa',OBJECT,'sche'); echo nl2br( get_post_meta($page->ID, 'wpcf-place-info', true)); ?></li>
 								</ul>
 								<a href="/entry" class="mt-3 btn btn-danger btn-lg btn-block btn-round btn-shadow text-white btn-entry d-lg-none d-xs-block">説明会予約フォーム</a>
 							</div>
@@ -1645,7 +1642,7 @@ Template Name: archive-sche.php
 				<div class="border bg-white p-5">
 					<h4 class="d-none d-md-block text-center">過去の参加者から直接プログラム内容や体験談が聞ける説明会に参加しませんか？</h4>
 					<ul class="">
-						<li> ● 累計2,947名 / 全国各地の大学生が参加</li>
+						<li> ● 累計3,477名 / 全国各地の大学生が参加</li>
 						<li> ● 英語力は完全不問</li>
 					</ul>
 					<a href="/entry" class="btn btn-danger btn-lg btn-block btn-round text-white btn-entry btn-shadow">説明会予約フォーム</a>

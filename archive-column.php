@@ -24,7 +24,7 @@ Template Name: archive-column.php
 	</div>
 	<div id="mix-container" class="row">
 		<script type="text/javascript">$(function() { $('.kiji').matchHeight(); });</script>
-		<!-- <script type="text/javascript">$(function() { $('.card-title').matchHeight(); });</script> -->
+		<script type="text/javascript">$(function() { $('.card-title').matchHeight(); });</script>
 		<script type="text/javascript">$(function() { $('.card-text').matchHeight(); });</script>
 		<?php $paged = get_query_var('paged');
 		query_posts($query_string . '&posts_per_page=100&paged=' . $paged);

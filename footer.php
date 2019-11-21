@@ -34,9 +34,9 @@
 					<p class="text-white">株式会社旅武者</p>
 					<p class="text-white">〒169-0051 東京都 新宿区西 早稲田 1-22-3<br>早稲田大学ｲﾝｷｭﾍﾞｰｼｮﾝｾﾝﾀｰ内</p>
 					<p class="text-white">〒113-0034 東京都 文京区 湯島 2-33-11 岡田ビル2F</p>
-					<p class="text-white">Phone:03-6803-0927(営業時間：10:00-19:00)</p>
+					<!-- <p class="text-white">Phone:03-6803-0927(営業時間：10:00-19:00)</p> -->
 					<p class="text-white">Mail: info@tabimusha.com</p>
-					<p class="text-white"><small>＊2017年4月〜2018年3月期間、斡旋を除く受入れ人数実績（当社調べ）</small></p>
+					<p class="text-white"><small>＊2018年4月〜2019年3月期間、斡旋を除く受入れ人数実績（当社調べ）</small></p>
 				</div>
 			</div>
 		</div>
@@ -110,9 +110,9 @@
 </script>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script>
 <?php get_template_part('footer-tags'); ?>
 <?php wp_footer(); ?>

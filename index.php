@@ -153,26 +153,6 @@
 <div class="triangle"></div>
 <section>
 	<div class="container">
-		<h3 class="text-center text-danger font-weight-bold">総勢2,947名が参加!!<br>こんな人が参加しています</h3>
-		<div class="row">
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<!-- <h4 class="text-center font-weight-bold">将来は海外で働きたい<br>異文化でも成果を出したい！</h4> -->
-				<img class="img-fluid mx-auto d-block kiji mb-3 mt-3" src="<?php bloginfo('template_directory'); ?>/img/type2.png" alt="海外志向">
-				<div class="pl-2 pr-2 "><p>● グローバル企業に務め、海外を舞台に仕事がしたい<br>● 途上国や新興国で、社会課題の解決をしたい</p></div>
-			</div>
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<!-- <h4 class="text-center font-weight-bold">起業家やプロフェッショナルな<br>ビジネスパーソンになりたい！</h4> -->
-				<img class="img-fluid mx-auto d-block kiji mb-3 mt-3" src="<?php bloginfo('template_directory'); ?>/img/type1.png" alt="起業・経営者志向">
-				<div class="pl-2 pr-2 "><p>● 独立起業し経営者になりたい。<br>● コンサルや経営企画など企業の中心で力を発揮したい。<br>● もっと人を巻き込めるリーダーシップを発揮したい</p></div>
-			</div>
-			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<!-- <h4 class="text-center font-weight-bold">もっと自分に自信が欲しい<br>自分を変えたい！</h4> -->
-				<img class="img-fluid mx-auto d-block kiji mb-3 mt-3" src="<?php bloginfo('template_directory'); ?>/img/type3.png" alt="自己変革志向">
-				<div class="pl-2 pr-2 "><p>● 毎日、何かが足りない気がする…。<br>● 今の自分のままで将来生きていけるか不安だ…。<br>● 自分で決めること、行動することを、もっとできるようになりたい。</p></div>
-			</div>
-		</div>
-	</div>
-	<div class="container">
 		<div class="row">
 			<div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 mb-5">
 				<h4 class="text-center font-weight-bold">参加時の学年傾向</h4>
@@ -200,109 +180,99 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h3 class="text-center text-danger font-weight-bold">2019年夏の開催スケジュール</h3>
+				<h3 class="text-center text-danger font-weight-bold">2019年年末・2020年春の開催スケジュール</h3>
 				<table class="table table-bordered mx-auto bg-white">
 					<tbody>
 						<tr>
-							<td>夏1ターム</td>
-							<td>&nbsp;8/&nbsp;3(土)</td>
-							<td>&nbsp;8/17(土)</td>
+							<td>年末1ターム</td>
+							<td>12/21(土)</td>
+							<td>1/4(土)</td>
 						</tr>
 						<tr>
-							<td>夏2ターム</td>
-							<td>&nbsp;8/&nbsp;4(日)</td>
-							<td>&nbsp;8/18(日)</td>
+							<td>年末2ターム</td>
+							<td>12/22(日)</td>
+							<td>1/5(日)</td>
 						</tr>
 						<tr>
-							<td>夏3ターム</td>
-							<td>&nbsp;8/&nbsp;5(月)</td>
-							<td>&nbsp;8/19(月)</td>
+							<td>年末3ターム</td>
+							<td>12/23(月)</td>
+							<td>1/6(月)</td>
 						</tr>
 						<tr>
-							<td>夏4ターム</td>
-							<td>&nbsp;8/&nbsp;6(火)</td>
-							<td>&nbsp;8/20(火)</td>
+							<td>春1ターム</td>
+							<td>2/8(土)</td>
+							<td>2/22(土)</td>
 						</tr>
 						<tr>
-							<td>夏5ターム</td>
-							<td>&nbsp;8/&nbsp;7(水)</td>
-							<td>&nbsp;8/21(水)</td>
+							<td>春2ターム</td>
+							<td>2/9(日)</td>
+							<td>2/23(日)</td>
 						</tr>
 						<tr>
-							<td>夏6ターム</td>
-							<td>&nbsp;8/16(金)</td>
-							<td>&nbsp;8/30(金)</td>
+							<td>春3ターム</td>
+							<td>2/10(月)</td>
+							<td>2/24(月)</td>
 						</tr>
 						<tr>
-							<td>夏7ターム</td>
-							<td>&nbsp;8/17(土)</td>
-							<td>&nbsp;8/31(土)</td>
+							<td>春4ターム</td>
+							<td>2/11(火)</td>
+							<td>2/25(火)</td>
 						</tr>
 						<tr>
-							<td>夏8ターム</td>
-							<td>&nbsp;8/18(日)</td>
-							<td>&nbsp;9/&nbsp;1(日)</td>
+							<td>春5ターム</td>
+							<td>2/12(水)</td>
+							<td>2/26(水)</td>
 						</tr>
 						<tr>
-							<td>夏9ターム</td>
-							<td>&nbsp;8/19(月)</td>
-							<td>&nbsp;9/&nbsp;2(月)</td>
+							<td>春6ターム</td>
+							<td>2/24(月)</td>
+							<td>3/9(月)</td>
 						</tr>
 						<tr>
-							<td>夏10ターム</td>
-							<td>&nbsp;8/20(火)</td>
-							<td>&nbsp;9/&nbsp;3(火)</td>
+							<td>春7ターム</td>
+							<td>2/25(火)</td>
+							<td>3/10(火)</td>
 						</tr>
 						<tr>
-							<td>夏11ターム</td>
-							<td>&nbsp;8/29(木)</td>
-							<td>&nbsp;9/12(木)</td>
+							<td>春8ターム</td>
+							<td>2/26(水)</td>
+							<td>3/11(水)</td>
 						</tr>
 						<tr>
-							<td>夏12ターム</td>
-							<td>&nbsp;8/30(金)</td>
-							<td>&nbsp;9/13(金)</td>
+							<td>春9ターム</td>
+							<td>2/27(木)</td>
+							<td>3/12(木)</td>
 						</tr>
 						<tr>
-							<td>夏13ターム</td>
-							<td>&nbsp;8/31(土)</td>
-							<td>&nbsp;9/14(土)</td>
+							<td>春10ターム</td>
+							<td>2/28(金)</td>
+							<td>3/13(金)</td>
 						</tr>
 						<tr>
-							<td>夏14ターム</td>
-							<td>&nbsp;9/&nbsp;1(日)</td>
-							<td>&nbsp;9/15(日)</td>
+							<td>春11ターム</td>
+							<td>3/11(水)</td>
+							<td>3/25(水)</td>
 						</tr>
 						<tr>
-							<td>夏15ターム</td>
-							<td>&nbsp;9/&nbsp;2(月)</td>
-							<td>&nbsp;9/16(月)</td>
+							<td>春12ターム</td>
+							<td>3/12(木)</td>
+							<td>3/26(木)</td>
 						</tr>
 						<tr>
-							<td>夏16ターム</td>
-							<td>&nbsp;9/11(水)</td>
-							<td>&nbsp;9/25(水)</td>
+							<td>春13ターム</td>
+							<td>3/13(金)</td>
+							<td>3/27(金)</td>
 						</tr>
 						<tr>
-							<td>夏17ターム</td>
-							<td>&nbsp;9/12(木)</td>
-							<td>&nbsp;9/26(木)</td>
+							<td>春14ターム</td>
+							<td>3/14(土)</td>
+							<td>3/28(土)</td>
 						</tr>
 						<tr>
-							<td>夏18ターム</td>
-							<td>&nbsp;9/13(金)</td>
-							<td>&nbsp;9/27(金)</td>
+							<td>春15ターム</td>
+							<td>3/15(日)</td>
+							<td>3/29(日)</td>
 						</tr>
-						<tr>
-							<td>夏19ターム</td>
-							<td>&nbsp;9/14(土)</td>
-							<td>&nbsp;9/28(土)</td>
-						</tr>
-						<tr>
-							<td>夏20ターム</td>
-							<td>&nbsp;9/15(日)</td>
-							<td>&nbsp;9/29(日)</td>
-						</tr>		
 					</tbody>
 				</table>
 			</div>
@@ -389,7 +359,7 @@
 				<div class="pt-4">
 					<ul class="top-news-list">
 						<li class="mb-5 pb-4"><span class="time">2019.6.12<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
-						<li class="mb-5 pb-4"><span class="time">2019.6.12<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						<li class="mb-5 pb-4"><span class="time">2019.9.30<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
 						<!-- <li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">教育機関向け：プログラムの視察受け入れのご案内&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li> -->
 						<!-- 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">プログラム参加者統計</a></span></li>
 							<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
@@ -401,10 +371,10 @@
 				<div class="bg-white top-info">
 					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
 					<!-- SnapWidget -->
-					<div id="insta" class="mb-5">
+<!-- 					<div id="insta" class="mb-5">
 						<script src="https://snapwidget.com/js/snapwidget.js"></script>
 						<iframe src="https://snapwidget.com/embed/702833" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
-					</div>
+					</div> -->
 					<div class="w-100">
 						<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
 					</div>
