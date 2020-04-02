@@ -19,19 +19,6 @@ Template Name: page-company.php
 						<td>株式会社旅武者</td>
 					</tr>
 					<tr>
-						<td>代表取締役</td>
-						<td>山口和也</td>
-					</tr>
-					<tr>
-						<td>事業内容</td>
-						<td>海外インターンシップの運営
-						大学生 / 社会人向け研修の企画・実施</td>
-					</tr>
-					<tr>
-						<td>資本金</td>
-						<td>32,750,000円（資本準備金含む）</td>
-					</tr>
-					<tr>
 						<td>住所</td>
 						<td>● 早稲田オフィス
 							〒169-0051 東京都新宿区西早稲田1-22-3<br>
@@ -40,12 +27,42 @@ Template Name: page-company.php
 						〒113-0034 東京都文京区湯島2-33-11岡田ビル2階</td>
 					</tr>
 					<tr>
-						<td>電話番号</td>
-						<td>03-6803-0927</td>
+						<td>代表取締役</td>
+						<td>山口和也</td>
 					</tr>
 					<tr>
-						<td>メールアドレス</td>
-						<td>info@tabimusha.com</td>
+						<td>設立</td>
+						<td>2014年6月3日</td>
+					</tr>
+					<tr>
+						<td>資本金</td>
+						<td>32,750,000円（資本準備金含む）</td>
+					</tr>
+					<tr>
+						<td>従業員数</td>
+						<td>85名（ベトナム法人含む）</td>
+					</tr>
+					<tr>
+						<td>事業概要</td>
+						<td>海外インターンシップの運営
+						大学生 / 社会人向け研修の企画・実施</td>
+					</tr>
+					<tr>
+						<td>取引先銀行</td>
+						<td>みずほ銀行<br>三井住友銀行<br>城南信用金庫<br>楽天銀行</td>
+					</tr>
+					<tr>
+						<td>顧問</td>
+						<td>Seven Rich 法律事務所<br>
+						G.S.ブレインズ税理士法人</td>
+					</tr>
+					<tr>
+						<td>ベトナム会社情報</td>
+						<td>Tabi Musha Viet Nam Company Limited<br>
+							Số 644 Hai Bà Trưng, Phường Cẩm Phô, Thành phố Hội An, Tỉnh Quảng Nam<br>
+							100 Le Duy Dinh, Chinh Gian Ward, Thanh Khe District, Da Nang City<br>
+							<a href="https://www.tabimushavn.com/" title="https://www.tabimushavn.com/">https://www.tabimushavn.com/</a>
+						</td>
 					</tr>
 				</tbody>
 			</table>
@@ -74,7 +91,8 @@ Template Name: page-company.php
 		</section>
 		<section class="mw960 mx-auto d-block">
 			<h2 class="text-center">代表挨拶</h2>
-			<p class="font-weight-bold text-center">山口和也<small>（やまぐちかずや）</small>株式会社旅武者 代表取締役</p>
+			<img class="mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/comp-kazuya.jpg" width="300px">
+			<p class="font-weight-bold text-center">株式会社旅武者<br>代表取締役　山口和也<small>（やまぐちかずや）</small></p>
 
 			<div class="row">
 				<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">

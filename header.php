@@ -64,9 +64,10 @@
 						<ul class="navbar-nav mr-auto">
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about">武者修行とは？</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/ex">得られること</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian">開催地</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian">店舗情報</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="about/facilitator">ファシリテーター</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column">参加学生の声</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents">保護者の方へ</a></li>
 						</ul>
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>
@@ -83,7 +84,7 @@
 				<div class="d-none d-md-block container">
 					<ul class="nav justify-content">
 						<li class="nav-item header-menu-list-sub">
-							<a class="nav-link text-dark pl-0" href="https://toyokeizai.net/articles/-/259354" target="_blank">News：「ベトナム武者修行する日本学生が増える理由」東洋経済オンラインで当プログラムが紹介されました</a>
+							<a class="nav-link text-dark pl-0" href="https://prtimes.jp/main/html/rd/p/000000012.000017332.html" target="_blank">News：2020年4月開学のNSGグループ開志専門職大学のオリジナルプログラムに導入決定！</a>
 						</li>
 					</ul>
 				</div>

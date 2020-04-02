@@ -35,9 +35,10 @@ Template Name: archive-sche.php
 						<tr>
 							<th class="bg-light-dark">関東</th>
 							<td><a class="" data-toggle="tab" href="#hiyoshi">日吉</a></td>
-							<td><a class="" data-toggle="tab" href="#sfc">藤沢</a></td>
+							<!-- <td><a class="" data-toggle="tab" href="#sfc">藤沢</a></td> -->
 							<td><a class="" data-toggle="tab" href="#yokohama">横浜</a></td>
 							<td><a class="" data-toggle="tab" href="#utsunomiya">栃木</a></td>
+							<td><a class="" data-toggle="tab" href="#"></a></td>
 							<td><a class="" data-toggle="tab" href="#"></a></td>
 						</tr>
 						<tr class="table-border-bottom-l">
