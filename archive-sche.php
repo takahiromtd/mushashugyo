@@ -33,7 +33,7 @@ Template Name: archive-sche.php
 				</div>
 				<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-5">
 					<div id="entry">
-						<section class="mw720 mx-auto d-block">
+						<section class="mw720 mx-auto d-block p-5">
 							<?php echo do_shortcode('[ninja_form id=278]'); ?>
 						</section>
 					</div>
