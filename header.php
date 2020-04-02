@@ -72,7 +72,7 @@
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>
 						<?php if(strstr($url,'sche')): ?>
-							<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/entry">説明会予約フォーム&emsp;<i class="fas fa-chevron-right"></i></a>
+							<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche">説明会に参加する&emsp;<i class="fas fa-chevron-right"></i></a>
 							<?php else: ?>
 								<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche">説明会に参加する&emsp;<i class="fas fa-chevron-right"></i></a>
 							<?php endif; ?>
