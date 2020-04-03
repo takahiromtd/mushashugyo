@@ -7,7 +7,7 @@ Template Name: single.php
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 	<div class="jumbotron">
 		<div class="mw960 mx-auto"><h2 class="text-center"><?php the_title(); ?></h2></div>
-		<p class="text-center"><?php the_time("Y年n月j l"); ?></p>
+		<p class="text-center"><?php the_time("Y年n月j日 l"); ?></p>
 	</div>
 	<section id="single-news">
 		<div class="container pt-5 pb-5">
