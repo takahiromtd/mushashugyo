@@ -1,0 +1,163 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+body {
+	font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ",Meiryo,"ＭＳ ゴシック", "Osaka", sans-serif;
+	color: #2a4557;
+}
+.fs8{
+	font-size: 8px!important;
+}
+.fs12{
+	font-size: 12px!important;
+}
+.fs16{
+	font-size: 16px!important;
+}
+.fs24{
+	font-size: 24px!important;
+}
+.mw960{
+	/*max-width: 960px;*/
+}
+.product-name{
+
+}
+.logoText{
+	color: #fff;
+	font-family:sans-serif!important;
+}
+.key-color{
+	background: #13458e;
+	color: #fff;
+}
+.key-color-button{
+	background: #33CCCC;
+	color: #fff;
+	border: solid #fff 2px;
+	box-shadow: 0.2rem 0.2rem #ccc;
+	font-weight: bold;
+}
+.img-shadow{
+	box-shadow: 0.2rem 0.2rem #222;	
+}
+.bg-gray{
+	background: #eee;
+	color: #222;
+}
+.jumbotron{
+	border-radius: 0px !important;
+}
+.p20{
+	padding: 20px 0px 20px 0px;
+}
+.p40{
+	padding: 40px 0px 40px 0px;
+}
+.p80{
+	padding: 80px 0px 80px 0px;
+}
+.p50{
+	padding: 50px 0px 50px 0px;
+}
+.pb100{
+	padding-bottom: 0px 0px 100px 0px;
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+	.logo-box h1{ font-size: 20px; }
+	p{ font-size: 14px }
+	h1{ font-size: 28px; font-weight: bold; }
+	h2{ font-size: 18px; font-weight: bold; }
+	h3{ font-size: 16px; font-weight: bold; }
+	h4{ font-size: 14px; font-weight: bold; }
+	h5{ font-size: 12px; font-weight: bold; }
+	h6{ font-size: 12px; font-weight: bold; }
+	.logoText{ color: #fff; font-size: 20px; }
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+	.logo-box h1{ font-size: 20px; }
+	p{ font-size: 16px }
+	h1{ font-size: 28px; font-weight: bold; }
+	h2{ font-size: 18px; font-weight: bold; }
+	h3{ font-size: 16px; font-weight: bold; }
+	h4{ font-size: 14px; font-weight: bold; }
+	h5{ font-size: 12px; font-weight: bold; }
+	h6{ font-size: 12px; font-weight: bold; }
+	.logoText{ color: #fff; font-: ;size: 20px; }
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	.logo-box h1{ font-size: 28px; }
+	p{ font-size: 18px }
+	h1{ font-size: 48px; font-weight: bold; }
+	h2{ font-size: 32px; font-weight: bold; }
+	h3{ font-size: 24px; font-weight: bold; }
+	h4{ font-size: 18px; font-weight: bold; }
+	h5{ font-size: 14px; font-weight: bold; }
+	h6{ font-size: 14px; }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+	.logo-box h1{ font-size: 28px; }
+	p{ font-size: 18px }
+	h1{ font-size: 48px; font-weight: bold; }
+	h2{ font-size: 32px; font-weight: bold; }
+	h3{ font-size: 24px; font-weight: bold; }
+	h4{ font-size: 18px; font-weight: bold; }
+	h5{ font-size: 14px; font-weight: bold; }
+	h6{ font-size: 14px; }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	.logo-box h1{ font-size: 28px; }
+	p{ font-size: 18px }
+	h1{ font-size: 48px; font-weight: bold; }
+	h2{ font-size: 32px; font-weight: bold; }
+	h3{ font-size: 24px; font-weight: bold; }
+	h4{ font-size: 18px; font-weight: bold; }
+	h5{ font-size: 14px; font-weight: bold; }
+	h6{ font-size: 14px; }
+}
+#baseMenu{
+	float: right;
+}
+#baseMenu ul li{
+	list-style: none;
+	padding: 10px;
+	border-radius: 5px;
+	border: solid #fff 1px;
+	background: #fff;
+	box-shadow: 0.2rem 0.2rem #222;	
+}
+.clearfix{
+	margin-bottom: 0px;
+}
+
+.base{
+	display: none;
+}
+.must-link a{
+	color: #fff;
+}
+.vm-logo{
+	font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
+	font-weight: 300;
+}
+.zeikomi{
+	font-size: 14px;
+}
+.btn-buy{
+	border-radius: 50px;
+}
+.red{
+	color: #F00;
+}

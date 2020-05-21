@@ -358,21 +358,18 @@
 					<div class="">
 						<a href="/news" class="btn btn-dark btn-lg btn-block text-white btn-common btn-shadow mx-auto d-block">一覧を見る</a>
 					</div>
-					<a href="https://mushashugyo.jp/news/20200126/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme2.jpg" alt="危機対応情報"></a>
-					<a href="https://mushashugyo.jp/news/20200131/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme1.jpg" alt="危機対応情報"></a>
+					<!-- <a href="https://mushashugyo.jp/news/20200126/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme2.jpg" alt="危機対応情報"></a> -->
+					<!-- <a href="https://mushashugyo.jp/news/20200131/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme1.jpg" alt="危機対応情報"></a> -->
 				</div>
-				<div class="bg-white top-info">
+<!-- 				<div class="bg-white top-info">
 					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
 					<div class="pt-4">
 						<ul class="top-news-list">
 							<li class="mb-5 pb-4"><span class="time">2019.12.5<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">（保護者様向け）海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
 							<li class="mb-5 pb-4"><span class="time">2019.9.30<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
-							<!-- <li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">教育機関向け：プログラムの視察受け入れのご案内&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li> -->
-						<!-- 						<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">プログラム参加者統計</a></span></li>
-							<li class="mb-5 pb-4"><span class="time">2019.6.15<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="">参加者進路統計</a></span></li> -->
 						</ul>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
 				<div class="bg-white top-info">
