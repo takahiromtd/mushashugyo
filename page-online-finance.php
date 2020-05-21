@@ -178,6 +178,17 @@
 								<a href="https://credit.j-payment.co.jp/gateway/payform.aspx?aid=116405&iid=online_finance_yukahoken" class="btn btn-success btn-block w-75 text-center p-3">動画を購入する</a>
 							</div>
 						</div>
+						<div class="row p-3">
+							<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mt-3 mb-3">
+								<img src="https://basefile.akamaized.net/shares/5ab4703232416/imac.png" class="img-fluid mb-5" alt="Cinque Terre">
+							</div>
+							<div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 mt-3 mb-3">
+								<h3>企業分析ツール　バリュエーションマトリクス<br>定価2,980円/月額<small>（税抜）</small>（税抜）</h3>
+								<p>バリュエーションマトリクスは独自のアルゴリズムから企業価値を算出し、投資の意思決定のための情報を個人投資家の皆様に提供します。バリュー投資の発想はシンプルです。バリュー投資では、企業の株価は本来もっている価値へと中長期的に収斂していくと考えられています。割安な企業に投資して、フェアバリューになったら売却する。プロの投資家は、実際の企業価値を見積もっているため、一時的なチャートの動きに動揺することなく、じっくりと構えて投資ができるようになります。</p>
+								
+								<a href="https://credit.j-payment.co.jp/gateway/payform.aspx?aid=116405&iid=valuationmatrix_2980" class="btn btn-success btn-block w-75 text-center p-3">ツールを利用する</a>
+							</div>
+						</div>
 <!-- 							<div class="row p-3">
 								<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mt-3 mb-3">
 									<img src="https://basefile.akamaized.net/shares/5ab88a855dedf/movie4.png" class="img-fluid img-shadow" alt="Cinque Terre">
@@ -193,7 +204,7 @@
 									<img src="https://basefile.akamaized.net/shares/5ab88b9b5e53c/movie5.png" class="img-fluid img-shadow" alt="Cinque Terre">
 								</div>
 								<div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 mt-3 mb-3">
-									<h3>キャッシュフローバリュエーション編</h3>
+									<h3>キャッシュフロー編</h3>
 									<p>本編を理解して「資金調達を目指す起業家」「CFO」「経営企画」への入口に立ちましょう。これまで学習したファイナンスの基礎理論のおさらいから、事業計画のエクセル表を実際に作りキャッシュフローベースの企業価値を算定します。一連の流れを理解し実践することで最後の基礎固めができます。</p>
 									<small>動画190分、テキスト72ページが付属</small>
 								</div>
@@ -202,63 +213,63 @@
 					</div>
 				</div>
 			</section>
-				<section class="p50">
-			<div class="container mw960">
-				<h2 class="text-center mt-4 mb-4">動画に付属の充実のテキスト教材</h2>
-				<div class="border p-3 mt-3">
-					<div class="row">
-						<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
-							<h2 class="text-center">５分でざっくり企業価値評価編をご紹介</h3>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-12 col-sm-12 offset-md-2 col-md-8 offset-lg-2 col-lg-8 offset-xl-2 col-xl-8 mt-3 mb-3">
-								<div class="mt-3 mb-5">
-									<h3 class="text-center p-4">テキストのサンプルを御覧ください</h3>
-									<div class="embed-responsive embed-responsive-4by3 mb-5">
-										<iframe class="embed-responsive-item" src="https://www.slideshare.net/slideshow/embed_code/key/BFVvA2n3XtHg1M" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-									</div>
-									<p>各動画には動画教材の内容に沿ったテキストが準備されています。テキストは内容の説明とともにケーススタディの問題、回答をそれぞれ用意しています。</p>
-								</div>
-								<div class="mt-3 mb-5">
-									<img src="https://basefile.akamaized.net/shares/5ab88d3199ddb/text1.png" class="img-fluid mb-3 img-shadow border" alt="Cinque Terre">
-									<p>５分でざっくり企業価値評価編の冒頭で触れる株価に関する基本的な考え方を紹介しています。基本のキとなるような内容から企業価値を算定するプロフェッショナルための知識まで幅広く網羅されています。</p>
-								</div>
-								<div class="mt-3 mb-5">
-									<img src="https://basefile.akamaized.net/shares/5ab88d438ac74/text2.png" class="img-fluid mb-3 img-shadow border" alt="Cinque Terre">
-									<p>企業分析の考え方のベースとなる結果と原因、過去と未来のそれぞれの位置付けをわかりやすく解説しています。動画の中では因果のマトリクスと読んでいますが、フレームワーク的にモノゴトを考える癖を付けることもできる動画となっています。</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<section class="key-color p80"> 
+			<section class="p50">
 				<div class="container mw960">
-					<h2 class="text-center mb-5">「バリュエーションマトリクス」を使って本来の企業価値に対して割安になっている企業をみつけましょう</h2>
-					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/BEAd3bHUU6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<h2 class="text-center mt-4 mb-4">動画に付属の充実のテキスト教材</h2>
+					<div class="border p-3 mt-3">
+						<div class="row">
+							<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
+								<h2 class="text-center">５分でざっくり企業価値評価編をご紹介</h3>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-12 col-sm-12 offset-md-2 col-md-8 offset-lg-2 col-lg-8 offset-xl-2 col-xl-8 mt-3 mb-3">
+									<div class="mt-3 mb-5">
+										<h3 class="text-center p-4">テキストのサンプルを御覧ください</h3>
+										<div class="embed-responsive embed-responsive-4by3 mb-5">
+											<iframe class="embed-responsive-item" src="https://www.slideshare.net/slideshow/embed_code/key/BFVvA2n3XtHg1M" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+										</div>
+										<p>各動画には動画教材の内容に沿ったテキストが準備されています。テキストは内容の説明とともにケーススタディの問題、回答をそれぞれ用意しています。</p>
+									</div>
+									<div class="mt-3 mb-5">
+										<img src="https://basefile.akamaized.net/shares/5ab88d3199ddb/text1.png" class="img-fluid mb-3 img-shadow border" alt="Cinque Terre">
+										<p>５分でざっくり企業価値評価編の冒頭で触れる株価に関する基本的な考え方を紹介しています。基本のキとなるような内容から企業価値を算定するプロフェッショナルための知識まで幅広く網羅されています。</p>
+									</div>
+									<div class="mt-3 mb-5">
+										<img src="https://basefile.akamaized.net/shares/5ab88d438ac74/text2.png" class="img-fluid mb-3 img-shadow border" alt="Cinque Terre">
+										<p>企業分析の考え方のベースとなる結果と原因、過去と未来のそれぞれの位置付けをわかりやすく解説しています。動画の中では因果のマトリクスと読んでいますが、フレームワーク的にモノゴトを考える癖を付けることもできる動画となっています。</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<!-- <img src="https://basefile.akamaized.net/shares/5ab4703232416/imac.png" class="img-fluid mb-5" alt="Cinque Terre"> -->
-					<h2 class="text-center mb-5 mt-5">バリュエーションマトリクスの特徴</h2>
-					<div class="row">
-						<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-5">
-							<h3 class="text-left">１.財務スクリーニングでおすすめ銘柄がわかります</h3>
-							<img src="https://basefile.akamaized.net/shares/5ab89f2cae9ce/slide2.png" class="img-fluid img-shadow" alt="">
+				</section>
+
+				<section class="bg-gray p80"> 
+					<div class="container mw960">
+						<h2 class="text-center mb-5">「バリュエーションマトリクス」を使って本来の企業価値に対して割安になっている企業をみつけましょう</h2>
+						<img src="https://basefile.akamaized.net/shares/5ab4703232416/imac.png" class="img-fluid mb-5" alt="Cinque Terre">
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/BEAd3bHUU6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
-						<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-5">
-							<h3 class="text-left">２.どの企業がお買い得か？ざっくり企業価値評価ができます</h3>
-							<img src="https://basefile.akamaized.net/shares/5ab89f21d0933/slide1.png" class="img-fluid img-shadow" alt="">
+						<h2 class="text-center mb-5 mt-5">バリュエーションマトリクスの特徴</h2>
+						<div class="row">
+							<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-5">
+								<h3 class="text-left">１.財務スクリーニングでおすすめ銘柄がわかります</h3>
+								<img src="https://basefile.akamaized.net/shares/5ab89f2cae9ce/slide2.png" class="img-fluid img-shadow" alt="">
+							</div>
+							<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-5">
+								<h3 class="text-left">２.どの企業がお買い得か？ざっくり企業価値評価ができます</h3>
+								<img src="https://basefile.akamaized.net/shares/5ab89f21d0933/slide1.png" class="img-fluid img-shadow" alt="">
+							</div>
+							<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+								<h3 class="text-left">３.読むのが難しい決算書が直感的にわかります</h3>
+								<img src="https://basefile.akamaized.net/shares/5ab89f347894c/slide3.png" class="img-fluid img-shadow" alt="">
+							</div>
 						</div>
-						<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-							<h3 class="text-left">３.読むのが難しい決算書が直感的にわかります</h3>
-							<img src="https://basefile.akamaized.net/shares/5ab89f347894c/slide3.png" class="img-fluid img-shadow" alt="">
-						</div>
+						<div class="mt-3"><a href="https://credit.j-payment.co.jp/gateway/payform.aspx?aid=116405&iid=valuationmatrix_2980" class="btn btn-success btn-block text-center p-3">バリュエーションマトリクスを購入する</a></div>
 					</div>
-													<a href="https://credit.j-payment.co.jp/gateway/payform.aspx?aid=116405&iid=valuationmatrix_2980" class="btn btn-success btn-block text-center p-3">バリュエーションマトリクスを購入する</a>
-				</div>
-			</section>
+				</section>
 <!-- 		<section>
 			<div class="jumbotron">
 				<h1 class="text-center font-weight-bold mb-4 product-name"><span class="fs16">10時間でゼロからわかる</span><br>企業分析力養成講座</h1> 
@@ -273,73 +284,73 @@
 				</div>
 			</div>
 		</section> -->
-			<section class="p50">
-				<div class="container mw960">
-					<h2 class="text-center">お客様の声</h2>
-					<div class="row">
-						<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
-							<div class="mb-3">
-								<h3 class="text-center key-color mb-0 p-3">旅武者スタッフ・えいこ</h3>
-								<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-									<p>株式投資とは何かすら知らない私でしたが、実際の企業の財務表を見ながら解説してくださってわかりやすかったです。 有価証券報告書等、見方がわからず見る気もしない状態でしたが、数字の意味やその会社の状態がわかるようになりました。</p>
-								</div>
+		<section class="p50">
+			<div class="container mw960">
+				<h2 class="text-center">お客様の声</h2>
+				<div class="row">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
+						<div class="mb-3">
+							<h3 class="text-center key-color mb-0 p-3">旅武者スタッフ・えいこ</h3>
+							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
+								<p>株式投資とは何かすら知らない私でしたが、実際の企業の財務表を見ながら解説してくださってわかりやすかったです。 有価証券報告書等、見方がわからず見る気もしない状態でしたが、数字の意味やその会社の状態がわかるようになりました。</p>
 							</div>
-							<div class="mb-3">
-								<h3 class="text-center key-color mb-0 p-3">40代・プログラマー（男性）</h3>
-								<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-									<p>「よい会社」「真の成長」についての考え方、今まであまり考えてなかったことで有意義でした。特に会社の成長をシナリオごとに考えて価値がどのように上がるのかという視点はいままでになかったものでした。</p>
-								</div>
+						</div>
+						<div class="mb-3">
+							<h3 class="text-center key-color mb-0 p-3">40代・プログラマー（男性）</h3>
+							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
+								<p>「よい会社」「真の成長」についての考え方、今まであまり考えてなかったことで有意義でした。特に会社の成長をシナリオごとに考えて価値がどのように上がるのかという視点はいままでになかったものでした。</p>
 							</div>
-							<div class="mb-3">
-								<h3 class="text-center key-color mb-0 p-3">30代・会社員（男性）</h3>
-								<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-									<p>説明や資料などの用意、配慮が極めてハイクオリティだったと思う。ケーススタディが毎回ついているのでやり込めば必ず力がつくと思う。</p>
-								</div>
+						</div>
+						<div class="mb-3">
+							<h3 class="text-center key-color mb-0 p-3">30代・会社員（男性）</h3>
+							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
+								<p>説明や資料などの用意、配慮が極めてハイクオリティだったと思う。ケーススタディが毎回ついているのでやり込めば必ず力がつくと思う。</p>
 							</div>
-							<div class="mb-3">
-								<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
-								<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-									<p>本で勉強したことがあるがもやもやしていた部分がスッキリした。もっと勉強をしたいと思うきっかけになったし基礎を抑えているため今後も役に立つと思える内容でした。</p>
-								</div>
+						</div>
+						<div class="mb-3">
+							<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
+							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
+								<p>本で勉強したことがあるがもやもやしていた部分がスッキリした。もっと勉強をしたいと思うきっかけになったし基礎を抑えているため今後も役に立つと思える内容でした。</p>
 							</div>
-							<div class="mb-3">
-								<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
-								<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-									<p>内容の充実度と学べたことを考えると代金が安すぎると思えるほど満足した。初学者からでも理解が出来る内容でしたし、中級者以上の人も体系的に理解が出来ると思うのでオススメです。もっとはやく知っていればよかった。</p>
-								</div>
+						</div>
+						<div class="mb-3">
+							<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
+							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
+								<p>内容の充実度と学べたことを考えると代金が安すぎると思えるほど満足した。初学者からでも理解が出来る内容でしたし、中級者以上の人も体系的に理解が出来ると思うのでオススメです。もっとはやく知っていればよかった。</p>
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
-			<section class="p50">
-				<h2 class="text-center">よくある質問</h2>
-				<div class="container mw960">
-					<div class="row">
-						<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
-							<div class="mb-3">
-								<h3 class="border key-color p-3">Q.買うとなにができるのでしょうか？</h3>
-								<p class="p-2 font-weight-bold">A.ご購入時にご記入いただいたメールアドレスに動画教材の視聴ができる環境をご連絡するため、URLとログインIDを送付いたします。URL先は分析ツール「バリュエーションマトリクス」になります。動画教材はバリエーションマトリクス内で視聴が可能となり、そちらで動画教材・ツールがご利用可能となります。</p>
-							</div>
-							<div class="mb-3">
-								<h3 class="border key-color p-3">Q.どのような視聴環境で見ることができるのでしょうか</h3>
-								<p class="p-2 font-weight-bold">A.本商品の動画教材はバリエーションマトリクス内での視聴が可能です。お使いのパソコンやスマートフォンでも視聴が可能です。テキストもパソコン上で閲覧が可能となっております。視聴環境にご希望が有りましたら別途ご対応することも可能です。</p>
-							</div>           
+			</div>
+		</section>
+		<section class="p50">
+			<h2 class="text-center">よくある質問</h2>
+			<div class="container mw960">
+				<div class="row">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
+						<div class="mb-3">
+							<h3 class="border key-color p-3">Q.買うとなにができるのでしょうか？</h3>
+							<p class="p-2 font-weight-bold">A.ご購入時にご記入いただいたメールアドレスに動画教材の視聴ができる環境をご連絡するため、URLとログインIDを送付いたします。URL先は分析ツール「バリュエーションマトリクス」になります。動画教材はバリエーションマトリクス内で視聴が可能となり、そちらで動画教材・ツールがご利用可能となります。</p>
 						</div>
+						<div class="mb-3">
+							<h3 class="border key-color p-3">Q.どのような視聴環境で見ることができるのでしょうか</h3>
+							<p class="p-2 font-weight-bold">A.本商品の動画教材はバリエーションマトリクス内での視聴が可能です。お使いのパソコンやスマートフォンでも視聴が可能です。テキストもパソコン上で閲覧が可能となっております。視聴環境にご希望が有りましたら別途ご対応することも可能です。</p>
+						</div>           
 					</div>
 				</div>
-			</section>
-		</div>
-		<section id="cv" class="mb-0">
-			<div class="jumbotron key-color mb-0">
-				<h1 class="text-center font-weight-bold mb-4 product-name"><span class="fs16">ゼロからわかる</span><br>企業分析力養成講座</h1> 
-				<!-- <h2 class="text-center font-weight-bold mb-4 product-name">動画650分&分析ツールセット</h2> -->
+			</div>
+		</section>
+	</div>
+	<section id="cv" class="mb-0">
+		<div class="jumbotron key-color mb-0">
+			<h1 class="text-center font-weight-bold mb-4 product-name"><span class="fs16">ゼロからわかる</span><br>企業分析力養成講座</h1> 
+			<!-- <h2 class="text-center font-weight-bold mb-4 product-name">動画650分&分析ツールセット</h2> -->
 <!-- 				<div class="row">
 					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
 						<h1 class="text-center font-weight-bold pt-2">¥ 39,800<small class="zeikomi">（税込）</small></h1>
 					</div>
 				</div> -->
-<div class="offset-md-4 col-md-4">
+				<div class="offset-md-4 col-md-4">
 					<a href="#konyu" class="btn btn-success btn-block btn-buy p-3">動画を選んで購入する</a>
 				</div>
 			</div>
