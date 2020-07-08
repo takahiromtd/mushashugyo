@@ -290,33 +290,27 @@
 				<div class="row">
 					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
 						<div class="mb-3">
-							<h3 class="text-center key-color mb-0 p-3">旅武者スタッフ・えいこ</h3>
+							<h3 class="text-center key-color mb-0 p-3">2018年武者修行参加、らっきー</h3>
 							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-								<p>株式投資とは何かすら知らない私でしたが、実際の企業の財務表を見ながら解説してくださってわかりやすかったです。 有価証券報告書等、見方がわからず見る気もしない状態でしたが、数字の意味やその会社の状態がわかるようになりました。</p>
+								<p>ROICは聞いたことあるものの実践で使えていなかったため、面白かった。重要なこととして、投資期間によってみる指標が変わる・要点を因数分解していく・投資はサポートのためにあるということをまなんだ。</p>
 							</div>
 						</div>
 						<div class="mb-3">
-							<h3 class="text-center key-color mb-0 p-3">40代・プログラマー（男性）</h3>
+							<h3 class="text-center key-color mb-0 p-3">2020年武者修行参加、ソーヤ</h3>
 							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-								<p>「よい会社」「真の成長」についての考え方、今まであまり考えてなかったことで有意義でした。特に会社の成長をシナリオごとに考えて価値がどのように上がるのかという視点はいままでになかったものでした。</p>
+								<p>投資に対するイメージがギャンブル的なものからプラスなイメージへと大きく変わった。</p>
 							</div>
 						</div>
 						<div class="mb-3">
-							<h3 class="text-center key-color mb-0 p-3">30代・会社員（男性）</h3>
+							<h3 class="text-center key-color mb-0 p-3">2019年武者修行参加、てら</h3>
 							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-								<p>説明や資料などの用意、配慮が極めてハイクオリティだったと思う。ケーススタディが毎回ついているのでやり込めば必ず力がつくと思う。</p>
+								<p>企業価値を概算で見積もる方法について非常に面白く感じました。教材動画もYouTubeで公開されていることから倍速再生ができて、復習時に便利です。</p>
 							</div>
 						</div>
 						<div class="mb-3">
-							<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
+							<h3 class="text-center key-color mb-0 p-3">2019年武者修行参加、かず</h3>
 							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-								<p>本で勉強したことがあるがもやもやしていた部分がスッキリした。もっと勉強をしたいと思うきっかけになったし基礎を抑えているため今後も役に立つと思える内容でした。</p>
-							</div>
-						</div>
-						<div class="mb-3">
-							<h3 class="text-center key-color mb-0 p-3">30代・会社員（女性）</h3>
-							<div class="border border-top-0 pt-3 pb-3 pl-3 pr-3 mb-5">
-								<p>内容の充実度と学べたことを考えると代金が安すぎると思えるほど満足した。初学者からでも理解が出来る内容でしたし、中級者以上の人も体系的に理解が出来ると思うのでオススメです。もっとはやく知っていればよかった。</p>
+								<p>株式についてほぼ素人だったが、財務表などの見方や考え方を知れてより経済活動を多角的に見る助けになった。特に政治家に選挙で一票投じるのと同様、株式投資は、経済の面から日本をよりよくするための手段だという考え方に納得、共感してより学ぶモチベーションが上がった。</p>
 							</div>
 						</div>
 					</div>
@@ -330,7 +324,7 @@
 					<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mt-3 mb-3">
 						<div class="mb-3">
 							<h3 class="border key-color p-3">Q.買うとなにができるのでしょうか？</h3>
-							<p class="p-2 font-weight-bold">A.ご購入時にご記入いただいたメールアドレスに動画教材の視聴ができる環境をご連絡するため、URLとログインIDを送付いたします。URL先は分析ツール「バリュエーションマトリクス」になります。動画教材はバリエーションマトリクス内で視聴が可能となり、そちらで動画教材・ツールがご利用可能となります。</p>
+							<p class="p-2 font-weight-bold">A.ご購入時にご記入いただいたメールアドレスに動画教材のYoutubeのURLとテキストPDFデータが格納されているGoogleドライブURLをお渡しいたします。</p>
 						</div>
 						<div class="mb-3">
 							<h3 class="border key-color p-3">Q.どのような視聴環境で見ることができるのでしょうか</h3>

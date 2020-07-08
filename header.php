@@ -68,7 +68,7 @@
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="about/facilitator">ファシリテーター</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column">参加学生の声</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents">保護者の方へ</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">修了生向け</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">学びのプラットフォーム</a></li>
 						</ul>
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>
@@ -85,7 +85,7 @@
 				<div class="d-none d-md-block container">
 					<ul class="nav justify-content">
 						<li class="nav-item header-menu-list-sub">
-							<a class="nav-link text-dark pl-0" href="https://prtimes.jp/main/html/rd/p/000000012.000017332.html" target="_blank">News：2020年4月開学のNSGグループ開志専門職大学のオリジナルプログラムに導入決定！</a>
+							<a class="nav-link text-dark pl-0" href="https://mushashugyo.jp/news/2020062901/" target="_blank">News：2020年夏期の武者修行プログラム開催方針（6月29日更新）</a>
 						</li>
 					</ul>
 				</div>
