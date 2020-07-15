@@ -1,69 +1,59 @@
 <?php get_header(); ?>
-<div id="carouselExampleIndicators" class="carousel slide d-none d-md-block" data-ride="carousel" data-interval="3000">
-	<ol class="carousel-indicators">
+<div id="carouselExampleIndicators" class="carousel slide d-none d-md-block" data-ride="carousel">
+<!-- 	<ol class="carousel-indicators">
 		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-	</ol>
-	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
-		<div class="carousel-inner">
-			<div class="carousel-item active">
-				<a href="/abount"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide00.png" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide03.png" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/innovation.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide02.png" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide01.png" alt=""></a>
+	</ol> -->
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			
+			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top1.png" alt="海外ビジネス武者修行プログラム">
+			<div class="carousel-caption">
+				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">今が変わる 将来が変わる<br>きみの変態を支援。</h2>
+				<div class="carousel-btn-area mx-auto d-block">
+					<a href="/sche" class="btn btn-danger btn-lg btn-block text-white carousel-btn btn-round btn-shadow">説明会に参加する</a>
+				</div>
 			</div>
 		</div>
-		<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		</a>
-		<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		</a>
-	</div>
-</div>
-<div id="carouselExampleIndicators" class="carousel slide d-md-none d-xs-block d-md-none" data-ride="carousel" data-interval="3000">
-	<ol class="carousel-indicators">
-		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-		<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-	</ol>
-	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
-		<div class="carousel-inner">
-			<div class="carousel-item active">
-				<a href="/abount"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.png" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.jpg" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/innovation.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp02.jpg" alt=""></a>
-			</div>
-			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.jpg" alt=""></a>
+		<div class="carousel-item">
+			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top2.jpg" alt="海外ビジネス武者修行プログラム">
+			<div class="carousel-caption">
+				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">ビジネスに挑戦したい。</h2>
+				<div class="carousel-btn-area mx-auto d-block">
+					<a href="/sche" class="btn btn-danger btn-lg btn-block text-white carousel-btn btn-round btn-shadow">説明会に参加する</a>
+				</div>
 			</div>
 		</div>
-		<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		</a>
-		<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-			<span class="carousel-control-next-icon" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		</a>
+		<div class="carousel-item">
+			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top3.jpg" alt="海外ビジネス武者修行プログラム">
+			<div class="carousel-caption">
+				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">海外で働きたい。</h2>
+				<div class="carousel-btn-area mx-auto d-block">
+					<a href="/sche" class="btn btn-danger btn-lg btn-block text-white carousel-btn btn-round btn-shadow">説明会に参加する</a>
+				</div>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<img class="d-none d-md-block w-100" src="<?php bloginfo('template_directory'); ?>/img/front-top4.jpg" alt="海外ビジネス武者修行プログラム">
+			<div class="carousel-caption">
+				<h2 class="d-none d-md-block carouesl-caption-text tk-ro-nikkatsu-sei-kai-std">自分を変えたい。</h2>
+				<div class="carousel-btn-area mx-auto d-block">
+					<a href="/sche" class="btn btn-danger btn-lg btn-block text-white carousel-btn btn-round btn-shadow">説明会に参加する</a>
+				</div>
+			</div>
+		</div>
 	</div>
+<!-- 	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a> -->
 </div>
-
+<img class="d-md-none d-xs-block d-md-none w-100" src="<?php bloginfo('template_directory'); ?>/img/top-img.jpg" alt="海外ビジネス武者修行プログラム">
 <div class="bg-light">
 	<div class="d-md-none d-xs-block d-md-none">
 		<p class="top-news-sub"><a class="nav-link text-dark" href="https://toyokeizai.net/articles/-/259354" target="_blank">News：東洋経済オンラインで紹介されました</a></p>
@@ -98,37 +88,6 @@
 </section>
 <section>
 	<div class="container pb-5">
-		<h3 class="text-center text-danger font-weight-bold">【新設！今年は、選べる武者修行】</h3>
-		<div class="row">
-			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<div class="front-copy mw960 mx-auto mb-5">
-					<p class="font-weight-bold">将来、リモートワークで働きたい。地方創生に関わりたい。多拠点で活動したい。地方の関係人口になりたい。海外に出てグローバルに働きたい。</p>
-					<p class="font-weight-bold">多様な未来を創るきっかけになって欲しいという願いとニーズに合わせて、武者修行プログラムも深化しました。</p>
-					<p class="font-weight-bold">何処で経験するか？ではなく、どんな未来を描きたいか。そのために変態し、自走式エンジン®を搭載し、自らの足で人生の一歩を踏み出そう。</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-				<div class="img_wrap">
-					<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.png" alt=""　width="400px"></a>
-				</div>
-			</div>
-			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-				<div class="img_wrap">
-					<a href="https://mushashugyo.jp/program/innovation.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp02.png" alt=""　width="400px"></a>
-				</div>
-			</div>
-			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
-				<div class="img_wrap">
-					<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.png" alt=""　width="400px"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- <section>
-	<div class="container pb-5">
 		<h3 class="text-center text-danger font-weight-bold">人生を変える ベトナムでの2週間<br>海外ビジネス武者修行プログラム®</h3>
 		<div class="mw980 mx-auto d-block">
 			<div class="embed-responsive embed-responsive-16by9 mt-5 mb-5">
@@ -150,7 +109,7 @@
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 <section class="bg-light">
 	<div class="container">
 		<h3 class="text-center text-danger font-weight-bold">ビジネス・キャリア教育で著名な方が推薦</h3>
@@ -238,6 +197,90 @@
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
 				<h3 class="text-center text-danger font-weight-bold">2020年夏の開催スケジュール</h3>
 				<img class="img-fluid mx-auto d-block kiji mb-5" src="<?php bloginfo('template_directory'); ?>/img/2020summer_list.jpg" alt="2020年夏スケジュール">
+				<!-- <table class="table table-bordered mx-auto bg-white">
+					<tbody>
+						<tr>
+							<td>夏1ターム</td>
+							<td>8/1(土)</td>
+							<td>8/15(土)</td>
+						</tr>
+						<tr>
+							<td>夏2ターム</td>
+							<td>8/2(日)</td>
+							<td>8/16(日)</td>
+						</tr>
+						<tr>
+							<td>夏3ターム</td>
+							<td>8/3(月)</td>
+							<td>8/17(月)</td>
+						</tr>
+						<tr>
+							<td>夏4ターム</td>
+							<td>8/4(火)</td>
+							<td>8/18(火)</td>
+						</tr>
+						<tr>
+							<td>夏5ターム</td>
+							<td>8/15(土)</td>
+							<td>8/29(土)</td>
+						</tr>
+						<tr>
+							<td>夏6ターム</td>
+							<td>8/16(日)</td>
+							<td>8/30(日)</td>
+						</tr>
+						<tr>
+							<td>夏7ターム</td>
+							<td>8/17(月)</td>
+							<td>8/31(月)</td>
+						</tr>
+						<tr>
+							<td>夏8ターム</td>
+							<td>8/18(火)</td>
+							<td>9/1(火)</td>
+						</tr>
+						<tr>
+							<td>夏9ターム</td>
+							<td>8/29(土)</td>
+							<td>9/12(土)</td>
+						</tr>
+						<tr>
+							<td>夏10ターム</td>
+							<td>8/30(日)</td>
+							<td>9/13(日)</td>
+						</tr>
+						<tr>
+							<td>夏11ターム</td>
+							<td>8/31(月)</td>
+							<td>9/14(月)</td>
+						</tr>
+						<tr>
+							<td>夏12ターム</td>
+							<td>9/1(火)</td>
+							<td>9/15(火)</td>
+						</tr>
+						<tr>
+							<td>夏13ターム</td>
+							<td>9/12(土)</td>
+							<td>9/26(土)</td>
+						</tr>
+						<tr>
+							<td>夏14ターム</td>
+							<td>9/13(日)</td>
+							<td>9/27(日)</td>
+						</tr>
+						<tr>
+							<td>夏15ターム</td>
+							<td>9/14(月)</td>
+							<td>9/28(月)</td>
+						</tr>
+						<tr>
+							<td>夏16ターム</td>
+							<td>9/15(火)</td>
+							<td>9/29(火)</td>
+						</tr>
+					</tbody>
+				</table> -->
 			</div>
 		</div>
 	</div>
@@ -316,19 +359,34 @@
 				<div class="">
 					<a href="/news" class="btn btn-dark btn-lg btn-block text-white btn-common btn-shadow mx-auto d-block">一覧を見る</a>
 				</div>
+				<!-- <a href="https://mushashugyo.jp/news/20200126/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme2.jpg" alt="危機対応情報"></a> -->
+				<!-- <a href="https://mushashugyo.jp/news/20200131/"><img class="img-fluid mx-auto d-block m-5" src="<?php bloginfo('template_directory'); ?>/img/eme1.jpg" alt="危機対応情報"></a> -->
 			</div>
-		</div>
-		<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
-			<div class="bg-white top-info">
-				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
-				<!-- SnapWidget -->
-				<div class="w-100">
-					<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+<!-- 				<div class="bg-white top-info">
+					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="far fa-file-alt"></i>&nbsp;各種資料ダウンロード</h4>
+					<div class="pt-4">
+						<ul class="top-news-list">
+							<li class="mb-5 pb-4"><span class="time">2019.12.5<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019pamphlet.pdf" target="_blank">（保護者様向け）海外ビジネス武者修行プログラムパンフレット&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+							<li class="mb-5 pb-4"><span class="time">2019.9.30<span class="text-red">&nbsp;更新</span></span><br><span class=""><a href="https://mushashugyo.jp/2019leaflet.pdf" target="_blank">海外ビジネス武者修行プログラムリーフレット（A4）&nbsp;<i class="fas fa-external-link-alt"></i></a></span></li>
+						</ul>
+					</div>
+				</div> -->
+			</div>
+			<div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+				<div class="bg-white top-info">
+					<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
+					<!-- SnapWidget -->
+<!-- 					<div id="insta" class="mb-5">
+						<script src="https://snapwidget.com/js/snapwidget.js"></script>
+						<iframe src="https://snapwidget.com/embed/702833" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+					</div> -->
+					<div class="w-100">
+						<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 </section>
 
