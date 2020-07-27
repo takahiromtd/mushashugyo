@@ -85,7 +85,7 @@
 				<div class="d-none d-md-block container">
 					<ul class="nav justify-content">
 						<li class="nav-item header-menu-list-sub">
-							<a class="nav-link text-dark pl-0" href="https://mushashugyo.jp/news/2020062901/" target="_blank">News：2020年夏期の武者修行プログラム開催方針（6月29日更新）</a>
+							<a class="nav-link text-dark pl-0" href="https://mushashugyo.jp/news/20200725/" target="_blank">News：2020年夏期の武者修行プログラム開催方針（7月25日更新）</a>
 						</li>
 					</ul>
 				</div>

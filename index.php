@@ -9,7 +9,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<a href="/abount"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide00.png" alt=""></a>
+				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide00.png" alt=""></a>
 			</div>
 			<div class="carousel-item">
 				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide03.png" alt=""></a>
@@ -41,7 +41,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<a href="/abount"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.png" alt=""></a>
+				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.png" alt=""></a>
 			</div>
 			<div class="carousel-item">
 				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.jpg" alt=""></a>
@@ -267,9 +267,9 @@
 		<h3 class="text-center text-danger font-weight-bold">武者修行プログラムのカギ<br>人財育成のプロがきみの変態を支援。</h3>
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
-				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-suguru.jpg" width="200" alt="村上卓">
-				<h4 class="text-center font-weight-bold">村上 卓</h4>
-				<div class="pl-2 pr-2"><p>村上卓事務所 代表 / 組織・人財開発コンサルタント<br>米国CTI認定プロコーチ (CPCC)<br>遺伝子研究者からリクルートグループにキャリアチェンジ。その後、人財開発コンサルティング会社にて、数多くの大手企業の人財育成、組織力強化に従事。若くして独立し、大手企業のマネジャーなどを対象とした多くのワークショップの場をリードしている。</p></div>
+				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-naokazu.jpg" width="200" alt="原田 直和">
+				<h4 class="text-center font-weight-bold">原田 直和</h4>
+				<div class="pl-2 pr-2"><p>CRR Global Japan合同会社 共同代表<br>Heart of the Earth 代表取締役<br>外資系製薬会社にて営業の現場から戦略企画、組織開発に従事。2014年に「誰もが自由にイキイキと生きれる持続可能な社会・会社のチーム創り」をテーマに起業。現在はシステムコーチとして企業の経営者や様々な組織・団体にコーチング・ワークショップを提供する側で、CRR Global Japanにてプロのコーチ・ファシリテーターを育成に携わっている。</p></div>
 			</div>
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<img class="img-fluid mx-auto d-block kiji" src="<?php bloginfo('template_directory'); ?>/img/front-maeda2.jpg" width="200" alt="前田恵一">
