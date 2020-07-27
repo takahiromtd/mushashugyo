@@ -127,6 +127,19 @@
 		</div>
 	</div>
 </section>
+<section>
+	<div class="container">
+		<div class="border bg-light p-5">
+			<h4 class="text-center font-weight-bold">【詳細資料のダウンロードが可能です】</h4>
+			<div class="mw720 mx-auto d-block mb-3">
+				<p class="d-none d-md-block">学びたい領域や開催地似特化した、３種類からプログラムを選択できます。プログラムの全体像から各開催地の紹介をご覧いただけます。</p>
+			</div>
+			<div class="mw480 mx-auto d-block">
+				<a href="http://mushashugyo.jp/pdf/Mushashugyo_2020Summer_leaflet.pdf" target="_blank" class="btn btn-danger btn-lg btn-block btn-round text-white btn-entry btn-shadow">詳細資料をダウンロードする</a>
+			</div>
+		</div>
+	</div>
+</section>
 <!-- <section>
 	<div class="container pb-5">
 		<h3 class="text-center text-danger font-weight-bold">人生を変える ベトナムでの2週間<br>海外ビジネス武者修行プログラム®</h3>
