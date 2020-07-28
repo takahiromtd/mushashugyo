@@ -249,8 +249,81 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h3 class="text-center text-danger font-weight-bold">2020年夏の開催スケジュール</h3>
-				<img class="img-fluid mx-auto d-block kiji mb-5" src="<?php bloginfo('template_directory'); ?>/img/2020summer_list.jpg" alt="2020年夏スケジュール">
+				<h3 class="text-center text-danger font-weight-bold">2020年夏の各ターム日程・開催地</h3>
+				<table class="table table-bordered mx-auto bg-white">
+					<tbody>
+						<tr class="bg-danger">
+							<th class="text-center text-white" colspan="4">オンライン開催</th>
+						</tr>
+						<tr>
+							<th class="text-center w-30">ターム名</th>
+							<th class="text-center w-10">開始日</th>
+							<th class="text-center w-10">終了日</th>
+							<th class="text-center w-50">テーマ</th>
+						</tr>
+						<tr>
+							<td>オンライン<br>1ターム</td>
+							<td>8/10(月)</td>
+							<td>8/22(土)</td>
+							<td>英語学校または英語学習コースの新サービス開発</td>
+						</tr>
+						<tr>
+							<td>オンライン<br>2ターム</td>
+							<td>9/17(木)</td>
+							<td>9/29(火)</td>
+							<td>英語学校または英語学習コースの新サービス開発</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="table table-bordered mx-auto bg-white">
+					<tbody>
+						<tr class="bg-danger">
+							<th class="text-center text-white" colspan="4">国内開催</th>
+						</tr>
+						<tr>
+							<th class="text-center w-30">ターム名</th>
+							<th class="text-center w-10">開始日</th>
+							<th class="text-center w-10">終了日</th>
+							<th class="text-center w-50">テーマ</th>
+						</tr>
+						<tr>
+							<td>山中湖<br>ターム</td>
+							<td>8/18(火)</td>
+							<td>9/1(火)</td>
+							<td class="text-left">山中湖村 新商品開発&マルシェ開催 PJ</td>
+						</tr>
+						<tr>
+							<td>佐渡ターム</td>
+							<td>8/26(水)</td>
+							<td>9/9(水)</td>
+							<td class="text-left">発掘！佐渡の観光資源。<br>佐渡金山の世界遺産登録を後押しできるような、観光サービスを企画〜実現させよう</td>
+						</tr>
+						<tr>
+							<td>那智勝浦ターム</td>
+							<td>9/1(火)</td>
+							<td>9/15(火)</td>
+							<td class="text-left">生マグロ日本一、世界遺産の町で武者修行！</td>
+						</tr>
+						<tr>
+							<td>出石ターム</td>
+							<td>9/1(火)</td>
+							<td>9/15(火)</td>
+							<td class="text-left">①マイ・オンリーワン　バッグ　プロジェクト(仮称)<br>②	オーガニック野菜（果物）を使ったメニュー＆販路開拓</td>
+						</tr>
+						<tr>
+							<td>美唄ターム</td>
+							<td>9/11(金)</td>
+							<td>9/25(金)</td>
+							<td class="text-left">美唄のブラックダイアモンズ（野球チーム）の新商品 or<br>球場サービス開発（仮）&ゴルフ場</td>
+						</tr>
+						<tr>
+							<td>南房総ターム</td>
+							<td>9/15(金)</td>
+							<td>9/29(金)</td>
+							<td class="text-left">自然＊ビジネス*ワーケーション=「イノビレ」リアルなソーシャル プラットフォームのスタートアップ。日本では「ここだけ」をゼロから創る</td>
+						</tr>
+					</tbody>
+				</table>
 			</div>
 		</div>
 	</div>
