@@ -12,13 +12,13 @@
 				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide00.png" alt=""></a>
 			</div>
 			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide03.png" alt=""></a>
+				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide01.png" alt=""></a>
 			</div>
 			<div class="carousel-item">
 				<a href="https://mushashugyo.jp/program/innovation.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide02.png" alt=""></a>
 			</div>
 			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide01.png" alt=""></a>
+				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008_slide03.png" alt=""></a>
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -111,7 +111,7 @@
 		<div class="row">
 			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
 				<div class="img_wrap">
-					<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.png" alt=""　width="400px"></a>
+					<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.png" alt=""　width="400px"></a>
 				</div>
 			</div>
 			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
@@ -121,9 +121,20 @@
 			</div>
 			<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
 				<div class="img_wrap">
-					<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.png" alt=""　width="400px"></a>
+					<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.png" alt=""　width="400px"></a>
 				</div>
 			</div>
+		</div>
+	</div>
+</section>
+<section>
+	<div class="container pb-5">
+		<h3 class="text-center text-danger font-weight-bold">人生を変える15日間<br>武者修行プログラム®紹介動画</h3>
+		<div class="mw980 mx-auto d-block">
+			<div class="embed-responsive embed-responsive-16by9 mt-5 mb-5">
+				<iframe class="embed-responsive-item" allow="fullscreen" src="https://www.youtube.com/embed/hV7hDsC3VrQ"></iframe>
+			</div>
+			<small>* 本動画はベトナムで開催されている武者修行の様子ですが、同様の内容を日本国内６ヵ所で開催中です</small>
 		</div>
 	</div>
 </section>
@@ -142,12 +153,7 @@
 </section>
 <!-- <section>
 	<div class="container pb-5">
-		<h3 class="text-center text-danger font-weight-bold">人生を変える ベトナムでの2週間<br>海外ビジネス武者修行プログラム®</h3>
-		<div class="mw980 mx-auto d-block">
-			<div class="embed-responsive embed-responsive-16by9 mt-5 mb-5">
-				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hV7hDsC3VrQ"></iframe>
-			</div>
-		</div>
+
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 				<h4 class="text-center font-weight-bold">単なるビジネス体験や<br>ビジコンではない</h4>
@@ -249,78 +255,150 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-				<h3 class="text-center text-danger font-weight-bold">2020年夏の各ターム日程・開催地</h3>
+				<h3 class="text-center text-danger font-weight-bold">2020年年末・2021年春の各ターム日程・開催地</h3>
 				<table class="table table-bordered mx-auto bg-white">
 					<tbody>
 						<tr class="bg-danger">
-							<th class="text-center text-white" colspan="4">オンライン開催</th>
+							<th class="text-center text-white" colspan="4">2020年・年末ターム</th>
 						</tr>
 						<tr>
 							<th class="text-center w-30">ターム名</th>
 							<th class="text-center w-10">開始日</th>
 							<th class="text-center w-10">終了日</th>
-							<th class="text-center w-50">テーマ</th>
+							<th class="text-center w-50">テーマ（仮）</th>
 						</tr>
 						<tr>
-							<td>オンライン<br>1ターム</td>
-							<td>8/10(月)</td>
-							<td>8/22(土)</td>
+							<td>オンライン<br>ターム</td>
+							<td>12/26(土)</td>
+							<td>1/7(木)</td>
 							<td>英語学校または英語学習コースの新サービス開発</td>
 						</tr>
 						<tr>
-							<td>オンライン<br>2ターム</td>
-							<td>9/17(木)</td>
-							<td>9/29(火)</td>
-							<td>英語学校または英語学習コースの新サービス開発</td>
+							<td>国内<br>沖縄ターム</td>
+							<td>12/20(日)</td>
+							<td>1/3(日)</td>
+							<td>沖縄の人々に日本全国選りすぐりの日本酒を普及</td>
+						</tr>
+						<tr>
+							<td>国内<br>那智勝浦ターム</td>
+							<td>12/23(水)</td>
+							<td>1/6(水)</td>
+							<td>生まぐろ日本一、世界遺産の町で武者修行！</td>
 						</tr>
 					</tbody>
 				</table>
 				<table class="table table-bordered mx-auto bg-white">
 					<tbody>
 						<tr class="bg-danger">
-							<th class="text-center text-white" colspan="4">国内開催</th>
+							<th class="text-center text-white" colspan="4">2021年・春ターム</th>
 						</tr>
 						<tr>
 							<th class="text-center w-30">ターム名</th>
 							<th class="text-center w-10">開始日</th>
 							<th class="text-center w-10">終了日</th>
-							<th class="text-center w-50">テーマ</th>
+							<th class="text-center w-50">テーマ（仮）</th>
 						</tr>
 						<tr>
-							<td>山中湖<br>ターム</td>
-							<td>8/18(火)</td>
-							<td>9/1(火)</td>
-							<td class="text-left">山中湖村 新商品開発&マルシェ開催 PJ</td>
+							<td>海外<br>1ターム</td>
+							<td>2/9(火)</td>
+							<td>3/9(火)</td>
+							<td class="text-left">英語学校または英語学習コースの新サービス開発<br><small>海外（ベトナム・ホイアン）での開催は11月初旬に開催判断を行う予定です</small></td>
 						</tr>
 						<tr>
-							<td>佐渡ターム</td>
-							<td>8/26(水)</td>
-							<td>9/9(水)</td>
-							<td class="text-left">発掘！佐渡の観光資源。<br>佐渡金山の世界遺産登録を後押しできるような、観光サービスを企画〜実現させよう</td>
+							<td>海外<br>2ターム</td>
+							<td>3/3(水)</td>
+							<td>3/31(水)</td>
+							<td class="text-left">英語学校または英語学習コースの新サービス開発<br><small>海外（ベトナム・ホイアン）での開催は11月初旬に開催判断を行う予定です</small></td>
 						</tr>
 						<tr>
-							<td>那智勝浦ターム</td>
-							<td>9/1(火)</td>
-							<td>9/15(火)</td>
-							<td class="text-left">生マグロ日本一、世界遺産の町で武者修行！</td>
+							<td>オンライン<br>1ターム</td>
+							<td>2/14(日)</td>
+							<td>2/26(金)</td>
+							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
 						</tr>
 						<tr>
-							<td>出石ターム</td>
-							<td>9/1(火)</td>
-							<td>9/15(火)</td>
-							<td class="text-left">①マイ・オンリーワン　バッグ　プロジェクト(仮称)<br>②	オーガニック野菜（果物）を使ったメニュー＆販路開拓</td>
+							<td>オンライン<br>2ターム</td>
+							<td>2/28(日)</td>
+							<td>3/12(金)</td>
+							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
 						</tr>
 						<tr>
-							<td>美唄ターム</td>
-							<td>9/11(金)</td>
-							<td>9/25(金)</td>
-							<td class="text-left">美唄のブラックダイアモンズ（野球チーム）の新商品 or<br>球場サービス開発（仮）&ゴルフ場</td>
+							<td>オンライン<br>3ターム</td>
+							<td>3/14(日)</td>
+							<td>3/26(金)</td>
+							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
 						</tr>
 						<tr>
-							<td>南房総ターム</td>
-							<td>9/15(金)</td>
-							<td>9/29(金)</td>
-							<td class="text-left">自然＊ビジネス*ワーケーション=「イノビレ」リアルなソーシャル プラットフォームのスタートアップ。日本では「ここだけ」をゼロから創る</td>
+							<td>国内<br>1ターム</td>
+							<td>2/10(水)</td>
+							<td>2/24(水)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>2ターム</td>
+							<td>2/11(木)</td>
+							<td>2/25(木)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>3ターム</td>
+							<td>2/12(金)</td>
+							<td>2/26(金)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>4ターム</td>
+							<td>2/16(火)</td>
+							<td>3/2(火)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>5ターム</td>
+							<td>2/17(水)</td>
+							<td>3/3(水)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>6ターム</td>
+							<td>2/24(水)</td>
+							<td>3/10(水)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>7ターム</td>
+							<td>3/2(火)</td>
+							<td>3/16(火)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>8ターム</td>
+							<td>3/3(水)</td>
+							<td>3/17(水)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>9ターム</td>
+							<td>3/9(火)</td>
+							<td>3/23(火)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>10ターム</td>
+							<td>3/10(水)</td>
+							<td>3/24(水)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>11ターム</td>
+							<td>3/16(火)</td>
+							<td>3/30(火)</td>
+							<td class="text-left">（開催場所未定）</td>
+						</tr>
+						<tr>
+							<td>国内<br>12ターム</td>
+							<td>3/17(水)</td>
+							<td>3/31(水)</td>
+							<td class="text-left">（開催場所未定）</td>
 						</tr>
 					</tbody>
 				</table>

@@ -13,6 +13,7 @@
 								<li><a alt="#" href="/about/hoian">開催地ベトナム</a></li>
 								<li><a alt="#" href="about/facilitator">ファシリテーター</a></li>
 								<li><a alt="#" href="/column">参加学生の声</a></li>
+								<li><a alt="#" href="/friends-campaign">お友達紹介キャンペーン</a></li>
 								<li><a alt="#" href="/qas">よくある質問</a></li>
 							</ul>
 						</div>

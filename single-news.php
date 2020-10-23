@@ -31,7 +31,7 @@ Template Name: single.php
 					<?php $args = array(
 			        'numberposts' => 10,//表示（取得）する記事の数
 			        'post_type' => 'news',   //投稿タイプの指定
-			        'orderby' => 'rand',
+			        // 'orderby' => 'rand',
 			    );
 					$customPosts = get_posts($args);
 					if($customPosts) : foreach($customPosts as $post) : setup_postdata( $post ); ?>
