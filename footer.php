@@ -52,50 +52,6 @@
 <?php if ( is_home() || is_front_page() ) : ?>
 <?php endif; ?>
 <script type="text/javascript">
-	jQuery(function($){
-		$(document).ready(function(){
-			$('.slick-slide-img').slick({
-				accessibility: true,
-				autoplay: true,
-				autoplaySpeed: 2000,
-				infinite: true,
-				speed: 3000,
-				slidesToShow: 3,
-				slidesToScroll: 3,
-				centerMode: true,
-				centerPadding: '0px',
-				variableWidth: true,
-				initialSlide: 2,
-				responsive: [
-				{
-					breakpoint: 1024,
-					settings: {
-						slidesToShow: 3,
-						slidesToScroll: 3,
-						infinite: true,
-						dots: true
-					}
-				},
-				{
-					breakpoint: 600,
-					settings: {
-						slidesToShow: 2,
-						slidesToScroll: 2
-					}
-				},
-				{
-					breakpoint: 480,
-					settings: {
-						slidesToShow: 2,
-						slidesToScroll: 2
-					}
-				}
-				]
-			});
-		});
-	});
-</script>
-<script type="text/javascript">
 	$(function() {
 		var footerBtn = $('#sp-footer');
 		footerBtn.hide();

@@ -41,7 +41,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.png" alt=""></a>
+				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.jpg" alt=""></a>
 			</div>
 			<div class="carousel-item">
 				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.jpg" alt=""></a>
