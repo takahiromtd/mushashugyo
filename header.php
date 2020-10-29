@@ -67,7 +67,7 @@
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="about/facilitator">ファシリテーター</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column">参加学生の声</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents">保護者の方へ</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">学びのプラットフォーム</a></li>
+<!-- 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">学びのプラットフォーム</a></li> -->
 						</ul>
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>

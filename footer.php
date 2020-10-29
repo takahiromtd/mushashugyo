@@ -35,7 +35,6 @@
 					<p class="text-white">株式会社旅武者</p>
 					<p class="text-white">〒169-0051 東京都 新宿区西 早稲田 1-22-3<br>早稲田大学ｲﾝｷｭﾍﾞｰｼｮﾝｾﾝﾀｰ内</p>
 					<p class="text-white">〒113-0034 東京都 文京区 湯島 2-33-11 岡田ビル2F</p>
-					<!-- <p class="text-white">Phone:03-6803-0927(営業時間：10:00-19:00)</p> -->
 					<p class="text-white">Mail: info@tabimusha.com</p>
 					<p class="text-white"><small>＊2018年4月〜2019年3月期間、斡旋を除く受入れ人数実績（当社調べ）</small></p>
 				</div>
