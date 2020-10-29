@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 <div class="jumbotron">
 	<h2 class="text-center font-weight-bold">無料オンライン説明会</h2>
-	<p class="text-center">自宅にいながらプログラムの説明を受けられます。お気軽に無料説明会をご利用ください。</p>
+	<p class="text-center">自宅にいながらプログラムの説明会に参加できます。</p>
 </div>
 <div class="container pt-0 pb-5">
 	<!-- <p>2019年夏のプログラム開催決定！説明会随時更新中（定員があります。お早めの説明会ご参加を推奨します）</p> -->
