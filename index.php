@@ -75,7 +75,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p class="font-weight-bold text-center text-dark">プログラム導入教育機関</p>
-					<p class="text-center"><small>国内教育機関のカリキュラムにプログラムを導入・採択</small></p>
+					<p class="text-center"><small>国内教育機関のカリキュラムに導入・採択</small></p>
 					<ul class="d-flex justify-content-around">
 						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_rikkyo_gray.png" alt=""></li>
 						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_shimane_gray.png" alt=""></li>
@@ -85,7 +85,7 @@
 				</div>
 				<div class="col-md-6">
 					<p class="font-weight-bold text-center text-dark">受賞歴・メディア掲載</p>
-					<p class="text-center"><small>優れた人材育成・組織開発プログラムとして紹介</small></p>
+					<p class="text-center"><small>優れた人材育成・組織開発プログラムとして掲載</small></p>
 					<ul class="d-flex justify-content-around">
 						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_wakeup_gray.png" alt="" class="text-center"></p></li>
 						<li class=""><img class="sponsor mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/sq_toyokeizai_gray.png" alt="" class="text-center"></li>
@@ -297,18 +297,6 @@
 							<th class="text-center w-10">開始日</th>
 							<th class="text-center w-10">終了日</th>
 							<th class="text-center w-50">テーマ（仮）</th>
-						</tr>
-						<tr>
-							<td>海外<br>1ターム</td>
-							<td>2/9(火)</td>
-							<td>3/9(火)</td>
-							<td class="text-left">英語学校または英語学習コースの新サービス開発<br><small>海外（ベトナム・ホイアン）での開催は11月初旬に開催判断を行う予定です</small></td>
-						</tr>
-						<tr>
-							<td>海外<br>2ターム</td>
-							<td>3/3(水)</td>
-							<td>3/31(水)</td>
-							<td class="text-left">英語学校または英語学習コースの新サービス開発<br><small>海外（ベトナム・ホイアン）での開催は11月初旬に開催判断を行う予定です</small></td>
 						</tr>
 						<tr>
 							<td>オンライン<br>1ターム</td>
