@@ -326,7 +326,7 @@
 							<td>国内2<br>宮崎・新富町ターム</td>
 							<td>2/11(木)</td>
 							<td>2/25(木)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内3<br>香川・琴平ターム</td>
@@ -344,7 +344,7 @@
 							<td>国内5<br>和歌山・那智勝浦ターム</td>
 							<td>2/17(水)</td>
 							<td>3/3(水)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内6<br>千葉・南房総ターム</td>
@@ -362,25 +362,25 @@
 							<td>国内8<br>和歌山・那智勝浦ターム</td>
 							<td>3/3(水)</td>
 							<td>3/17(水)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内9<br>香川・高松ターム</td>
 							<td>3/9(火)</td>
 							<td>3/23(火)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内10<br>鳥取・米子ターム</td>
 							<td>3/10(水)</td>
 							<td>3/24(水)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内11<br>静岡・熱海ターム</td>
 							<td>3/16(火)</td>
 							<td>3/30(火)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
 							<td>国内12<br>千葉・南房総ターム</td>
