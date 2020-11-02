@@ -271,7 +271,7 @@
 							<td>オンライン<br>ターム</td>
 							<td>12/26(土)</td>
 							<td>1/7(木)</td>
-							<td>英語学校または英語学習コースの新サービス開発</td>
+							<td>英語学校またはオンラインボランティアの新サービス開発</td>
 						</tr>
 						<tr>
 							<td>国内<br>沖縄ターム</td>
@@ -302,88 +302,88 @@
 							<td>オンライン<br>1ターム</td>
 							<td>2/14(日)</td>
 							<td>2/26(金)</td>
-							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
+							<td class="text-left">英語学校またはオンラインボランティアの新サービス開発</td>
 						</tr>
 						<tr>
 							<td>オンライン<br>2ターム</td>
 							<td>2/28(日)</td>
 							<td>3/12(金)</td>
-							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
+							<td class="text-left">英語学校またはオンラインボランティアの新サービス開発</td>
 						</tr>
 						<tr>
 							<td>オンライン<br>3ターム</td>
 							<td>3/14(日)</td>
 							<td>3/26(金)</td>
-							<td class="text-left">英語学校または英語学習コースの新サービス開発</td>
+							<td class="text-left">英語学校またはオンラインボランティアの新サービス開発</td>
 						</tr>
 						<tr>
-							<td>国内<br>1ターム</td>
+							<td>国内1<br>沖縄ターム</td>
 							<td>2/10(水)</td>
 							<td>2/24(水)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">琉球文化と日本酒のマリアージュ！〜日本酒からはじまるイノベーション文化の醸成〜</td>
 						</tr>
 						<tr>
-							<td>国内<br>2ターム</td>
+							<td>国内2<br>ターム</td>
 							<td>2/11(木)</td>
 							<td>2/25(木)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>3ターム</td>
+							<td>国内3<br>琴平ターム</td>
 							<td>2/12(金)</td>
 							<td>2/26(金)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">（テーマ未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>4ターム</td>
+							<td>国4<br>ターム</td>
 							<td>2/16(火)</td>
 							<td>3/2(火)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>5ターム</td>
+							<td>国5<br>ターム</td>
 							<td>2/17(水)</td>
 							<td>3/3(水)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>6ターム</td>
+							<td>国内6<br>南房総ターム</td>
 							<td>2/24(水)</td>
 							<td>3/10(水)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">エコ＊ビジネス*ワーケーション=「イノビレ」 〜0→1を生み出す地方創生基地を0から創る〜</td>
 						</tr>
 						<tr>
-							<td>国内<br>7ターム</td>
+							<td>国内7<br>沖縄ターム</td>
 							<td>3/2(火)</td>
 							<td>3/16(火)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">琉球文化と日本酒のマリアージュ！〜日本酒からはじまるイノベーション文化の醸成〜</td>
 						</tr>
 						<tr>
-							<td>国内<br>8ターム</td>
+							<td>国内8<br>ターム</td>
 							<td>3/3(水)</td>
 							<td>3/17(水)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>9ターム</td>
+							<td>国内9<br>ターム</td>
 							<td>3/9(火)</td>
 							<td>3/23(火)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>10ターム</td>
+							<td>国内10<br>ターム</td>
 							<td>3/10(水)</td>
 							<td>3/24(水)</td>
 							<td class="text-left">（開催場所未定）</td>
 						</tr>
 						<tr>
-							<td>国内<br>11ターム</td>
+							<td>国内11<br>南房総ターム</td>
 							<td>3/16(火)</td>
 							<td>3/30(火)</td>
-							<td class="text-left">（開催場所未定）</td>
+							<td class="text-left">エコ＊ビジネス*ワーケーション=「イノビレ」 〜0→1を生み出す地方創生基地を0から創る〜</td>
 						</tr>
 						<tr>
-							<td>国内<br>12ターム</td>
+							<td>国内12<br>ターム</td>
 							<td>3/17(水)</td>
 							<td>3/31(水)</td>
 							<td class="text-left">（開催場所未定）</td>
