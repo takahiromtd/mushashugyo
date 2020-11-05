@@ -38,7 +38,7 @@ Template Name: page-about.php
 			<div class="row">
 				<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
 					<div class="img_wrap">
-						<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.png" alt=""　width="400px"></a>
+						<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.png" alt=""　width="400px"></a>
 					</div>
 				</div>
 				<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
@@ -48,7 +48,7 @@ Template Name: page-about.php
 				</div>
 				<div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
 					<div class="img_wrap">
-						<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.png" alt=""　width="400px"></a>
+						<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.png" alt=""　width="400px"></a>
 					</div>
 				</div>
 			</div>
