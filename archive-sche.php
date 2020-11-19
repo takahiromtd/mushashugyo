@@ -60,13 +60,13 @@
 							</div>
 							<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-5">
 								<img class="mx-auto d-block" src="<?php bloginfo('template_directory'); ?>/img/zoom.jpg" alt="" width="360px">
-								<h4 class="font-weight-bold text-center">3.説明会へのご説明</h4>
+								<h4 class="font-weight-bold text-center">3.説明会へのご参加</h4>
 								<div class="mx-auto"><p>パソコンからの参加を推奨しております。Wi-Fiの接続ができる場所、周りが静かな場所からご参加ください。</p></div>
 							</div>
 						</div>
 						<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-5">
 							<div id="entry">
-								<section class="mw720 mx-auto d-block p-5">
+								<section class="mw720 mx-auto d-block">
 									<?php echo do_shortcode('[ninja_form id=278]'); ?>
 								</section>
 							</div>

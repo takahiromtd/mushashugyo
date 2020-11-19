@@ -317,3 +317,16 @@ footer li a:hover{
 	text-decoration: none;
 	background: #999;
 }
+
+/*= = = = =*/
+#single-kiji article p{
+	margin-bottom: 40px!important;
+}
+#single-kiji figure {
+	float: left;
+	margin: 0px 15px 15px 0;
+}
+#single-kiji figure img {
+	max-width: 100%;
+}
+/*= = = = =*/
