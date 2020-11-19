@@ -329,4 +329,33 @@ footer li a:hover{
 #single-kiji figure img {
 	max-width: 100%;
 }
+.clear{
+	clear: both;  /* floatによる回り込みを解除する*/
+}
+
+#single-kiji h2 {
+	position: relative;
+	padding: 1rem 2rem calc(1rem + 10px);
+	background: #fff100;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+
+#single-kiji h2:before {
+	position: absolute;
+	top: -7px;
+	left: -7px;
+	width: 100%;
+	height: 100%;
+	content: '';
+	border: 4px solid #000;
+}
+
+#single-kiji　h3{
+	
+}
+#single-kiji　h4{
+	
+}
+
 /*= = = = =*/
