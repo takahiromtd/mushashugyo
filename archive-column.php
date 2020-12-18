@@ -12,6 +12,8 @@ Template Name: archive-column.php
 	<!-- <h3 class="text-center">カテゴリ的な導線？最初に読んでもらいたい体験談</h3> -->
 	<script>$(function(){$('#mix-container').mixItUp();});</script>
 	<div class="controls mt-5 mb-5">
+		<a class="btn btn-light btn-round filter active column-filter" href='/blog/'>コラム</a>
+		<a class="btn btn-light btn-round filter active column-filter" data-filter="all">参加学生の声</a>
 		<a class="btn btn-light btn-round filter active column-filter" data-filter="all">全て</a>
 		<a class="btn btn-light btn-round filter column-filter" data-filter=".oversea">海外</a>
 		<a class="btn btn-light btn-round filter column-filter" data-filter=".local">地方</a>

@@ -21,4 +21,5 @@ Template Name: single-blog.php
 		</div>
 	</div>
 </section>
+<?php get_template_part('footer-entry'); ?>
 <?php get_footer(); ?>

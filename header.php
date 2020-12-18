@@ -61,20 +61,20 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav mr-auto">
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about">武者修行とは？</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/ex">得られること</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian">店舗情報</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="about/facilitator">ファシリテーター</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column">参加学生の声</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents">保護者の方へ</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/">武者修行とは？</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/ex/">得られること</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian/">開催地</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/facilitator/">講師陣</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column/">参加学生の声</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents/">保護者の方へ</a></li>
 <!-- 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">学びのプラットフォーム</a></li> -->
 						</ul>
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>
 						<?php if(strstr($url,'sche')): ?>
-							<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche">無料オンライン説明会&emsp;<i class="fas fa-chevron-right"></i></a>
+							<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche/">無料オンライン説明会&emsp;<i class="fas fa-chevron-right"></i></a>
 							<?php else: ?>
-								<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche">無料オンライン説明会&emsp;<i class="fas fa-chevron-right"></i></a>
+								<a class="box-shadow text-center header-sq-btn btn btn-danger btn-round btn-block text-white my-2 my-sm-0 header-entry-sp" href="/sche/">無料オンライン説明会&emsp;<i class="fas fa-chevron-right"></i></a>
 							<?php endif; ?>
 						</div>
 					</div>

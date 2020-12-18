@@ -8,24 +8,24 @@
 						<div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 pb-5">
 							<ul>
 								<li><a alt="#" href="/">トップ</a></li>
-								<li><a alt="#" href="/about">武者修行とは？</a></li>
-								<li><a alt="#" href="/sche">説明会会場・日程</a></li>
-								<li><a alt="#" href="/about/hoian">開催地ベトナム</a></li>
-								<li><a alt="#" href="about/facilitator">ファシリテーター</a></li>
-								<li><a alt="#" href="/column">参加学生の声</a></li>
-								<li><a alt="#" href="/friends-campaign">お友達紹介キャンペーン</a></li>
-								<li><a alt="#" href="/qas">よくある質問</a></li>
+								<li><a alt="#" href="/about/">武者修行とは？</a></li>
+								<li><a alt="#" href="/sche/">説明会会場・日程</a></li>
+								<li><a alt="#" href="/about/hoian/">開催地ベトナム</a></li>
+								<li><a alt="#" href="/about/facilitator/">ファシリテーター</a></li>
+								<li><a alt="#" href="/column/">参加学生の声</a></li>
+								<li><a alt="#" href="/friends-campaign/">お友達紹介キャンペーン</a></li>
+								<li><a alt="#" href="/qas/">よくある質問</a></li>
 							</ul>
 						</div>
 						<div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 pb-5">
 							<ul>
-								<li><a alt="#" href="/forparents">保護者の方へ</a></li>
+								<li><a alt="#" href="/forparents/">保護者の方へ</a></li>
 								<!-- <li><a alt="#" href="/forgroups">教育機関・企業の方へ</a></li> -->
-								<!-- <li><a alt="#" href="/company/story">武者修行にかける思い</a></li> -->
-								<li><a alt="#" href="/news">ニュース メディア情報</a></li>
-								<li><a alt="#" href="/company">運営会社情報</a></li>
-								<li><a alt="#" href="/contact">お問い合わせ</a></li>
-								<li><a alt="/privacy" href="/privacy">プライバシーポリシー</a></li>
+								<li><a alt="#" href="/news/">ニュース メディア情報</a></li>
+								<li><a alt="#" href="/blog/">コラム</a></li>
+								<li><a alt="#" href="/company/">運営会社情報</a></li>
+								<li><a alt="#" href="/contact/">お問い合わせ</a></li>
+								<li><a alt="#" href="/privacy/">プライバシーポリシー</a></li>
 							</ul>
 						</div>
 					</div>
