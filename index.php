@@ -38,19 +38,19 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
 	</ol>
-	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
+	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="500">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
 				<a href="/about"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp00.jpg" alt=""></a>
 			</div>
 			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.jpg" alt=""></a>
+				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp01.jpg" alt=""></a>
 			</div>
 			<div class="carousel-item">
 				<a href="https://mushashugyo.jp/program/innovation.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp02.jpg" alt=""></a>
 			</div>
 			<div class="carousel-item">
-				<a href="https://mushashugyo.jp/program/online.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.jpg" alt=""></a>
+				<a href="https://mushashugyo.jp/program/overseas.html"><img class="d-block w-100" src="<?php bloginfo('template_directory'); ?>/img/202008rp03.jpg" alt=""></a>
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -268,13 +268,13 @@
 							<th class="text-center w-50">テーマ（仮）</th>
 						</tr>
 						<tr>
-							<td>国内<br>沖縄ターム</td>
+							<td>沖縄・那覇ターム</td>
 							<td>12/20(日)</td>
 							<td>1/3(日)</td>
 							<td>沖縄の人々に日本全国選りすぐりの日本酒を普及</td>
 						</tr>
 						<tr>
-							<td>国内<br>那智勝浦ターム</td>
+							<td>和歌山・那智勝浦ターム</td>
 							<td>12/23(水)</td>
 							<td>1/6(水)</td>
 							<td>今までにない「新しい観光船」の総合プロデュース！紀の松島めぐり観光船を、観光客を楽しませるエンターテインメントにせよ。</td>
@@ -293,85 +293,49 @@
 							<th class="text-center w-50">テーマ（仮）</th>
 						</tr>
 						<tr>
-							<td>オンライン<br>1ターム</td>
-							<td>2/14(日)</td>
-							<td>2/26(金)</td>
-							<td class="text-left">コロナ渦だからできること、ベトナムの英語学校とオンラインボランディアサービスの発掘</td>
-						</tr>
-						<tr>
-							<td>オンライン<br>2ターム</td>
+							<td>オンラインターム</td>
 							<td>3/14(日)</td>
 							<td>3/26(金)</td>
 							<td class="text-left">コロナ渦だからできること、ベトナムの英語学校とオンラインボランディアサービスの発掘</td>
 						</tr>
 						<tr>
-							<td>国内1<br>沖縄・那覇ターム</td>
+							<td>沖縄・那覇1ターム</td>
 							<td>2/10(水)</td>
 							<td>2/24(水)</td>
-							<td class="text-left">琉球文化と日本酒のマリアージュ！<br>ー日本酒からはじまるイノベーション文化の醸成ー</td>
-						</tr>
-<!-- 						<tr>
-							<td>国内2<br>宮崎・新富町ターム</td>
-							<td>2/11(木)</td>
-							<td>2/25(木)</td>
-							<td class="text-left">美食日本一のまち新富町<br>ー季節の野菜とフルーツを使ったまちの目玉となる新商品開発ー</td>
-						</tr> -->
-						<tr>
-							<td>国内3<br>香川・琴平ターム</td>
-							<td>2/12(金)</td>
-							<td>2/26(金)</td>
-							<td class="text-left">神社・温泉・文房具<br>ー琴平文具店から地方創生の起爆剤となる商品を送り出せー</td>
+							<td class="text-left">夜の街安里に日中の憩いの場を提供する「和みカフェ」を新規オープン<br>ー 沖縄ローカルの人々がほっと一息つける場の提供 </td>
 						</tr>
 						<tr>
-							<td>国内4<br>大分・別府ターム</td>
-							<td>2/16(火)</td>
-							<td>3/2(火)</td>
-							<td class="text-left">大学生のまち別府温泉<br>ー学生起業家日本一を目指す別府温泉にあらたな活動拠点を創出ー</td>
-						</tr>
-						<tr>
-							<td>国内5<br>和歌山・那智勝浦ターム</td>
-							<td>2/17(水)</td>
-							<td>3/3(水)</td>
-							<td class="text-left">生まぐろ日本一の町！<br>ー紀伊半島の大自然に抱かれた地で、今までにない観光を創るー</td>
-						</tr>
-<!-- 						<tr>
-							<td>国内6<br>千葉・南房総ターム</td>
-							<td>2/24(水)</td>
-							<td>3/10(水)</td>
-							<td class="text-left">エコ＊ビジネス*ワーケーション=「イノビレ」 〜0→1を生み出す地方創生基地を0から創る〜</td>
-						</tr> -->
-						<tr>
-							<td>国内7<br>沖縄・那覇ターム</td>
+							<td>沖縄・那覇2ターム</td>
 							<td>3/2(火)</td>
 							<td>3/16(火)</td>
-							<td class="text-left">琉球文化と日本酒のマリアージュ！〜日本酒からはじまるイノベーション文化の醸成〜</td>
+							<td class="text-left">夜の街安里に日中の憩いの場を提供する「和みカフェ」を新規オープン<br>ー 沖縄ローカルの人々がほっと一息つける場の提供 </td>
 						</tr>
 						<tr>
-							<td>国内8<br>和歌山・那智勝浦ターム</td>
+							<td>和歌山・那智勝浦ターム</td>
 							<td>3/3(水)</td>
 							<td>3/17(水)</td>
 							<td class="text-left">生まぐろ日本一の町！<br>ー紀伊半島の大自然に抱かれた地で、今までにない観光を創るー</td>
 						</tr>
 						<tr>
-							<td>国内9<br>香川・高松ターム</td>
+							<td>香川・高松ターム</td>
 							<td>3/9(火)</td>
 							<td>3/23(火)</td>
 							<td class="text-left">シャッター商店街再生プロジェクト<br>ー世代に関係なく来たくなる街へー</td>
 						</tr>
 						<tr>
-							<td>国内10<br>鳥取・米子ターム</td>
+							<td>鳥取・米子ターム</td>
 							<td>3/10(水)</td>
 							<td>3/24(水)</td>
 							<td class="text-left">ホープタウン（複合商業施設）再生！〜求む!地元の人々を呼び込む新しいアイデア〜</td>
 						</tr>
 						<tr>
-							<td>国内11<br>静岡・下田ターム</td>
+							<td>静岡・下田ターム</td>
 							<td>3/16(火)</td>
 							<td>3/30(火)</td>
 							<td class="text-left">文明開化のまち下田<br>ーアフターコロナ文化を下田からつくるプロジェクトー</td>
 						</tr>
 						<tr>
-							<td>国内12<br>千葉・南房総ターム</td>
+							<td>千葉・南房総ターム</td>
 							<td>3/17(水)</td>
 							<td>3/31(水)</td>
 							<td class="text-left">エコ＊ビジネス*ワーケーション=「イノビレ」 〜0→1を生み出す地方創生基地を0から創る〜</td>
@@ -463,7 +427,10 @@
 				<h4 class="font-weight-bold pt-4 pb-4 pl-0"><i class="fas fa-hashtag"></i>&nbsp;武者修行をフォロー</h4>
 				<!-- SnapWidget -->
 				<div class="w-100">
-					<div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div>
+					<a href="https://twitter.com/mushashugyo_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ja" data-show-count="false">Follow @mushashugyo_</a>
+					<a class="twitter-timeline" data-lang="ja" data-width="470" data-height="600" href="https://twitter.com/mushashugyo_?ref_src=twsrc%5Etfw">Tweets by mushashugyo_</a>
+					<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					<?php /* ?><div class="fb-page" data-href="https://www.facebook.com/mushashugyo.net/" data-tabs="timeline" data-width="500" data-height="375" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mushashugyo.net/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mushashugyo.net/">海外ビジネス武者修行プログラム</a></blockquote></div><?php */ ?>
 				</div>
 			</div>
 		</div>
