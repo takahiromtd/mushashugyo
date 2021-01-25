@@ -359,3 +359,10 @@ footer li a:hover{
 }
 
 /*= = = = =*/
+
+
+#blog h2{
+	font-size: 1.6rem!important;
+	line-height: 2.8rem;
+	font-weight: bold;
+}
