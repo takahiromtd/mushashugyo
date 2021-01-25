@@ -63,11 +63,11 @@
 						<ul class="navbar-nav mr-auto">
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/">武者修行とは？</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/ex/">得られること</a></li>
-							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian/">開催地</a></li>
+							<!-- <li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/hoian/">開催地</a></li> -->
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/about/facilitator/">講師陣</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/column/">参加学生の声</a></li>
+							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp" href="/blog">コラム</a></li>
 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="/forparents/">保護者の方へ</a></li>
-<!-- 							<li class="nav-item header-menu-list mb-0"><a class="nav-link nav-link-sp nav-link-sp-bottom" href="https://next.mushashugyo.jp">学びのプラットフォーム</a></li> -->
 						</ul>
 
 						<?php $url = $_SERVER['REQUEST_URI']; ?>
