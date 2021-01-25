@@ -8,8 +8,8 @@ Template Name: archive-blog.php
 	<h2 class="text-center">コラム</h2>
 </div>
 <div class="container pt-5 pb-5">
-	<section id="blog">
-		<div class="row">
+	<section>
+		<div id="blog" class="row">
 			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 				<div class="mb-5 col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
 					<article class="blog-list">
