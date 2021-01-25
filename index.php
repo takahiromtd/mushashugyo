@@ -265,7 +265,7 @@
 							<th class="text-center w-30">ターム名</th>
 							<th class="text-center w-10">開始日</th>
 							<th class="text-center w-10">終了日</th>
-							<th class="text-center w-50">テーマ（仮）</th>
+							<th class="text-center w-50">テーマ</th>
 						</tr>
 						<tr>
 							<td>沖縄・那覇ターム</td>
@@ -290,31 +290,31 @@
 							<th class="text-center w-30">ターム名</th>
 							<th class="text-center w-10">開始日</th>
 							<th class="text-center w-10">終了日</th>
-							<th class="text-center w-50">テーマ（仮）</th>
+							<th class="text-center w-50">テーマ</th>
 						</tr>
 						<tr>
 							<td>オンラインターム</td>
 							<td>3/14(日)</td>
 							<td>3/26(金)</td>
-							<td class="text-left">コロナ渦だからできること、ベトナムの英語学校とオンラインボランディアサービスの発掘</td>
+							<td class="text-left">コロナ禍だからできること、ベトナムの英語学校とオンラインショップの新規企画</td>
 						</tr>
 						<tr>
 							<td>沖縄・那覇1ターム</td>
 							<td>2/10(水)</td>
 							<td>2/24(水)</td>
-							<td class="text-left">夜の街安里に日中の憩いの場を提供する「和みカフェ」を新規オープン<br>ー 沖縄ローカルの人々がほっと一息つける場の提供 </td>
+							<td class="text-left">「シャングリ・ラ」でカラフル＆ビューティ<br>ー 栄町市場唯一の昼カフェで、”うちなーんちゅ"の憩いの場をつくろう ー</td>
 						</tr>
 						<tr>
 							<td>沖縄・那覇2ターム</td>
 							<td>3/2(火)</td>
 							<td>3/16(火)</td>
-							<td class="text-left">夜の街安里に日中の憩いの場を提供する「和みカフェ」を新規オープン<br>ー 沖縄ローカルの人々がほっと一息つける場の提供 </td>
+							<td class="text-left">「シャングリ・ラ」でカラフル＆ビューティ<br>ー 栄町市場唯一の昼カフェで、”うちなーんちゅ"の憩いの場をつくろう ー</td>
 						</tr>
 						<tr>
 							<td>和歌山・那智勝浦ターム</td>
 							<td>3/3(水)</td>
 							<td>3/17(水)</td>
-							<td class="text-left">生まぐろ日本一の町！<br>ー紀伊半島の大自然に抱かれた地で、今までにない観光を創るー</td>
+							<td class="text-left">日本一の生まぐろと世界遺産（熊野古道）の町！<br> ー 駅前の新規飲食店で観光客向けのテイクアウトメニューを作れ！ ー</td>
 						</tr>
 						<tr>
 							<td>香川・高松ターム</td>
