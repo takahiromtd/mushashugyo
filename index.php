@@ -346,6 +346,95 @@
 		</div>
 	</div>
 </section>
+<section id="index-schedule" class="bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+				<h3 class="text-center text-danger font-weight-bold">2021年夏の各ターム日程・開催地</h3>
+				<table class="table table-bordered mx-auto bg-white">
+					<tbody>
+						<tr class="bg-danger">
+							<th class="text-center text-white" colspan="4">2021年・夏ターム</th>
+						</tr>
+						<tr>
+							<th class="text-center w-30">ターム名</th>
+							<th class="text-center w-10">開始日</th>
+							<th class="text-center w-10">終了日</th>
+							<th class="text-center w-50">テーマ</th>
+						</tr>
+
+						<tr>
+							<td>オンライン1ターム</td>
+							<td>8/17(火)</td>
+							<td>8/29(日)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>オンライン2ターム</td>
+							<td>9/1(水)</td>
+							<td>9/13(月)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内1ターム</td>
+							<td>8/4(水)</td>
+							<td>8/18(水)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内2ターム</td>
+							<td>8/10(火)</td>
+							<td>8/24(火)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内3ターム</td>
+							<td>8/11(水)</td>
+							<td>8/25(水)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内4ターム</td>
+							<td>8/17(火)</td>
+							<td>8/31(火)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内5ターム</td>
+							<td>8/18(水)</td>
+							<td>9/1(水)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内6ターム</td>
+							<td>8/24(火)</td>
+							<td>9/7(火)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内7ターム</td>
+							<td>8/25(水)</td>
+							<td>9/8(水)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内8ターム</td>
+							<td>8/31(火)</td>
+							<td>9/14(火)</td>
+							<td class="text-left">未定</td>
+						</tr>
+						<tr>
+							<td>国内9ターム</td>
+							<td>9/8(水)</td>
+							<td>9/22(水)</td>
+							<td class="text-left">未定</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</section>
 <div class="triangle"></div>
 <?php get_template_part('top-entry'); ?>
 <section class="">
